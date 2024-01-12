@@ -1328,7 +1328,7 @@ CETV1[1047*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/in
 CETV2[1024*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3[1047*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4[1047*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-卫视,备用2#genre#
+卫视备用2,#genre#
 浙江卫视[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视[1047*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 重庆卫视[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
