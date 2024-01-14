@@ -60,29 +60,7 @@
          "quickSearch": 1,
          "changeable": 1
       },
-      {
-         "key": "酷奇js",
-         "name": "🎤酷奇┃MV",
-         "type": 3,
-         "api": "./lib/drpy2.min.js",
-         "ext": "./lib/酷奇MV.js",
-         "style": {
-            "type": "rect",
-            "ratio": 1.597
-         },
-         "searchable": 0,
-         "quickSearch": 0,
-         "changeable": 0
-      },
-      {
-         "key": "Biliych",
-         "name": "🅱哔哔┃歌曲",
-         "type": 3,
-         "api": "csp_Bili",
-         "style": {
-            "type": "rect",
-            "ratio": 1.597
-         },
+     
          "searchable": 1,
          "quickSearch": 0,
          "changeable": 0,
