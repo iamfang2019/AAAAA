@@ -292,8 +292,9 @@
          "epg": "https://epg.erw.cc/api/diyp.epg",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
+   #EXT-X-DISCONTINUITY\\r*\\n*#EXTINF
       {
-         "name": "ipv6",
+         "name": "live",
          "type": 0,
          "url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.txt",
          "playerType": 1,
