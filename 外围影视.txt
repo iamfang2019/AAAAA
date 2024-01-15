@@ -1,4 +1,4 @@
-
+港澳影视,#genre#
 魅力潇湘[1920*1080],http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
 超级电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
