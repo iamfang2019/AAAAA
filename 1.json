@@ -292,7 +292,7 @@
          "epg": "https://epg.erw.cc/api/diyp.epg",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
-   #EXT-X-DISCONTINUITY\\r*\\n*#EXTINF
+   #
       {
          "name": "live",
          "type": 0,
