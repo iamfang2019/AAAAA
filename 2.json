@@ -10,6 +10,20 @@
          "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
          "ext": "影视频道$./4.txt#数字剧院$./%E6%95%B0%E5%AD%97%E5%89%A7%E9%99%A2.txt&&&https://api.caonm.net/api/mc/"
       },
+     {"key": "Czsapp","name": "📔厂长┃曦静直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy33.com/" },
+{"key": "毛驴","name": "🍓毛驴┃曦静直连","type": 3,"api": "csp_MLYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
+{"key": "河马","name": "👀河马┃曦静","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn"},
+    {"key": "忍者","name": "🐜忍者┃曦静","type": 3,"api": "csp_MYYS","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://rzys.xyz"},
+    {"key": "zxzj","name": "📗在线┃曦静直连","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzj.pro/"},
+    {"key": "迪迪","name": "🌈迪┃曦静","api": "csp_AppYsV2","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://api123.adys.app/xgapp.php/v3/"},
+{"key":"csp_SP360","name":"👒360影视(曦静)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/custom_spider0701.jar"},
+{"key": "csp_Xxys","name": "👒小熊(曦静)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0720.jar"},
+{"key":"csp_xpath___在线之家","name":"👒在线之家(曦静✨)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/zxzj.json"},
+{"key": "KanSJ_spider","name": "👒看世界(曦静)","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "","jar": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/ksj.jar"},
+{"key":"量子资源","name":"量子资源(曦静✨)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"卧龙资源","name":"卧龙资源(曦静✨)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+     
       {
          "key": "繁星",
          "name": "💥繁星┃App",
