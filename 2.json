@@ -1,5 +1,5 @@
 {
-   "spider": "https://raw.gitcode.com/frxz751113/1/blobs/350c599183aa929050323df27ca0435baeba8adf/83.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
+   "spider": "./83.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "sites": [
   
@@ -7,8 +7,8 @@
          "key": "电视",
          "name": "💻电视直播",
          "type": 3,
-         "api": "https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-         "ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/4.txt#数字剧院$https://raw.gitcode.com/frxz751113/1/raw/main/%E6%95%B0%E5%AD%97%E5%89%A7%E9%99%A2.txt&&&https://api.caonm.net/api/mc/"
+         "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+         "ext": "影视频道$./4.txt#数字剧院$./%E6%95%B0%E5%AD%97%E5%89%A7%E9%99%A2.txt&&&https://api.caonm.net/api/mc/"
       },
       {
          "key": "繁星",
@@ -264,7 +264,7 @@
       {
          "name": "live",
          "type": 0,
-         "url": "https://raw.gitcode.com/frxz751113/1/raw/main/1huifang.txt",
+         "url": "./1huifang.txt",
          "playerType": 1,
          "ua": "okhttp/3.15",
          "epg": "https://epg.erw.cc/api/diyp.epg",
@@ -273,7 +273,7 @@
       {
          "name": "ipv6",
          "type": 0,
-         "url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.txt",
+         "url": "./1.txt",
          "playerType": 1,
          "ua": "okhttp/3.15",
          "epg": "https://epg.erw.cc/api/diyp.epg",
