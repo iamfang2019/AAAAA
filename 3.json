@@ -8,8 +8,8 @@
           "playerType": 1,
           "url": "https://raw.gitcode.com/frxz751113/1/raw/main/1huifang.txt",
           //"url": "clan://XYQTVBox/live.txt",
-          //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          //"epg": "https://epg.erw.cc/api/diyp.epg",
+          "epg": "https://epg.erw.cc/api/diyp.epg",     
           //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
