@@ -8,7 +8,7 @@
          "name": "💻电视直播",
          "type": 3,
          "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-         "ext": "影视频道$./4.txt#数字剧院$./%E6%95%B0%E5%AD%97%E5%89%A7%E9%99%A2.txt#OwenTV$https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt&&&https://api.caonm.net/api/mc/"
+         "ext": "影视频道$./4.txt#数字剧院$./%E6%95%B0%E5%AD%97%E5%89%A7%E9%99%A2.txt#OKTV$./3.txt&&&https://api.caonm.net/api/mc/"
       },
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
