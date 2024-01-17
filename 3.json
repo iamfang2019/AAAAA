@@ -1,47 +1,9 @@
 {
- "spider": "https://raw.gitcode.com/frxz751113/1/blobs/79ab6d98ee638858fa625eb594648c8464c6c723/9.jar",
+ "spider": "https://raw.gitcode.com/frxz751113/1/blobs/79ab6d98ee638858fa625eb594648c8464c6c723/8.jar",
 "lives":
 [{"name": "电视直播", "type": 0,"url": "./肥猫源可时移.txt","playerType": 1}], 
 
 "sites":[
-{"key": "AliYunPan","name": "🐉云盘登录💰签到","type": 3,"api": "csp_AliYunPan","searchable": 0,"filterable": 0,"ext": "ded5947e840242e88fd3a932a3e24ded"},
- {"key": "csp_XBPQ_6V",  "name": "🐉藏金阁4K体验版",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,"jar": "jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",  "ext":"./lib/6v.json"},
-
-{
-            "key": "索尼",
-            "name": "🐉藏金阁专线1",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": ["动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "国产剧",
-            "欧美剧",
-            "韩剧",
-            "日剧",
-            "港剧",
-            "台剧",
-	     "泰剧",
-	     "记录片",
-            "海外剧",
-            "大陆综艺",
-	    "日韩综艺",
-	    "港台综艺",
-	    "欧美综艺",
-	     "足球",
-	    "影视解说",
-            "国产动漫"
-          ]
-        },
-
 
 {
       "key": "AppYs_南瓜",
@@ -139,66 +101,7 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-
-
-
-
-
-
-
-{
-      "key": "csp_MYYS",
-      "name": "🐉藏金阁专线5",
-      "type": 3,
-      "api": "csp_MYYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-"jar": "./jar/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
-      "ext": "http://rzys.xyz"
-    },
-
- {
-      "key": "csp_Bttwoo",
-      "name": "🐉藏金阁专线6",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "./jar/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416"
-    },
-
- {
-      "key": "csp_Auete",
-      "name": "🐉藏金阁专线7",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-"jar": "./jar/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
-      "ext": "http://www.aueteys.com/"
-    },
-
-
-
-
-
-{"key":"经典电视剧","name":"🐉经典电视剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259","ext":"./xdt/经典电视剧.json"},
-{"key":"动漫合集","name":"🐉动漫合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259","ext":"./xdt/动漫合集.json"},
-{"key":"蘑菇种植","name":"🐉蘑菇种植","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "./cc.jar;md5;125712f0807f914eae788cd96348e259","ext":"./xdt/蘑菇种植.json"},
-{"key":"广场舞","name":"🐉广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259","ext":"./xdt/广场舞.json"},
-
-{"key": "戏曲", "name": "🐉戏曲", "type": 3,"api": "csp_Bili", "searchable": 0,"quickSearch": 1,"filterable": 1,"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259","ext": "./lib/哔哩戏曲.json"}
-
-
-
-
-
-
-
+    }
 ],
 
 "parses":[
