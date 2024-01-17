@@ -1,7 +1,16 @@
 {{
    "spider": "https://raw.gitcode.com/frxz751113/1/blobs/b0cb0d97b80922b82e85be96541ae152cd05c88b/8.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-
-
+ "lives": [
+      {
+         "name": "live",
+         "type": 0,
+         "url": "./%E8%82%A5%E7%8C%AB%E6%BA%90%E5%8F%AF%E6%97%B6%E7%A7%BB.txt",
+         "playerType": 1,
+         "ua": "okhttp/3.15",
+         "epg": "https://epg.erw.cc/api/diyp",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
+      }
+]
 "sites":[
 
 {
@@ -327,17 +336,6 @@
             "直 播",
             "更 新"
          ]
-      }
-   ],
-   "lives": [
-      {
-         "name": "live",
-         "type": 0,
-         "url": "./%E8%82%A5%E7%8C%AB%E6%BA%90%E5%8F%AF%E6%97%B6%E7%A7%BB.txt",
-         "playerType": 1,
-         "ua": "okhttp/3.15",
-         "epg": "https://epg.erw.cc/api/diyp",
-         "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ]
 } 
