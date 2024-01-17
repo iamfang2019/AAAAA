@@ -267,7 +267,7 @@
          "url": "./%E8%82%A5%E7%8C%AB%E6%BA%90%E5%8F%AF%E6%97%B6%E7%A7%BB.txt",
          "playerType": 1,
          "ua": "okhttp/3.15",
-         "epg": "https://raw.gitcode.com/frxz751113/1/raw/main/EPG.xml",
+         "epg": "https://raw.gitcode.com/frxz751113/1/raw/main/EPG.txt",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
    #
