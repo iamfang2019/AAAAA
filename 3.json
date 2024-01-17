@@ -1,7 +1,6 @@
 {
  "spider": "https://raw.gitcode.com/frxz751113/1/blobs/79ab6d98ee638858fa625eb594648c8464c6c723/8.jar",
-"lives":
-[{"name": "电视直播", "type": 0,"url": "./肥猫源可时移.txt","playerType": 1}], 
+
 
 "sites":[
 
@@ -338,16 +337,6 @@
          "playerType": 1,
          "ua": "okhttp/3.15",
          "epg": "https://epg.erw.cc/api/diyp",
-         "logo": "https://epg.112114.xyz/logo/{name}.png"
-      },
-   #
-      {
-         "name": "live",
-         "type": 0,
-         "url": "./1.txt",
-         "playerType": 1,
-         "ua": "okhttp/3.15",
-         "epg": "https://epg.erw.cc/api/diyp.epg",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ]
