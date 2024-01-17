@@ -21,7 +21,23 @@
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://jihulab.com/owen2000wy/owentv/-/raw/main/Alist.json"},
 {"key":"鲸落","name":"💢鲸落","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://www.tvyb03.com/","请求头":"手机","简介":"class=\"sketch content\">&&</span>","数组":"myui-vodlist__thumb&&</a>","标题":"title=\"&&\"","副标题":"pic-tag pic-tag-top\">&&</span>","图片":"data-original=\"&&\"","链接":"href=\"&&\"","搜索url":"/vod/search.html?wd={wd}&submit=","搜索数组":"myui-vodlist__thumb&&</a>","搜索标题":"title=\"&&\"","搜索副标题":"pic-tag pic-tag-top\">&&</span>","搜索图片":"http://w.g9.pub:66/f/Y1ksA/sorry.ico","搜索链接":"href=\"&&\"","搜索模式":"1","嗅探词":".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com","搜索后缀":"/vod/detail/id/","线路数组":"</a><h3&&/h3>","线路标题":"title\">&&<","播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>","播放标题":">&&<","播放列表":"<a&&/a>","分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
       
-     
+[
+       { "name": "Supprise", "url": "https://raw.fgit.cf/Supprise0901/TVBox_live/main/live.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+           { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
+               { "name": "Ray0", "url": "https://xhdwc.tk/tvlive.txt&&&http://3650000.xyz/api/360.php?cid=7"},
+                   { "name": "IPV6", "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=8"},
+                       { "name": "挺快", "url": "http://124.223.177.85:88/svip/直播挺快.txt&&&http://3650000.xyz/api/360.php?cid=8"},
+                           {"name":"俊于","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://img.xjh.me/random_img.php"},
+                               { "name": "菜妮丝", "url": "https://tvbox.cainisi.cf/TV&&&https://cdn.seovx.com/?mom=302"},
+                                   { "name": "香雅情", "url": "https://raw.fgit.cf/xyq254245/xyqonlinerule/main/live.txt&&&http://3650000.xyz/api/360.php?cid=8"},
+                                   {"name":"范明","url":"https://raw.fgit.cf/fanmingming/live/main/tv/m3u/ipv6.m3u&&&https://api.likepoems.com/img/mc"}, 
+                                   {"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"}, 
+                                   {"name":"吾爱","url":"http://52bsj.vip:98/wuailive&&&https://api.likepoems.com/img/mc"},
+                                   {"name":"月光","url":"http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0&&&http://3650000.xyz/api/360.php?cid=9"},
+                                       { "name": "太阳", "url": "http://www.weetai.cn/mtvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"
+                                           }
+                                           ]
+]     
       {
          "key": "繁星",
          "name": "💥繁星┃App",
