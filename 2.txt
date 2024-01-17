@@ -30,11 +30,16 @@ CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
+影视频道,#genre#
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 中央新影发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8?blog.ntnas.top
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
+
+
+卫视频道,#genre#
 凤凰中文,http://113.117.74.17:8081/hls/37/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 安徽卫视,http://222.223.119.21:8888/newlive/live/hls/25/live.m3u8
@@ -96,6 +101,8 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 TVB星河[1280*720],http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB亚洲武侠[1280*720],http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
+
+浙江,#genre#
 嘉定电视台[1280*720],https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
@@ -130,9 +137,7 @@ TVB亚洲武侠[1280*720],http://v2h.jdshipin.com/asia_action/asia_action.stream
 舟山新闻综合[686*360],http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 舟山嵊泗综合[720*576],http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-BRTV新闻[1280*720],http://live.funhillrm.com/5/sd/live.m3u8
-北京IPTV淘电影,http://r.jdshipin.com/OeHMu
-房山无线频道[1280*720],http://live.funhillrm.com/2/sd/live.m3u8
+湖南,#genre#
 湖南经视,http://zteres.sn.chinamobile.com:6060/000000001000/6306119848317438256/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6306119848317438256
 湖南经视[640*360],http://php.jdshipin.com:8880/iptv.php?id=hnjs
 湖南都市,http://zteres.sn.chinamobile.com:6060/000000001000/4682579636905393407/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=4682579636905393407
@@ -155,6 +160,8 @@ BRTV新闻[1280*720],http://live.funhillrm.com/5/sd/live.m3u8
 沅陵新闻综合,https://liveplay-yuanling.rednet.cn/live/YL-TV.m3u8
 湘潭新闻综合[1280*720],http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 湘潭公共频道[768*576],http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+
+广东,#genre#
 广东珠江[1280*720],http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东少儿[1280*720],http://php.jdshipin.com:8880/chudian.php?id=gdse
 GRTN文化频道[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8
@@ -189,6 +196,8 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 深圳龙岗[1280*720],https://lglivepull.sznews.com/live/2647.m3u8
 深圳众创[1280*720],https://lglivepull.sznews.com/live/2645.m3u8
 深圳东部[1280*720],https://lglivepull.sznews.com/live/2646.m3u8
+
+河南,#genre#
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
 焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
 焦作教育频道[720*576],http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
@@ -301,6 +310,7 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 偃师新闻频道[768*576],http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8?zhend
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 偃师新闻[768*576],http://wshls.live.migucloud.com/live/K7AFC7J6_C0/playlist.m3u8
+山西,#genre#
 山西经济[1280*720],http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
 山西社会与法治[1280*720],http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
 山西文体生活[1280*720],http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
@@ -333,6 +343,7 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 五寨综合[1280*720],https://stream.icelook.cn/cf2874738208c975/6727103226484622340_1607389965.m3u8?auth_key=1893456000-0-0-c8ce454296feaadfd96bc25904e2b688
 原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
+山东,#renre#
 烟台公共频道[1280*720],http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台经济科技[1280*720],http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
 烟台影视频道[1280*720],http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
@@ -357,6 +368,7 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+福建,#genre#
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 漳州一套[1280*720],http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
