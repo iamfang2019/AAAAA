@@ -380,6 +380,8 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 三明综合[1280*720],http://stream.smntv.cn/smtv1/sd/live.m3u8
 三明公共[1280*720],http://stream.smntv.cn/smtv2/sd/live.m3u8
 三明公共频道[1280*720],http://stream.smntv.cn/smtv2/sd/live.m3u8?zfud
+
+湖北,#genre#
 江夏新闻综合[768*576],http://59.175.226.142:280/gb28181/xwzh.m3u8
 武汉新闻综合[1280*720],http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活[1280*720],http://stream.appwuhan.com/3tzb/sd/live.m3u8
@@ -390,6 +392,8 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 十堰新闻[1280*720],http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 麻城综合[720*576],http://119.36.30.199:8888/mctv1.m3u8
+
+云南,#genre#
 云南都市[1280*720],http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 云南娱乐[1280*720],http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 云南少儿[1280*720],http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
@@ -410,11 +414,9 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 西双版纳综合[1280*720],http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
 丘北新闻综合[720*576],http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 文山市电视台[720*576],http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel17/playlist.m3u8
-南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
-南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
-赣州综合[1280*720],http://wb.jxgztv.com/live/gztv1.m3u8
-赣榆新闻综合[720*576],http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
-万载综合频道,http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+
+
+四川,#genre#
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 达州新闻综合,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
