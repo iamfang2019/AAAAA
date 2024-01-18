@@ -499,6 +499,9 @@
          "type": 0,
          "url": "./肥猫源可时移.txt",
          "playerType": 1
+         "ua": "okhttp/3.15",
+         "epg": "https://epg.erw.cc/api/diyp",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ],
    "ads": [
