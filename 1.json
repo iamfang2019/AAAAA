@@ -12,6 +12,50 @@
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ],
+  
+    "urls": [
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+      "name":"🌹欧歌"
+    },
+    
+    {
+      "url": "http://肥猫.live",
+      "name": "🐱肥猫"
+    }, 
+        
+   {
+      "url": "http://饭太硬.top/tv",
+      "name": "🍚饭太硬"
+    },
+    {
+      "url":"http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "name":"🚛运输车"
+    },
+    
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name":"👻南风"
+    },
+    
+    {
+      "url": "http://rihou.cc:88/荷城茶秀",
+      "name": "✈️荷城茶秀"
+    },
+    
+    {
+      "url": "https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/api.json",
+      "name":"Ⓜ️动漫专线"
+    },
+      
+    { 
+      "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
+      "name":"🐰兔小贝学习(欧歌)"
+    }
+  ]
+
+  
+  
    "sites": [
       {
          "key": "电视",
@@ -156,47 +200,6 @@
       }
    ],
   
-    "urls": [
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
-      "name":"🌹欧歌"
-    },
-    
-    {
-      "url": "http://肥猫.live",
-      "name": "🐱肥猫"
-    }, 
-        
-   {
-      "url": "http://饭太硬.top/tv",
-      "name": "🍚饭太硬"
-    },
-    {
-      "url":"http://svip.weixine.net:88/uploads/itvbox/svip.json",
-      "name":"🚛运输车"
-    },
-    
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name":"👻南风"
-    },
-    
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "✈️荷城茶秀"
-    },
-    
-    {
-      "url": "https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/api.json",
-      "name":"Ⓜ️动漫专线"
-    },
-      
-    { 
-      "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
-      "name":"🐰兔小贝学习(欧歌)"
-    }
-  ],
-
    "parses": [
       {
          "name": "聚合",
