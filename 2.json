@@ -7,7 +7,7 @@
          "url": "./1huifang.txt",
          "playerType": 1,
          "ua": "okhttp/3.15",
-         "epg": "hhttp://epg.51zmt.top:8000/api/diyp/",
+         "epg": "http://epg.51zmt.top:8000/api/diyp/",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ],
