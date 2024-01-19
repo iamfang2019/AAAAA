@@ -85,16 +85,7 @@
          "quickSearch": 1,
          "filterable": 1
       },
-      {
-         "key": "csp_Zxzj",
-         "name": "在线之家",
-         "type": 3,
-         "api": "csp_Zxzj",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://www.zxzj.pro/"
-      },
+      
       {
          "key": "csp_Yj1211",
          "name": "在线直播",
