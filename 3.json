@@ -13,6 +13,13 @@
    
    "sites": [
       {
+         "key": "直播",
+         "name": "💻电视直播",
+         "type": 3,
+         "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+         "ext": "我的直播$./IPTV/v4v6.txt#MV$./mv.txt&&&https://api.caonm.net/api/mc/"
+      },
+      {
          "key": "AppYs_南瓜",
          "name": "🐉藏金阁专线2",
          "type": 3,
