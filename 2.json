@@ -25,7 +25,7 @@
   "name": "好看影院",
   "url": "https://haokan.baidu.com/",
     "type": 3,
-       "api": "csp_AppMao",
+        "api": "csp_YQKan",
          "searchable": 1,
          "quickSearch": 1,
          "changeable": 1
