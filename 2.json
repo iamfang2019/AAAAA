@@ -20,16 +20,68 @@
          "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
          "ext": "我的直播$./IPTV/v4v6.txt&&&https://api.caonm.net/api/mc/"
       },
-     {
-       "key": "直播",
-  "name": "好看影院",
-  "url": "https://haokan.baidu.com/",
-    "type": 3,
-        "api": "csp_YQKan",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 1
-},
+        {
+               "name": "小雅",
+                     "server": "http://alist.xiaoya.pro",
+                           "search": false
+                               },
+                                   {
+                                         "name": "藏经阁影视库",
+                                               "server": "http://43.138.191.234:5678",
+                                                      "search": false
+                                                          },
+                                                              {
+                                                                    "name": "藏经阁",
+                                                                          "server": "http://43.138.191.234:5244",
+                                                                                 "search": false
+                                                                                     },
+                                                                                         {
+                                                                                               "name": "觸光",
+                                                                                                     "server": "https://pan.ichuguang.com"
+                                                                                                         },
+                                                                                                             {
+                                                                                                                   "name": "进恩哥资源仓库",
+                                                                                                                         "server": "https://jinenyy.vip"
+                                                                                                                             },
+                                                                                                                                 {
+                                                                                                                                       "name": "七米藍",
+                                                                                                                                             "server": "https://al.chirmyram.com"
+                                                                                                                                                 },
+                                                                                                                                                     {
+                                                                                                                                                           "name": "神族九帝",
+                                                                                                                                                                 "server": "https://alist.shenzjd.com"
+                                                                                                                                                                     },
+                                                                                                                                                                         {
+                                                                                                                                                                               "name": "梓澪",
+                                                                                                                                                                                     "server": "https://zi0.cc"
+                                                                                                                                                                                         },
+                                                                                                                                                                                             {
+                                                                                                                                                                                                   "name": "X影院",
+                                                                                                                                                                                                         "server": "https://alist.adone.eu.org"
+                                                                                                                                                                                                             },
+                                                                                                                                                                                                                 {
+                                                                                                                                                                                                                       "name": "瑾南",
+                                                                                                                                                                                                                             "server": "https://jn11.eu.org"
+                                                                                                                                                                                                                                 },
+                                                                                                                                                                                                                                     {
+                                                                                                                                                                                                                                           "name": "alist追番",
+                                                                                                                                                                                                                                                 "server": "https://zhuifan.link"
+                                                                                                                                                                                                                                                     },
+                                                                                                                                                                                                                                                         {
+                                                                                                                                                                                                                                                               "name": "南柯fff网盘",
+                                                                                                                                                                                                                                                                     "server": "https://alist.0031.store/"
+                                                                                                                                                                                                                                                                         },
+
+                                                                                                                                                                                                                                                                             {
+                                                                                                                                                                                                                                                                                   "name": "ECVE资源小站",
+                                                                                                                                                                                                                                                                                         "server": "https://pan.ecve.cn/"
+                                                                                                                                                                                                                                                                                             },
+                                                                                                                                                                                                                                                                                                 {
+                                                                                                                                                                                                                                                                                                       "name": "萤火虫资源站",
+                                                                                                                                                                                                                                                                                                             "server": "https://www.yhcres.top/"
+                                                                                                                                                                                                                                                                                                                 },
+
+        }
       {
          "key": "繁星",
          "name": "💥繁星┃App",
