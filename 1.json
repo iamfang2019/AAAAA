@@ -155,6 +155,48 @@
          "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       }
    ],
+  
+    "urls": [
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+      "name":"🌹欧歌"
+    },
+    
+    {
+      "url": "http://肥猫.live",
+      "name": "🐱肥猫"
+    }, 
+        
+   {
+      "url": "http://饭太硬.top/tv",
+      "name": "🍚饭太硬"
+    },
+    {
+      "url":"http://svip.weixine.net:88/uploads/itvbox/svip.json",
+      "name":"🚛运输车"
+    },
+    
+    {
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name":"👻南风"
+    },
+    
+    {
+      "url": "http://rihou.cc:88/荷城茶秀",
+      "name": "✈️荷城茶秀"
+    },
+    
+    {
+      "url": "https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/api.json",
+      "name":"Ⓜ️动漫专线"
+    },
+      
+    { 
+      "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
+      "name":"🐰兔小贝学习(欧歌)"
+    }
+  ],
+
    "parses": [
       {
          "name": "聚合",
@@ -197,48 +239,7 @@
          }
       },
      
-     {
-  "urls": [
-    {
-      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
-      "name":"🌹欧歌"
-    },
-    
-    {
-      "url": "http://肥猫.live",
-      "name": "🐱肥猫"
-    }, 
-        
-   {
-      "url": "http://饭太硬.top/tv",
-      "name": "🍚饭太硬"
-    },
-    {
-      "url":"http://svip.weixine.net:88/uploads/itvbox/svip.json",
-      "name":"🚛运输车"
-    },
-    
-    {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-      "name":"👻南风"
-    },
-    
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "✈️荷城茶秀"
-    },
-    
-    {
-      "url": "https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/api.json",
-      "name":"Ⓜ️动漫专线"
-    },
-      
-    { 
-      "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
-      "name":"🐰兔小贝学习(欧歌)"
-    }
-  ]
-},
+
      
       {
          "name": "免费分享",
