@@ -13,7 +13,9 @@
       }
    ],
   
-    "urls": [
+  
+  {
+   "urls": [
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
       "name":"🌹欧歌"
@@ -51,9 +53,8 @@
     { 
       "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
       "name":"🐰兔小贝学习(欧歌)"
-    }
-  ],
-
+    }]
+  }
   
   
    "sites": [
