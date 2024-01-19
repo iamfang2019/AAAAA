@@ -5,6 +5,7 @@
          "name": "live",
          "type": 0,
          "url": "./1huifang.txt",
+         "epg": "https://epg.erw.cc/api/diyp
          "playerType": 1,
          "ua": "okhttp/3.15",
          
