@@ -14,7 +14,19 @@
    ],
   
   
-  {
+  
+  
+  
+   "sites": [
+      {
+         "key": "电视",
+         "name": "💻电视直播",
+         "type": 3,
+         "api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
+         "ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/4.txt#地方台$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt#OKTV$./IPTV/3.txt&&&https://api.caonm.net/api/mc/"
+      },
+     
+     {
    "urls": [
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
@@ -54,17 +66,9 @@
       "url": "http://tv.nxog.top/m/333.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
       "name":"🐰兔小贝学习(欧歌)"
     }]
-  }
-  
-  
-   "sites": [
-      {
-         "key": "电视",
-         "name": "💻电视直播",
-         "type": 3,
-         "api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-         "ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/4.txt#地方台$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt#OKTV$./IPTV/3.txt&&&https://api.caonm.net/api/mc/"
-      },
+  },
+     
+     
       {
          "key": "一起看 ",
          "name": "一起app",
