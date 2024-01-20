@@ -76,6 +76,25 @@
             "changeable": 1,
             "ext": "./js/A8音乐.js"
         },
+        {
+            "key": "DJ哟哟音乐网",
+            "name": "🎵DJ哟哟┃音乐",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/DJ音乐.js"
+        },
+        {
+            "key": "Jango",
+            "name": "🎵Jango┃音乐",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./js/JangoIndex.js"
+        },
+       
 
         {
             "key": "相声",
