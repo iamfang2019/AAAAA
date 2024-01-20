@@ -58,29 +58,29 @@
                                                                                                                                "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
             "ext": "./js/MTV.json"
         },
         {
             "key": "A8音乐",
             "name": "🎵A8┃MV",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
-            "changeable": 0,“可变”：0，
+            "searchable": 1,
+            "changeable": 1,“可变”：0，
             "ext": "./js/A8音乐.js"
         },
         {
             "key": "DJ哟哟音乐网",
             "name": "🎵DJ哟哟┃音乐",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 0,“可搜索”：0，
             "changeable": 0,“可变”：0，
             "ext": "./js/DJ音乐.js"
@@ -89,9 +89,9 @@
             "key": "Jango",
             "name": "🎵Jango┃音乐",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
             "ext": "./js/JangoIndex.js"
         }
    ],
