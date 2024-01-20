@@ -25,7 +25,7 @@
             "key": "TVB云播",
             "name": "👉春盈┃TVB",
             "type": 3,
-            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "./js/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
