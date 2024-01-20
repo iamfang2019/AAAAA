@@ -33,7 +33,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "./json/MTV.json"
+            "ext": "./js/MTV.json"
         },
         {
             "key": "A8音乐",
