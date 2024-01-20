@@ -21,7 +21,7 @@
          "ext": "我的直播$./IPTV/v4v6.txt&&&https://api.caonm.net/api/mc/"
       },
                                                                                                                
-         "key": "繁星",
+       { "key": "繁星",
          "name": "💥繁星┃App",
          "type": 3,
          "api": "csp_AppMao",
