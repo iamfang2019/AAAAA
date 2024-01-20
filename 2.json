@@ -58,9 +58,9 @@
                                                                                                                                "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
             "ext": "./js/MTV.json"
         },
         {
@@ -72,8 +72,8 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 1,
-            "changeable": 1,“可变”：0，
+            "searchable": 0,
+            "changeable": 0,“可变”：0，
             "ext": "./js/A8音乐.js"
         },
         {
@@ -90,8 +90,8 @@
             "name": "🎵Jango┃音乐",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
+            "searchable": 0,
+            "changeable": 0,
             "ext": "./js/JangoIndex.js"
         }
    ],
