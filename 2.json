@@ -72,6 +72,10 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "searchable": 1“可搜索”：0，
+            "changeable": 1,“可变”：0，
+            "ext": "./js/A8音乐.js"
+        },
 
         {
             "key": "相声",
