@@ -4,7 +4,7 @@
       {
          "name": "live",
          "type": 0,
-         "url": "https://raw.gitcode.com/frxz751113/1/raw/main/%E8%82%A5%E7%8C%AB%E6%BA%90%E5%8F%AF%E6%97%B6%E7%A7%BB.txt",
+         "url": "./%E8%82%A5%E7%8C%AB%E6%BA%90%E5%8F%AF%E6%97%B6%E7%A7%BB.txt",
        
          "playerType": 1,
          "ua": "okhttp/3.12.13",
