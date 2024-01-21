@@ -28,7 +28,7 @@
             "api": "./js/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
+            "ext": "./js/TVB云播.js"
         },
         { "key": "繁星",
          "name": "💥繁星┃App",
