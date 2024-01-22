@@ -5,7 +5,7 @@
       {
          "name": "ipv6",
          "type": 0,
-         "url": "./IPTV/1.txt",
+         "url": "./IPTV/备用回放源.txt",
          "playerType": 1,
          "ua": "okhttp/3.15",
          "epg": "https://epg.erw.cc/api/diyp",
