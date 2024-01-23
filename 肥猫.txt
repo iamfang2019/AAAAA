@@ -78,3 +78,17 @@ v6影视,#genre#
 中国功夫,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
 都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 欢笑剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
+
+古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
+幸福影视,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
+爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
+惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
+军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
+中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
+超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+欢乐剧场,http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
+黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
+东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
