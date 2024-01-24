@@ -3,3 +3,6 @@ https://epg.pw/xmltv.html?lang=zh-hant
 http://epg.112114.xyz/?ch={name}&date={date}
 
 https://epg.erw.cc/api/diyp
+
+m3u播放器用
+http://epg.erw.cc/e.xml.gz
