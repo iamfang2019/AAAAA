@@ -8,7 +8,7 @@
        
          "playerType": 1,
          "ua": "okhttp/3.12.13",
-         "epg":"http://epg.erw.cc/e.xml.gz",
+         "epg":"http://epg.erw.cc/e.xml",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
    ],
