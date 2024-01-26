@@ -98,17 +98,6 @@
          "filterable": 1
       },
       {
-         "key": "csp_WoGG",
-         "name": "玩偶哥哥",
-         "type": 3,
-         "api": "csp_WoGG",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "changeable": 0,
-         "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
-      },
-      {
          "key": "鲸落",
          "name": "鲸落之家",
          "type": 3,
