@@ -45,7 +45,7 @@
             "name": "🌾┃农民┃影视",
             "type": 3,
             "api": "csp_Nmys",
-            "ext": "./json/nmys.json"
+            "ext": "./js/nmys.json"
         },
         {
             "key": "Kuaikan",
@@ -62,7 +62,7 @@
             "api": "csp_Bili",
             "searchable": 1, 
             "quickSearch": 0,
-            "ext": "./json/戏曲.json"
+            "ext": "./js/戏曲.json"
         },
 
         { "key": "繁星",
