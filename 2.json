@@ -117,7 +117,7 @@
          "quickSearch": 0,
          "filterable": 1,
          "changeable": 0,
-         "ext": "./js/Alist.json"
+         "ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/Alist.json"
       },
       {
          "key": "鲸落",
