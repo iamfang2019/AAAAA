@@ -117,7 +117,7 @@
          "quickSearch": 0,
          "filterable": 1,
          "changeable": 0,
-         "ext": "https://jihulab.com/owen2000wy/owentv/-/raw/main/Alist.json"
+         "ext": "./js/Ali.json"
       },
       {
          "key": "鲸落",
