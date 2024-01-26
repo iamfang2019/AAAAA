@@ -56,7 +56,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-            "key": "csp_戏曲",
+         {
+               "key": "csp_戏曲",
             "name": "🅱┃哔哩┃戏曲",
             "type": 3,
             "api": "csp_Bili",
