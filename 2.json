@@ -41,16 +41,6 @@
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
        },
       {
-         "key": "狐狸",
-         "name": "狐狸影视",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://www.kuin.one/api.php/app/"
-      },
-      {
          "key": "鲸落",
          "name": "鲸落之家",
          "type": 3,
@@ -92,15 +82,7 @@
             "api": "csp_Nmys",
             "ext": "./js/nmys.json"
         },
-        {
-               "key": "csp_戏曲",
-            "name": "🅱┃哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/戏曲.json"
-        },
+      
 
         { "key": "繁星",
          "name": "💥繁星┃App",
@@ -121,6 +103,16 @@
          "quickSearch": 1,
          "changeable": 1
       },
+     
+       {
+               "key": "csp_戏曲",
+            "name": "🅱┃哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/戏曲.json"
+        },
       {
             "key": "MTV",
             "name": "🎧明星┃MV",
@@ -134,15 +126,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./js/MTV.json"
-        },
-        {
-            "key": "DJ哟哟音乐网",
-            "name": "🎵DJ哟哟┃音乐",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/DJ音乐.js"
         }
    ],
    "parses": [
