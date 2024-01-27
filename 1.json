@@ -36,25 +36,6 @@
          "changeable": 1
       },
       {
-         "key": "360",
-         "name": "360影视",
-         "type": 3,
-         "api": "csp_SP33",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "changeable": 0
-      },
-      {
-         "key": "csp_Czsapp",
-         "name": "厂长专线",
-         "type": 3,
-         "api": "csp_Czsapp",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1
-      },
-      {
          "key": "狐狸",
          "name": "狐狸影视",
          "type": 3,
@@ -64,46 +45,6 @@
          "filterable": 1,
          "ext": "https://www.kuin.one/api.php/app/"
       },
-      {
-         "key": "csp_DiDuan",
-         "name": "低端在线",
-         "type": 3,
-         "api": "csp_Ddrk",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 0
-      },
-      {
-         "key": "csp_Bttoo",
-         "name": "两个BT",
-         "type": 3,
-         "api": "csp_Bttwoo",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1
-      },
-      
-      {
-         "key": "csp_Yj1211",
-         "name": "在线直播",
-         "type": 3,
-         "api": "csp_Yj1211",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1
-      },
-      {
-         "key": "csp_WoGG",
-         "name": "玩偶哥哥",
-         "type": 3,
-         "api": "csp_WoGG",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "changeable": 0,
-         "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
-      },
-   
       {
          "key": "鲸落",
          "name": "鲸落之家",
