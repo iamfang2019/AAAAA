@@ -1,36 +1,26 @@
 {
-    "spider": "https://raw.gitcode.com/frxz751113/1/blobs/b0cb0d97b80922b82e85be96541ae152cd05c88b/8.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-     "lives": [
+   "spider": "https://raw.gitcode.com/frxz751113/1/blobs/b0cb0d97b80922b82e85be96541ae152cd05c88b/8.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
+   "lives": [
       {
-         "name": "电视直播",
+         "name": "live",
          "type": 0,
-         "url": "./全已验视.txt",
-         "ua": "okhttp/3.15",
-   "epg": "https://epg.erw.cc/api/diyp",
+         "url": "./1huifang.txt",
+       
+         "playerType": 1,
+         "ua": "okhttp/3.12.13",
+         "epg":"https://epg.erw.cc/api/diyp",
          "logo": "https://epg.112114.xyz/logo/{name}.png"
       }
-   ], 
-   
+   ],
    "sites": [
       {
          "key": "直播",
          "name": "💻电视直播",
          "type": 3,
          "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-         "ext": "我的直播$./IPTV/v4v6.txt#MV$./mv.txt&&&https://api.caonm.net/api/mc/"
+         "ext": "我的直播$./IPTV/v4v6.txt"
       },
-      {
-         "key": "AppYs_南瓜",
-         "name": "🐉藏金阁专线2",
-         "type": 3,
-         "playerType": 2,
-         "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-         "changeable": 0,
-         "searchable": 1,
-         "quickSearch": 1,
-         "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-      },
-      {
+     {
          "key": "量子",
          "name": "🐉藏金阁专线3",
          "type": 0,
@@ -112,7 +102,113 @@
             "港台动漫",
             "海外动漫"
          ]
-      }
+      },   
+    {
+            "key": "TVB云播",
+            "name": "👉春盈┃TVB",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/TVB云播.js"
+        },
+        {
+            "key": "鑫鑫影视",
+            "name": "🐼┃鑫鑫┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+       },
+      {
+         "key": "鲸落",
+         "name": "鲸落之家",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": {
+            "主页url": "http://www.tvyb03.com/",
+            "请求头": "手机",
+            "简介": "class=\"sketch content\">&&</span>",
+            "数组": "myui-vodlist__thumb&&</a>",
+            "标题": "title=\"&&\"",
+            "副标题": "pic-tag pic-tag-top\">&&</span>",
+            "图片": "data-original=\"&&\"",
+            "链接": "href=\"&&\"",
+            "搜索url": "/vod/search.html?wd={wd}&submit=",
+            "搜索数组": "myui-vodlist__thumb&&</a>",
+            "搜索标题": "title=\"&&\"",
+            "搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+            "搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
+            "搜索链接": "href=\"&&\"",
+            "搜索模式": "1",
+            "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+            "搜索后缀": "/vod/detail/id/",
+            "线路数组": "</a><h3&&/h3>",
+            "线路标题": "title\">&&<",
+            "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
+            "播放标题": ">&&<",
+            "播放列表": "<a&&/a>",
+            "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+         }
+      },
+        {
+            "key": "csp_Nmys",
+            "name": "🌾┃农民┃影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "ext": "./js/nmys.json"
+        },
+      
+
+        { "key": "繁星",
+         "name": "💥繁星┃App",
+         "type": 3,
+         "api": "csp_AppMao",
+         "playerType": 2,
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1,
+         "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+      },
+      {
+         "key": "一起看 ",
+         "name": "繁花似锦",
+         "type": 3,
+         "api": "csp_YQKan",
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1
+      },
+     
+       {
+               "key": "csp_戏曲",
+            "name": "🅱┃哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/戏曲.json"
+        },
+      {
+            "key": "MTV",
+            "name": "🎧明星┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                                                                                                                               "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/MTV.json"
+        }
    ],
    "parses": [
       {
