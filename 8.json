@@ -17,7 +17,7 @@
             "type":3,
             "api":"csp_Kugou",
             "searchable":1,
-            "changeable":1
+            "changeable":0
       },
       {
                "key": "csp_戏曲",
