@@ -114,26 +114,8 @@
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
        },
-    {
-            "key": "js_豆瓣热播",
-            "name": "🅱️追剧影院|T热播",
-            "type": 3,
-            "api": "./api/Api.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/js/Doubanrebo.js"
-        },
-        {
-            "key": "AliYunPan",
-            "name": "🅱️云盘登录|T签到",
-            "type": 3,
-            "api": "csp_AliYunPan",
-            "searchable": 0,
-            "filterable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
-        },
-  
+ 
+   
         {
             "key": "csp_疯狗",
             "name": "🅱️疯狗影视|T追剧",
@@ -143,16 +125,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/疯狗影视.json"
-        },
-        {
-            "key": "csp_爱看",
-            "name": "🅱️爱看影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/爱看影视.json"
         },
         {
             "key": "csp_七新",
@@ -236,16 +208,7 @@
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/热播之家.json"
         },
-        {
-            "key": "csp_七月",
-            "name": "🅱️七月影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七月影视.json"
-        },
+     
         {
             "key": "csp_日后",
             "name": "🅱️日后影视|T追剧",
@@ -297,16 +260,6 @@
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/达达龟影视.json"
         },
         {
-            "key": "csp_七年",
-            "name": "🅱️七年影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七年影视.json"
-        },
-        {
             "key": "csp_蛋蛋",
             "name": "🅱️蛋蛋影视|T追剧",
             "type": 3,
@@ -346,16 +299,7 @@
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
         },
-        {
-            "key": "csp_量子",
-            "name": "🅱️量子资源|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/量子资源网.json"
-        },
+ 
         {
             "key": "荐片",
             "name": "🅱️荐片秒播|T追剧",
@@ -363,15 +307,6 @@
             "api": "csp_RinHome",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "push_agent",
-            "name": "🅱️辅助推送|T功能",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
             "filterable": 0
         }
    ],
