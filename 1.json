@@ -305,17 +305,6 @@
             "ext": "./js/戏曲.json"
         },
         {
-            "key": "酷奇MV",
-            "name": "🎵酷奇┃MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/酷奇MV.json",
-            "jar": "https://raw.gitcode.com/frxz751113/3/raw/main/莱妮丝/jars/宿命影视.jar"
-        },
- 
-        {
             "key": "csp_XYQBiu_聚合短视频",
             "name": "📽️┃视频┃聚合",
             "type": 3,
