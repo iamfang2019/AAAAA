@@ -9,7 +9,7 @@
          "searchable": 1,
          "changeable": 0
       },
-             {
+      {
                "key": "csp_戏曲",
             "name": "🅱┃哔哩┃戏曲",
             "type": 3,
@@ -17,8 +17,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "./js/戏曲.json"
-        },
-        {
+      },
+      {
             "key": "MTV",
             "name": "🎧明星┃MV",
             "type": 3,
@@ -31,7 +31,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "./js/MTV.json"
-        },
+      },
       {
          "key": "tvbsk",
          "name": "TVB云播┃App",
