@@ -303,16 +303,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "./js/戏曲.json"
-        },
-        {
-            "key": "csp_XYQBiu_聚合短视频",
-            "name": "📽️┃视频┃聚合",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%82%A5%E7%8C%AB/json/短视频.json"
         }
    ],
 
