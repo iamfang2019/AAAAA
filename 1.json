@@ -338,8 +338,7 @@
    "芒果视频","乐视视频"],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}
    },  
    {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=",
-   "ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}
-   }
+   "ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}},
    {
          "name": "聚合搜索",
          "type": 1,
