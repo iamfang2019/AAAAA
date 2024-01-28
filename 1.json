@@ -489,8 +489,7 @@
             "filterable": 0
         }
    ],
-
-   "parses": [
+    "parses": [
         {
             "name": "超级并发",
             "type": 3,
@@ -1035,3 +1034,4 @@
         "cms.qdwght.com"
     ]
 }
+
