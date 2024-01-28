@@ -152,7 +152,8 @@
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
        },
-      {
+  
+        {
             "key": "csp_疯狗",
             "name": "🅱️疯狗影视|T追剧",
             "type": 3,
@@ -160,18 +161,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/疯狗影视.json"
+            "ext": "./json/疯狗影视.json"
         },
-        {
-            "key": "csp_爱看",
-            "name": "🅱️爱看影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/爱看影视.json"
-        },
+
         {
             "key": "csp_七新",
             "name": "🅱️七新影视|T追剧",
@@ -180,7 +172,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七新影视.json"
+            "ext": "./json/七新影视.json"
         },
         {
             "key": "csp_超前",
@@ -190,7 +182,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/超前B站.json"
+            "ext": "./json/超前B站.json"
         },
         {
             "key": "csp_午舞",
@@ -200,9 +192,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/五五影视.json"
+            "ext": "./json/五五影视.json"
         },
-        
+
         {
             "key": "csp_xBPQ_奇优",
             "name": "🅱️奇优影视|T追剧",
@@ -211,19 +203,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/奇优影视.json"
+            "ext": "./json/奇优影视.json"
         },
-        {
-            "key": "csp_xBPQ_视觉",
-            "name": "🅱️视觉影视|T追剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/新视觉影视.json"
-        },
-       
+
+
         {
             "key": "csp_农民",
             "name": "🅱️农民影视|T追剧",
@@ -232,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/农民影视.json"
+            "ext": "./json/农民影视.json"
         },
         {
             "key": "csp_好戏",
@@ -242,7 +225,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"
+            "ext": "./json/好戏影视.json"
         },
         {
             "key": "csp_Free",
@@ -252,7 +235,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/Free影视.json"
+            "ext": "./json/Free影视.json"
         },
         {
             "key": "csp_热播",
@@ -262,9 +245,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/热播之家.json"
+            "ext": "./json/热播之家.json"
         },
-      
+
         {
             "key": "csp_日后",
             "name": "🅱️日后影视|T追剧",
@@ -273,7 +256,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/348影视.json"
+            "ext": "./json/348影视.json"
         },
         {
             "key": "csp_TVB",
@@ -283,7 +266,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/TVB云播.json"
+            "ext": "./json/TVB云播.json"
         },
         {
             "key": "csp_土豪",
@@ -293,7 +276,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/土豪影视.json"
+            "ext": "./json/土豪影视.json"
         },
         {
             "key": "csp_兔年",
@@ -303,7 +286,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/YYDS影视.json"
+            "ext": "./json/YYDS影视.json"
         },
         {
             "key": "csp_达龟",
@@ -313,9 +296,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/达达龟影视.json"
+            "ext": "./json/达达龟影视.json"
         },
-      
+
         {
             "key": "csp_蛋蛋",
             "name": "🅱️蛋蛋影视|T追剧",
@@ -324,7 +307,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/蛋蛋影视.json"
+            "ext": "./json/蛋蛋影视.json"
         },
         {
             "key": "csp_黑狐",
@@ -334,10 +317,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/黑狐影视.json"
+            "ext": "./json/黑狐影视.json"
         },
-       {
-           //因执行文件不对，暂不可用
+        {
             "key": "csp_苹果",
             "name": "🅱️苹果影视|T追剧",
             "type": 3,
@@ -345,11 +327,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/苹果影视.json"
-       },
-     
-       {
-            //因执行文件不对，暂不可用
+            "ext": "./json/苹果影视.json"
+        },
+
+        {
             "key": "csp_非凡",
             "name": "🅱️非凡资源|T追剧",
             "type": 3,
@@ -357,10 +338,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
-       },
-       {
-            //因执行文件不对，暂不可用
+            "ext": "./json/非凡资源网.json"
+        },
+        {
             "key": "csp_量子",
             "name": "🅱️量子资源|T追剧",
             "type": 3,
@@ -368,9 +348,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/量子资源网.json"
-       },
-     
+            "ext": "./json/量子资源网.json"
+        },
+
         {
             "key": "荐片",
             "name": "🅱️荐片秒播|T追剧",
@@ -379,29 +359,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-               "key": "csp_戏曲",
-            "name": "🅱┃哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/戏曲.json"
-        },
-        {
-            "key": "MTV",
-            "name": "🎧明星┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                                                                                                                               "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./js/MTV.json"
         }
    ],
 
