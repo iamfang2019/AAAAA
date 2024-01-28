@@ -20,6 +20,29 @@
             "changeable":1
       },
       {
+               "key": "csp_戏曲",
+            "name": "🅱┃哔哩┃戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/戏曲.json"
+        },
+      {
+            "key": "MTV",
+            "name": "🎧明星┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                                                                                                                               "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./js/MTV.json"
+        },
+      {
          "key": "电视",
          "name": "💻电视直播",
          "type": 3,
@@ -344,31 +367,7 @@
          "searchable": 1,
          "quickSearch": 1,
          "changeable": 1
-      },
-     
-       {
-               "key": "csp_戏曲",
-            "name": "🅱┃哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/戏曲.json"
-        },
-      {
-            "key": "MTV",
-            "name": "🎧明星┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                                                                                                                               "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "./js/MTV.json"
-        }
+      }
    ],
     "doh":[
         {
