@@ -26,7 +26,7 @@
       },
      {
          "key": "量子",
-         "name": "🐉藏金阁专线3",
+         "name": "藏金阁专线|T追剧",
          "type": 0,
          "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
          "searchable": 1,
@@ -71,7 +71,7 @@
    
      {
          "key": "鲸落",
-         "name": "鲸落之家",
+         "name": "🐼鲸落之家|T追剧",
          "type": 3,
          "api": "csp_XBPQ",
          "searchable": 1,
@@ -106,7 +106,7 @@
       },
        {
             "key": "鑫鑫影视",
-            "name": "🐼┃鑫鑫┃影视",
+            "name": "🐼┃鑫鑫影视|T追剧",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
