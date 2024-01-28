@@ -254,7 +254,7 @@
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/黑狐影视.json"
         },
-      //  {
+       {
            //因执行文件不对，暂不可用
             "key": "csp_苹果",
             "name": "🅱️苹果影视|T追剧",
@@ -264,9 +264,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/苹果影视.json"
-      //  },
+       },
      
-       // {
+       {
             //因执行文件不对，暂不可用
             "key": "csp_非凡",
             "name": "🅱️非凡资源|T追剧",
@@ -276,8 +276,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
-      //  },
-       // {
+       },
+       {
             //因执行文件不对，暂不可用
             "key": "csp_量子",
             "name": "🅱️量子资源|T追剧",
@@ -287,7 +287,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/量子资源网.json"
-      //  },
+       },
      
         {
             "key": "荐片",
