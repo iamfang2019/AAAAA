@@ -3,24 +3,17 @@
    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "lives": [
       {
-         "name": "ipv6",
-         "type": 0,
+         "name": "ipv6", "type": 0,
          "url": "https://raw.gitcode.com/frxz751113/1/raw/main/%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%85%A8.txt",
-         "playerType": 1,
-         "ua": "okhttp/3.15",
-         "epg": "https://epg.erw.cc/api/diyp",
-         "logo": "https://epg.112114.xyz/logo/{name}.png"
+         "playerType": 1,"ua": "okhttp/3.15",
+         "epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"
       },
+   ],
 
-       ],
-   
-  
-  
-   "sites": [
+
+ "sites": [
       {
-         "key": "电视",
-         "name": "💻电视直播",
-         "type": 3,
+         "key": "电视", "name": "💻电视直播", "type": 3,
          "api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
          "ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt#地方台$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt&&&https://api.caonm.net/api/mc/"
       },
@@ -32,12 +25,7 @@
          "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
          "searchable": 1,
          "changeable": 1,
-         "categories": [
-            "国产动漫",
-            "日韩动漫",
-            "国产剧",
-            "韩国剧",
-            "日本剧",
+         "categories": [ "国产动漫","日韩动漫", "国产剧", "韩国剧", "日本剧",
             "电影片",
             "连续剧",
             "综艺片",
@@ -311,26 +299,10 @@
         }
    ],
     "parses": [
-        {
-            "name": "超级并发",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "超级嗅探",
-            "type": 3,
-            "url": "Web"
-        },
-         {
-         "name": "Json轮询",
-         "type": 2,
-         "url": "Sequence"
-      },
-      {
-         "name": "Json并发",
-         "type": 2,
-         "url": "Parallel"
-      },
+        {"name": "超级并发", "type": 3,"url": "Demo"},
+        {"name": "超级嗅探", "type": 3,"url": "Web"},
+        {"name": "Json轮询","type": 2,"url": "Sequence"},
+        {"name": "Json并发","type": 2,"url": "Parallel"},
   {"name": "春盈解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=",
   "ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷",
   "sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA",
@@ -339,8 +311,7 @@
    },  
    {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=",
    "ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}},
-   {
-         "name": "聚合搜索",
+   { "name": "聚合搜索",
          "type": 1,
          "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
          "ext": {
