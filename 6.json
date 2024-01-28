@@ -64,45 +64,238 @@
             "斯诺克"
          ]
       },
-      {
-         "key": "非凡",
-         "name": "🐉藏金阁专线4",
-         "type": 0,
-         "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-         "searchable": 1,
-         "changeable": 1,
-         "categories": [
-            "国产动漫",
-            "日韩动漫",
-            "国产剧",
-            "韩国剧",
-            "日本剧",
-            "电影片",
-            "连续剧",
-            "综艺片",
-            "动漫片",
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "香港剧",
-            "欧美剧",
-            "记录片",
-            "台湾剧",
-            "海外剧",
-            "泰国剧",
-            "大陆综艺",
-            "港台综艺",
-            "日韩综艺",
-            "欧美综艺",
-            "欧美动漫",
-            "港台动漫",
-            "海外动漫"
-         ]
-      },   
+     
+       {
+            "key": "csp_疯狗",
+            "name": "🅱️疯狗影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/疯狗影视.json"
+        },
+        {
+            "key": "csp_爱看",
+            "name": "🅱️爱看影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/爱看影视.json"
+        },
+        {
+            "key": "csp_七新",
+            "name": "🅱️七新影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七新影视.json"
+        },
+        {
+            "key": "csp_超前",
+            "name": "🅱️超前点播|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/超前B站.json"
+        },
+        {
+            "key": "csp_午舞",
+            "name": "🅱️午舞影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/五五影视.json"
+        },
+
+        {
+            "key": "csp_xBPQ_奇优",
+            "name": "🅱️奇优影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/奇优影视.json"
+        },
+
+        {
+            "key": "csp_农民",
+            "name": "🅱️农民影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/农民影视.json"
+        },
+        {
+            "key": "csp_好戏",
+            "name": "🅱️好戏影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"
+        },
+        {
+            "key": "csp_Free",
+            "name": "🅱️Free影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/Free影视.json"
+        },
+        {
+            "key": "csp_热播",
+            "name": "🅱️热播之家|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/热播之家.json"
+        },
+        {
+            "key": "csp_七月",
+            "name": "🅱️七月影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七月影视.json"
+        },
+        {
+            "key": "csp_日后",
+            "name": "🅱️日后影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/348影视.json"
+        },
+        {
+            "key": "csp_TVB",
+            "name": "🅱️TVB云播|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/TVB云播.json"
+        },
+        {
+            "key": "csp_土豪",
+            "name": "🅱️土豪影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/土豪影视.json"
+        },
+        {
+            "key": "csp_兔年",
+            "name": "🅱️兔年影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/YYDS影视.json"
+        },
+        {
+            "key": "csp_达龟",
+            "name": "🅱️达龟影院|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/达达龟影视.json"
+        },
+        {
+            "key": "csp_七年",
+            "name": "🅱️七年影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/七年影视.json"
+        },
+        {
+            "key": "csp_蛋蛋",
+            "name": "🅱️蛋蛋影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/蛋蛋影视.json"
+        },
+        {
+            "key": "csp_黑狐",
+            "name": "🅱️黑狐影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/黑狐影视.json"
+        },
+        {
+            "key": "csp_苹果",
+            "name": "🅱️苹果影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/苹果影视.json"
+        },
+        {
+            "key": "csp_非凡",
+            "name": "🅱️非凡资源|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
+        },
+        {
+            "key": "csp_量子",
+            "name": "🅱️量子资源|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/量子资源网.json"
+        },
+        {
+            "key": "荐片",
+            "name": "🅱️荐片秒播|T追剧",
+            "type": 3,
+            "api": "csp_RinHome",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
     {
             "key": "TVB云播",
             "name": "👉春盈┃TVB",
