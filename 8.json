@@ -1,7 +1,6 @@
- {
-   "spider": "https://raw.gitcode.com/frxz751113/1/blobs/b0cb0d97b80922b82e85be96541ae152cd05c88b/8.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-
- "sites":[
+{
+    "spider":"https://gitee.com/amygotv/tv/raw/master/PG/spider.jar",
+    "sites":[
         {
             "key":"酷狗",
             "name":"酷狗",
