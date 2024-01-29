@@ -208,7 +208,9 @@
             }
          }
       },
-      {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}
+      {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=",
+      "ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}
+      }
    ],
    "doh": [
       {
