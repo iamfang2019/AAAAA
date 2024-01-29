@@ -8,7 +8,16 @@
             "api":"csp_Kugou",
             "searchable":1,
             "changeable":0
+        },
+     {
+            "key":"直播转点播",
+            "name":"🐼️┃电视┃直播",
+            "type":3,
+            "searchable":0,
+            "api":"https://gitee.com/amygotv/tv/raw/master/PG/api/live2vod.js",
+            "ext":"https://gitee.com/amygotv/tv/raw/master/PG/json/feimaolive.json"
         }
+        
     ],
 
     "doh":[
