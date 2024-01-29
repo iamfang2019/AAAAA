@@ -150,7 +150,7 @@
      
        {
                "key": "csp_戏曲",
-            "name": "🅱哔哩戏曲",
+            "name": "💥哔哩戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -159,7 +159,7 @@
         },
         {
             "key": "MTV",
-            "name": "🎧明星MV",
+            "name": "💥明星 MV",
             "type": 3,
             "api": "csp_Bili",
             "style": {
