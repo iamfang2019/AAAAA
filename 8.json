@@ -41,33 +41,87 @@
             "changeable": 1,
             "ext": "./js/MTV.json"
       },
+     {
+            "key": "TVB云播",
+            "name": "👉春盈┃TVB",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/TVB云播.js"
+        },
+        {
+            "key": "鑫鑫影视",
+            "name": "🐼┃鑫鑫┃影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+       },
       {
-         "key": "tvbsk",
-         "name": "TVB云播┃App",
+         "key": "鲸落",
+         "name": "鲸落之家",
          "type": 3,
-         "api": "csp_Skapp",
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": {
+            "主页url": "http://www.tvyb03.com/",
+            "请求头": "手机",
+            "简介": "class=\"sketch content\">&&</span>",
+            "数组": "myui-vodlist__thumb&&</a>",
+            "标题": "title=\"&&\"",
+            "副标题": "pic-tag pic-tag-top\">&&</span>",
+            "图片": "data-original=\"&&\"",
+            "链接": "href=\"&&\"",
+            "搜索url": "/vod/search.html?wd={wd}&submit=",
+            "搜索数组": "myui-vodlist__thumb&&</a>",
+            "搜索标题": "title=\"&&\"",
+            "搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+            "搜索图片": "http://w.g9.pub:66/f/Y1ksA/sorry.ico",
+            "搜索链接": "href=\"&&\"",
+            "搜索模式": "1",
+            "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+            "搜索后缀": "/vod/detail/id/",
+            "线路数组": "</a><h3&&/h3>",
+            "线路标题": "title\">&&<",
+            "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
+            "播放标题": ">&&<",
+            "播放列表": "<a&&/a>",
+            "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;m",
+            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+         }
+      },
+        {
+            "key": "csp_Nmys",
+            "name": "🌾┃农民┃影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "ext": "./js/nmys.json"
+        },
+      
+
+        { "key": "繁星",
+         "name": "💥繁星┃App",
+         "type": 3,
+         "api": "csp_AppMao",
          "playerType": 2,
-         "ext": "CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1"
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1,
+         "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       },
       {
-         "key": "YQKan",
-         "name": "一起看",
+         "key": "一起看 ",
+         "name": "繁花似锦",
          "type": 3,
          "api": "csp_YQKan",
          "searchable": 1,
          "quickSearch": 1,
-         "filterable": 1,
          "changeable": 1
-      },
-      {
-         "key": "快看",
-         "name": "快看",
-         "type": 3,
-         "api": "csp_Kuaikan",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 1,
-         "filterable": 1
       }
    ],
    "doh":[
