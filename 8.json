@@ -6,11 +6,10 @@
             "key":"酷狗",
             "name":"酷狗",
             "type":3,
-            "api":"csp_Kugou",
+            "api":"./js/酷狗MV.js",
             "searchable":1,
             "quickSearch": 1,
-            "changeable":1,
-            "ext": "./js/酷狗MV.js"
+            "changeable":1
       },
       {
          "key": "直播",
