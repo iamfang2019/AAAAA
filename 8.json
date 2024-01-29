@@ -9,7 +9,7 @@
             "api":"csp_Kugou",
             "searchable":1,
             "quickSearch": 1,
-            "changeable":1
+            "changeable":1,
             "ext": "./js/酷狗MV.js"
       },
       {
