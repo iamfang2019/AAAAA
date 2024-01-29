@@ -1,17 +1,6 @@
 {
    "spider": "https://raw.gitcode.com/frxz751113/1/blobs/b0cb0d97b80922b82e85be96541ae152cd05c88b/spider.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-   "lives": [
-      {
-         "name": "live",
-         "type": 0,
-         "url": "./1huifang.txt",
-       
-         "playerType": 1,
-         "ua": "okhttp/3.12.13",
-         "epg":"https://epg.erw.cc/api/diyp",
-         "logo": "https://epg.112114.xyz/logo/{name}.png"
-      }
-   ],
+
    "sites": [
            {
             "key":"酷狗",
