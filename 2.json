@@ -21,14 +21,6 @@
          "ext": "我的直播$./IPTV/v4v6.txt"
       },
       {
-            "key":"酷狗",
-            "name":"酷狗",
-            "type":3,
-            "api":"csp_Kugou",
-            "searchable":1,
-            "changeable":0
-     },
-     {
          "key": "量子",
          "name": "🐉藏金阁专线3",
          "type": 0,
@@ -73,7 +65,7 @@
          ]
       },
 
-    {
+      {
             "key": "TVB云播",
             "name": "👉春盈┃TVB",
             "type": 3,
@@ -81,8 +73,8 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/TVB云播.js"
-        },
-        {
+      },
+      {
             "key": "鑫鑫影视",
             "name": "🐼┃鑫鑫┃影视",
             "type": 3,
@@ -92,7 +84,7 @@
             "filterable": 1,
             "ext": "http://yingszj.xn--654a.cc/api.php/app/"
        },
-      {
+       {
          "key": "鲸落",
          "name": "鲸落之家",
          "type": 3,
