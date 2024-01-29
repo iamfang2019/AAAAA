@@ -4,7 +4,7 @@
    "lives": [
       {
          "name": "ipv6", "type": 0,
-         "url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E5%A4%AE%E8%A7%86.txt",
+         "url": "https://raw.gitcode.com/frxz751113/1/raw/main/v4v6.txt",
          "playerType": 1,"ua": "okhttp/3.15",
          "epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"
       },
