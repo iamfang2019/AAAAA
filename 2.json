@@ -30,17 +30,6 @@
         "战争片","动漫电影","大陆剧","欧美剧", "港澳剧","韩剧",
         "日剧", "台湾剧","泰剧", "综艺","动漫","记录片"]
       },
-       {
-      "key": "csp_appys_影探",
-      "name": "4K影探影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "http://www.lyyytv.cn/yt/yt.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vip11.lyyytv.cn/api.php/app/"
-    },
       {
          "key": "量子",
          "name": "藏金阁专线",
