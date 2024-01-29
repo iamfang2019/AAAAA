@@ -21,6 +21,17 @@
          "ext": "我的直播$./IPTV/v4v6.txt"
       },
       {
+      "key": "csp_appys_影探",
+      "name": "4K-影探┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://www.lyyytv.cn/yt/yt.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vip11.lyyytv.cn/api.php/app/"
+    },
+      {
          "key": "鲸落",
          "name": "💥鲸落之家",
          "type": 3,
