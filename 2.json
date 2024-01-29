@@ -22,7 +22,7 @@
       },
       {
          "key": "量子",
-         "name": "🐉藏金阁专线3",
+         "name": "藏金阁专线",
          "type": 0,
          "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
          "searchable": 1,
@@ -67,7 +67,7 @@
 
       {
             "key": "TVB云播",
-            "name": "👉春盈┃TVB",
+            "name": "春盈┃TVB",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -76,7 +76,7 @@
       },
       {
             "key": "鑫鑫影视",
-            "name": "🐼┃鑫鑫┃影视",
+            "name": "鑫鑫┃影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -86,7 +86,7 @@
        },
        {
          "key": "鲸落",
-         "name": "鲸落之家",
+         "name": "💥鲸落之家",
          "type": 3,
          "api": "csp_XBPQ",
          "searchable": 1,
@@ -121,7 +121,7 @@
       },
         {
             "key": "csp_Nmys",
-            "name": "🌾┃农民┃影视",
+            "name": "💥农民┃影视",
             "type": 3,
             "api": "csp_Nmys",
             "ext": "./js/nmys.json"
@@ -140,7 +140,7 @@
       },
       {
          "key": "一起看 ",
-         "name": "繁花似锦",
+         "name": "💥繁花似锦",
          "type": 3,
          "api": "csp_YQKan",
          "searchable": 1,
@@ -150,7 +150,7 @@
      
        {
                "key": "csp_戏曲",
-            "name": "🅱┃哔哩┃戏曲",
+            "name": "🅱哔哩┃戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
