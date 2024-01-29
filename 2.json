@@ -67,7 +67,7 @@
 
       {
             "key": "TVB云播",
-            "name": "春盈┃TVB",
+            "name": "💥春盈TVB",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -76,7 +76,7 @@
       },
       {
             "key": "鑫鑫影视",
-            "name": "鑫鑫┃影视",
+            "name": "💥鑫鑫影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -121,7 +121,7 @@
       },
         {
             "key": "csp_Nmys",
-            "name": "💥农民┃影视",
+            "name": "💥农民影视",
             "type": 3,
             "api": "csp_Nmys",
             "ext": "./js/nmys.json"
@@ -129,7 +129,7 @@
       
 
         { "key": "繁星",
-         "name": "💥繁星┃App",
+         "name": "💥繁星App",
          "type": 3,
          "api": "csp_AppMao",
          "playerType": 2,
@@ -150,7 +150,7 @@
      
        {
                "key": "csp_戏曲",
-            "name": "🅱哔哩┃戏曲",
+            "name": "🅱哔哩戏曲",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -159,7 +159,7 @@
         },
         {
             "key": "MTV",
-            "name": "🎧明星┃MV",
+            "name": "🎧明星MV",
             "type": 3,
             "api": "csp_Bili",
             "style": {
