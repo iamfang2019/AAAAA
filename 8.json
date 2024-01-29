@@ -26,7 +26,8 @@
             "type":3,
             "api":"csp_Kugou",
             "searchable":1,
-            "changeable":0
+            "quickSearch": 1,    
+            "changeable":1
      },
      {
          "key": "量子",
