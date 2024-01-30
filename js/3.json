@@ -1,10 +1,15 @@
 
 
-{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip;md5;58adbd51a4bbed437f442e4e9a4c85c2",
-"lives": 
-[{"name":"live","type": 0,"url":"./1huifang.txt","playerType": 1,"ua":"okhttp/3.12.13","epg":"https://epg.erw.cc/api/diyp","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-"sites": 
-[{"key":"直播","name":"💻电视直播","type": 3,"api":"./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"我的直播$./IPTV/v4v6.txt"},
+{
+"spider":"https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip;md5;58adbd51a4bbed437f442e4e9a4c85c2",
+"lives": [
+{"name":"live","type": 0,"url":"./1huifang.txt","playerType": 1,"ua":"okhttp/3.12.13","epg":"https://epg.erw.cc/api/diyp","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
+
+
+
+"sites": [
+{"key":"直播","name":"💻电视直播","type": 3,"api":"./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"我的直播$./IPTV/v4v6.txt"},
 {"key":"光速资源","name":"💥光速采集","type": 1,"api":"http://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
 {"key":"量子","name":"藏金阁专线","type": 0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable": 1,"changeable": 1,"categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"csp_好戏","name":"💥好戏影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"},
@@ -24,7 +29,8 @@
 "parses": [
 {"name":"聚合","type": 3,"url":"Demo"},
 {"name":"聚合搜索","type": 1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip" ]}},      
-{"name":"免费分享","type": 0,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩" ],"header": {"User-Agent":"okhttp/4.1.0"}}},{"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}],
+{"name":"免费分享","type": 0,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩" ],"header": {"User-Agent":"okhttp/4.1.0"}}},{"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
+],
 
 
 "doh": [
@@ -32,7 +38,8 @@
 {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips": ["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips": ["94.140.14.140","94.140.14.141"]},     
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips": ["84.200.69.80","84.200.70.40"]},      
-{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}
+],
 
 
 "rules": [
@@ -45,6 +52,7 @@
 {"name":"非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["25.0666"]},     
 {"name":"hs","hosts": ["huoshan.com"],"regex": ["item_id="]},      
 {"name":"dy","hosts": ["douyin.com"],"regex": ["is_play_url="]},      
-{"name":"nm","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},      
-{"name":"cl","hosts": ["magnet"],"regex": ["最 新","直 播","更 新"]}]
+{"name":"nm","hosts": ["toutiaovod.com"],"regex": ["video/tos/cn"]},    
+{"name":"cl","hosts": ["magnet"],"regex": ["最 新","直 播","更 新"]}
+]
 }
