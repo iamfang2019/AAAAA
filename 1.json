@@ -17,6 +17,14 @@
          "api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
          "ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt#地方台$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt&&&https://api.caonm.net/api/mc/"
       },
+           {
+            "key":"酷狗",
+            "name":"酷狗",
+            "type":3,
+            "api":"csp_Kugou",
+            "searchable":1,
+            "changeable":0
+        },
     {"key":"360影院","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"changeable": 1,"jar": "https://gitee.com/ohday365/xijing/raw/master/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"},
         {
             "key": "TVB云播",
