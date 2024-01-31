@@ -25,7 +25,7 @@
          "type": 1,
          "api": "http://api.guangsuapi.com/api.php/provide/vod/",
          "searchable": 1,
-         "changeable": 0,
+         "changeable": 1,
          "categories": [
             "动作片",
             "喜剧片",
@@ -53,7 +53,7 @@
          "type": 0,
          "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
          "searchable": 1,
-         "changeable": 0,
+         "changeable": 1,
          "categories": [
             "国产动漫",
             "日韩动漫",
@@ -146,7 +146,7 @@
          "playerType": 2,
          "searchable": 1,
          "quickSearch": 1,
-         "changeable": 0,
+         "changeable": 1,
          "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
       },
       {
@@ -156,7 +156,7 @@
          "api": "csp_YQKan",
          "searchable": 1,
          "quickSearch": 1,
-         "changeable": 0
+         "changeable": 1
       },
       {
          "key": "csp_戏曲",
@@ -173,7 +173,7 @@
          "type": 3,
          "api": "csp_Kugou",
          "searchable": 1,
-         "changeable": 0
+         "changeable": 1
       },
       {
          "key": "酷奇js",
@@ -187,7 +187,7 @@
          },
          "searchable": 1,
          "quickSearch": 1,
-         "changeable": 0
+         "changeable": 1
       },
       {
          "key": "MTV",
@@ -200,7 +200,7 @@
          },
          "searchable": 1,
          "quickSearch": 1,
-         "changeable": 0,
+         "changeable": 1,
          "ext": "./js/MTV.json"
       }
    ],
