@@ -134,8 +134,16 @@
             "type":3,
             "api":"csp_Kugou",
             "searchable":1,
-            "changeable":0
+            "changeable":1
         },
+       {"key": "酷奇js","name": "🎧酷奇MTV✨","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {
             "key": "MTV",
             "name": "💥明星 MV",
@@ -146,8 +154,8 @@
                 "ratio": 1.597
             },
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
+            "quickSearch": 1,
+            "changeable": 1,
             "ext": "./js/MTV.json"
         }
    ],
