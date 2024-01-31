@@ -224,7 +224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/Free影视.json"
+            "ext": "./josn/zonghe.json"
         },
         {
             "key": "csp_热播",
@@ -255,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/TVB云播.json"
+            "ext": "./josn/zonghe.json"
         },
         {
             "key": "csp_土豪",
