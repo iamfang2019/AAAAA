@@ -152,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/疯狗影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_七新",
@@ -172,7 +172,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/超前B站.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_午舞",
@@ -204,7 +204,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/农民影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_好戏",
@@ -214,7 +214,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_Free",
@@ -234,7 +234,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/热播之家.json"
+            "ext": ".josn/zonghe.json"
         },
      
         {
@@ -265,7 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/土豪影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_兔年",
@@ -285,7 +285,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/达达龟影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_蛋蛋",
@@ -295,7 +295,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/蛋蛋影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_黑狐",
@@ -315,7 +315,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/苹果影视.json"
+            "ext": ".josn/zonghe.json"
         },
         {
             "key": "csp_非凡",
@@ -325,7 +325,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
+            "ext": ".josn/zonghe.json"
         },
  
         {
