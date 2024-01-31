@@ -341,12 +341,12 @@
     "parses": [
         {"name": "超级并发", "type": 3,"url": "Demo"},
         {"name": "超级嗅探", "type": 3,"url": "Web"},
-    
-{
-      "name": "杰森",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    }
+ 
+         {
+			"name": "醉仙",
+			"type": 1,
+			"url": "https://wuzei.serv00.net/jx/ceshi.php?url="
+		}
   
     ],
     "flags": [
