@@ -1,0 +1,311 @@
+﻿{
+   "spider": "https://raw.gitcode.com/frxz751113/1/blobs/33b7a54a7926a92590f678fe6e621ca2bd6c878e/%E7%BB%BC%E5%90%88%E5%BD%B1%E8%A7%86.jar{
+"k","lives": [
+      {
+"name": "live{
+"k","type": 0,"url": "./1huifang.txt",
+       
+         "playerType": 1,"ua": "okhttp/3.12.13{
+"k","epg":"https://epg.erw.cc/api/diyp{
+"k","logo": "https://epg.112114.xyz/logo/{name}.png"
+      }
+   ],
+   "sites": [
+      {  "key": "直播{
+"k","name": "💻电视直播{
+"k","type": 3,"api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js{
+"k","ext": "我的直播$./IPTV/v4v6.txt"
+},
+      {  "key": "光速资源{
+"k","name": "💥光速采集{
+"k","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/{
+"k","searchable": 1,"changeable": 1,"categories": [
+        "动作片", "喜剧片","爱情片", "科幻片","剧情片","恐怖片{
+"k","战争片","动漫电影","大陆剧","欧美剧", "港澳剧","韩剧{
+"k","日剧", "台湾剧","泰剧", "综艺","动漫","记录片"]
+      },
+      {
+"key": "量子{
+"k","name": "藏金阁专线{
+"k","type": 0,"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/{
+"k","searchable": 1,"changeable": 1,"categories": ["国产动漫","日韩动漫","国产剧","韩国剧","日本剧", "电影片{
+"k","连续剧", "综艺片", "动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片{
+"k","剧情片","战争片","台湾剧", "香港剧","欧美剧","记录片","海外剧","泰国剧{
+"k","大陆综艺","港台综艺", "日韩综艺", "欧美综艺","欧美动漫","港台动漫{
+"k","海外动漫","体育", "足球","篮球","网球", "斯诺克"]
+      },
+      {
+"key": "csp_好戏{
+"k","name": "💥好戏影视{
+"k","type": 3,"api": "csp_XBPQ{
+"k","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"
+},
+      {
+"key": "csp_非凡{
+"k","name": "💥非凡资源{
+"k","type": 3,"api": "csp_XBPQ{
+"k","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
+},
+      {
+"key": "TVB云播{
+"k","name": "💥春盈TVB{
+"k","type": 3,"api": "./js/drpy2.min.js{
+"k","searchable": 1,"changeable": 1,"ext": "./js/TVB云播.js"
+},
+      {
+"key": "鑫鑫影视{
+"k","name": "💥鑫鑫影视{
+"k","type": 3,"api": "csp_AppYsV2{
+"k","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"
+},
+       {    "key": "csp_蛋蛋{
+"k","name": "💥蛋蛋影视{
+"k","type": 3,"api": "csp_XBPQ{
+"k","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/蛋蛋影视.json"
+},       
+        {
+"key": "csp_Nmys{
+"k","name": "💥农民影视{
+"k","type": 3,"api": "csp_Nmys{
+"k","ext": "./js/nmys.json"
+},
+      
+
+        { "key": "繁星{
+"k","name": "💥繁星App{
+"k","type": 3,"api": "csp_AppMao{
+"k","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+},
+      {
+"key": "一起看 {
+"k","name": "💥繁花似锦{
+"k","type": 3,"api": "csp_YQKan{
+"k","searchable": 1,"quickSearch": 1,"changeable": 1
+      },
+       {
+"key": "csp_戏曲{
+"k","name": "💥哔哩戏曲{
+"k","type": 3,"api": "csp_Bili{
+"k","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"
+},
+                 {
+"key":"酷狗{
+"k","name":"酷狗{
+"k","type":3,"api":"csp_Kugou{
+"k","searchable":1,"changeable":1
+        },
+       {"key": "酷奇js","name": "🎧酷奇MTV✨","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style":{
+"type": "rect{
+"k","ratio": 1.597
+      },"searchable": 1,"quickSearch": 1,"changeable": 1
+    },
+        {
+"key": "MTV{
+"k","name": "💥明星 MV{
+"k","type": 3,"api": "csp_Bili{
+"k","style":{
+                                                                                                                       "type": "rect{
+"k","ratio": 1.597
+            },"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./js/MTV.json"
+        }
+   ],
+   "parses": [
+      {
+"name": "聚合","type": 3, "url": "Demo"},
+      { "name": "聚合搜索", "type": 1, "url": "http://api.888484.xyz/神秘哥哥/super.php?v={
+"k","ext": { "flag": [ "qq","腾讯","qiyi","爱奇艺", "奇艺","youku", "优酷","tucheng{
+"k","sohu","搜狐", "letv", "乐视","mgtv", "芒果","tnmb{
+"k","seven{
+"k","yzm{
+"k","aliyun{
+"k","RJuMao{
+"k","bilibili{
+"k","1905{
+"k","xinvip{
+"k","XAL{
+"k","qiqi{
+"k","XALS{
+"k","YuMi-vip"
+]
+         }
+      },
+      {
+"name": "免费分享{
+"k","type": 0,"url": "https://jx.xmflv.com/?url={
+"k","ext":{
+    "flag": [
+"qq{
+"k","腾讯{
+"k","qiyi{
+"k","爱奇艺{
+"k","奇艺{
+"k","youku{
+"k","优酷{
+"k","mgtv{
+"k","芒果{
+"k","imgo{
+"k","letv{
+"k","乐视{
+"k","pptv{
+"k","PPTV{
+"k","sohu{
+"k","bilibili{
+"k","哔哩哔哩{
+"k","哔哩"
+],"header":{
+       "User-Agent": "okhttp/4.1.0"
+            }
+         }
+      },
+      {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url={
+"k","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}
+      }
+
+   ],
+   "doh": [
+      {
+"name": "Google{
+"k","url": "https://dns.google/dns-query{
+"k","ips":[
+"8.8.4.4{
+"k","8.8.8.8"
+]
+      },
+      {
+"name": "Cloudflare{
+"k","url": "https://cloudflare-dns.com/dns-query{
+"k","ips":[
+"1.1.1.1{
+"k","1.0.0.1{
+"k","2606:4700:4700::1111{
+"k","2606:4700:4700::1001"
+]
+      },
+      {
+"name": "AdGuard{
+"k","url": "https://dns.adguard.com/dns-query{
+"k","ips":[
+"94.140.14.140{
+"k","94.140.14.141"
+]
+      },
+      {
+"name": "DNSWatch{
+"k","url": "https://resolver2.dns.watch/dns-query{
+"k","ips":[
+"84.200.69.80{
+"k","84.200.70.40"
+]
+      },
+      {
+"name": "Quad9{
+"k","url": "https://dns.quad9.net/dns-quer{
+"k","ips":[
+"9.9.9.9{
+"k","149.112.112.112"
+]
+      }
+   ],
+   "rules": [
+      {
+"name": "hwk{
+"k","hosts":[
+"haiwaikan"
+],"regex": [
+            "10.0099{
+"k","10.3333{
+"k","16.0599{
+"k","8.1748{
+"k","10.85"
+]
+      },
+      {
+"name": "yqk{
+"k","hosts":[
+"yqk88"
+],"regex": [
+            "18.4{
+"k","15.1666"
+]
+      },
+      {
+"name": "sn{
+"k","hosts":[
+"suonizy"
+],"regex": [
+            "15.1666{
+"k","15.2666"
+]
+      },
+      {
+"name": "bf{
+"k","hosts":[
+"bfzy"
+],"regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+      },
+      {
+"name": "xx{
+"k","hosts":[
+"aws.ulivetv.net"
+],"regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+]
+      },
+      {
+"name": "lz{
+"k","hosts":[
+"vip.lz{
+"k","hd.lz{
+"k","v.cdnlz1{
+"k","v.cdnlz"
+],"regex": [
+            "18.5333"
+]
+      },
+      {
+"name": "非凡{
+"k","hosts":[
+"vip.ffzy{
+"k","hd.ffzy"
+],"regex": [
+            "25.0666"
+]
+      },
+      {
+"name": "hs{
+"k","hosts":[
+"huoshan.com"
+],"regex": [
+            "item_id="
+]
+      },
+      {
+"name": "dy{
+"k","hosts":[
+"douyin.com"
+],"regex": [
+            "is_play_url="
+]
+      },
+      {
+"name": "nm{
+"k","hosts":[
+"toutiaovod.com"
+],"regex": [
+            "video/tos/cn"
+]
+      },
+      {
+"name": "cl{
+"k","hosts":[
+"magnet"
+],"regex": [
+            "最 新{
+"k","直 播{
+"k","更 新"
+]
+      }
+   ]
+}
