@@ -112,15 +112,6 @@
          "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
       },
       {
-         "key": "TVB云播",
-         "name": "💥春盈TVB",
-         "type": 3,
-         "api": "./js/drpy2.min.js",
-         "searchable": 1,
-         "changeable": 1,
-         "ext": "./js/TVB云播.js"
-      },
-      {
          "key": "鑫鑫影视",
          "name": "💥鑫鑫影视",
          "type": 3,
