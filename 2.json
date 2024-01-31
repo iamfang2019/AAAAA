@@ -19,15 +19,6 @@
          "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
          "ext": "我的直播$./IPTV/v4v6.txt"
       },
-       {
-            "key": "zsbk",
-            "name": "💥知识百科",
-              "type": 3,
-             "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json"
-      },
       {  "key": "光速资源",
          "name": "💥光速采集",
          "type": 1,
