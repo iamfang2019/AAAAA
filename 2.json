@@ -220,6 +220,11 @@
          "url": "Demo"
       },
       {
+      "name": "醉仙",
+      "type": 1,
+      "url": "https://wuzei.serv00.net/jx/ceshi.php?url="
+      },   
+      {
          "name": "聚合搜索",
          "type": 1,
          "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
