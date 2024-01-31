@@ -224,7 +224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./josn/zonghe.json"
+            "ext": "./josn/Free影视.json"
         },
         {
             "key": "csp_热播",
@@ -255,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./josn/zonghe.json"
+            "ext": "./josn/TVB云播.json"
         },
         {
             "key": "csp_土豪",
