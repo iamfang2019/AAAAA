@@ -239,13 +239,13 @@
          "ext": "./js/戏曲.json"
       },
      // {
-         "key": "酷狗",
-         "name": "酷狗",
-         "type": 3,
-         "api": "csp_Kugou",
-         "searchable": 0,
-         "changeable": 0
-      },
+       //  "key": "酷狗",
+       //  "name": "酷狗",
+      //   "type": 3,
+      //   "api": "csp_Kugou",
+       //  "searchable": 0,
+       //  "changeable": 0
+    //  },
       {
          "key": "酷奇js",
          "name": "🎧酷奇MTV✨",
