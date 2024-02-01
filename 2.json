@@ -244,7 +244,7 @@
          "name": "💥哔哩戏曲",
          "type": 3,
          "api": "csp_Bili",
-         "searchable": 1,
+         "searchable": 0,
          "quickSearch": 0,
          "ext": "./js/戏曲.json"
       },
@@ -253,8 +253,8 @@
          "name": "酷狗",
          "type": 3,
          "api": "csp_Kugou",
-         "searchable": 1,
-         "changeable": 1
+         "searchable": 0,
+         "changeable": 0
       },
       {
          "key": "酷奇js",
@@ -266,9 +266,9 @@
             "type": "rect",
             "ratio": 1.597
          },
-         "searchable": 1,
+         "searchable": 0,
          "quickSearch": 0,
-         "changeable": 1
+         "changeable": 0
       },
       {
          "key": "MTV",
@@ -279,9 +279,9 @@
             "type": "rect",
             "ratio": 1.597
          },
-         "searchable": 1,
+         "searchable": 0,
          "quickSearch": 0,
-         "changeable": 1,
+         "changeable": 0,
          "ext": "./js/MTV.json"
       }
    ],
