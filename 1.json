@@ -80,15 +80,7 @@
          "changeable": 1,
          "jar": "https://gitee.com/ohday365/xijing/raw/master/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
       },
-      {
-         "key": "TVB云播",
-         "name": "💥春盈TVB",
-         "type": 3,
-         "api": "./js/drpy2.min.js",
-         "searchable": 1,
-         "changeable": 1,
-         "ext": "./js/TVB云播.js"
-      },
+
       {
          "key": "鑫鑫影视",
          "name": "💥鑫鑫影视",
