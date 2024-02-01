@@ -245,7 +245,7 @@
          "type": 3,
          "api": "csp_Bili",
          "searchable": 1,
-         "quickSearch": 1,
+         "quickSearch": 0,
          "ext": "./js/戏曲.json"
       },
       {
@@ -267,7 +267,7 @@
             "ratio": 1.597
          },
          "searchable": 1,
-         "quickSearch": 1,
+         "quickSearch": 0,
          "changeable": 1
       },
       {
@@ -280,7 +280,7 @@
             "ratio": 1.597
          },
          "searchable": 1,
-         "quickSearch": 1,
+         "quickSearch": 0,
          "changeable": 1,
          "ext": "./js/MTV.json"
       }
