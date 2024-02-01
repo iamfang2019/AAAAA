@@ -19,12 +19,26 @@
       "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
       "ext": "我的直播$./IPTV/v4v6.txt"
     },
-        {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 💻",
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源 | 🥭",
       "type": 3,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/腾讯.js"
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源 |🥝",
+      "type": 3,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_yh",
+      "name": "官源 | ⛽",
+      "type": 3,
+      "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+      "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/优酷.js"
     },
     {
       "key": "量子",
