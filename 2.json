@@ -238,7 +238,7 @@
          "quickSearch": 0,
          "ext": "./js/戏曲.json"
       },
-      {
+     // {
          "key": "酷狗",
          "name": "酷狗",
          "type": 3,
