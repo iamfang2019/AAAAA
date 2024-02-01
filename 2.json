@@ -20,34 +20,6 @@
          "ext": "我的直播$./IPTV/v4v6.txt"
       },
       {
-         "key": "光速资源",
-         "name": "💥光速采集",
-         "type": 1,
-         "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-         "searchable": 1,
-         "changeable": 1,
-         "categories": [
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "科幻片",
-            "剧情片",
-            "恐怖片",
-            "战争片",
-            "动漫电影",
-            "大陆剧",
-            "欧美剧",
-            "港澳剧",
-            "韩剧",
-            "日剧",
-            "台湾剧",
-            "泰剧",
-            "综艺",
-            "动漫",
-            "记录片"
-         ]
-      },
-      {
          "key": "量子",
          "name": "藏金阁专线",
          "type": 0,
@@ -92,26 +64,6 @@
          ]
       },
       {
-         "key": "csp_好戏",
-         "name": "💥好戏影视",
-         "type": 3,
-         "api": "csp_XBPQ",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/好戏影视.json"
-      },
-      {
-         "key": "csp_非凡",
-         "name": "💥非凡资源",
-         "type": 3,
-         "api": "csp_XBPQ",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/非凡资源网.json"
-      },
-      {
          "key": "鑫鑫影视",
          "name": "💥鑫鑫影视",
          "type": 3,
@@ -122,34 +74,6 @@
          "ext": "http://yingszj.xn--654a.cc/api.php/app/"
       },
       {
-         "key": "csp_蛋蛋",
-         "name": "💥蛋蛋影视",
-         "type": 3,
-         "api": "csp_XBPQ",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "https://raw.gitcode.com/frxz751113/3/raw/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/蛋蛋影视.json"
-      },
-      {
-         "key": "csp_Nmys",
-         "name": "💥农民影视",
-         "type": 3,
-         "api": "csp_Nmys",
-         "ext": "./js/nmys.json"
-      },
-      {
-         "key": "繁星",
-         "name": "💥繁星App",
-         "type": 3,
-         "api": "csp_AppMao",
-         "playerType": 2,
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 1,
-         "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
-      },
-      {
          "key": "一起看 ",
          "name": "💥繁花似锦",
          "type": 3,
@@ -157,6 +81,163 @@
          "searchable": 1,
          "quickSearch": 1,
          "changeable": 1
+      },
+          {
+         "key": "光速资源",
+         "name": "🎀光速┃采集🎀",
+         "type": 1,
+         "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+         "searchable": 1,
+         "changeable": 1,
+         "categories": [
+            "动作片",
+            "喜剧片",
+            "爱情片",
+            "科幻片",
+            "剧情片",
+            "恐怖片",
+            "战争片",
+            "动漫电影",
+            "大陆剧",
+            "欧美剧",
+            "港澳剧",
+            "韩剧",
+            "日剧",
+            "台湾剧",
+            "泰剧",
+            "综艺",
+            "动漫",
+            "记录片"
+         ]
+      },
+      {
+         "key": "南瓜",
+         "name": "🎃南瓜┃App",
+         "type": 3,
+         "api": "csp_NanGua",
+         "playerType": 2,
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1
+      },
+      {
+         "key": "csp_疯狗",
+         "name": "疯狗影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/疯狗影视.json"
+      },
+      {
+         "key": "csp_七新",
+         "name": "七新影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/七新影视.json"
+      },
+      {
+         "key": "csp_xBPQ_奇优",
+         "name": "奇优影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/奇优影视.json"
+      },
+      {
+         "key": "csp_Free",
+         "name": "Free影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/Free影视.json"
+      },
+      {
+         "key": "csp_热播",
+         "name": "热播之家|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/热播之家.json"
+      },
+      {
+         "key": "csp_日后",
+         "name": "日后影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/348影视.json"
+      },
+      {
+         "key": "csp_兔年",
+         "name": "兔年影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/YYDS影视.json"
+      },
+      {
+         "key": "csp_达龟",
+         "name": "达龟影院|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/达达龟影视.json"
+      },
+      {
+         "key": "csp_蛋蛋",
+         "name": "蛋蛋影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/蛋蛋影视.json"
+      },
+      {
+         "key": "csp_黑狐",
+         "name": "黑狐影视|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/黑狐影视.json"
+      },
+      {
+         "key": "csp_非凡",
+         "name": "非凡资源|T追剧",
+         "type": 3,
+         "api": "csp_XBPQ",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": "./json/非凡资源网.json"
+      },
+      {
+         "key": "荐片",
+         "name": "荐片秒播|T追剧",
+         "type": 3,
+         "api": "csp_RinHome",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0
       },
       {
          "key": "csp_戏曲",
