@@ -620,7 +620,8 @@
     {
       "name": "888",
       "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "mobile":1
     }
   ],
   "ijk": [
