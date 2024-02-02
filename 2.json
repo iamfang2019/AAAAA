@@ -101,7 +101,7 @@
     {
       "key": "光速资源",
       "name": "💥💥💥💥",
-      "name": "🎀光速┃采集🎀",
+      //"name": "🎀光速┃采集🎀",
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
