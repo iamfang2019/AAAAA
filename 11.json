@@ -622,12 +622,8 @@
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url=",
       "showType": 3,
-      "mobile":1,
-            "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "mobile":1
+
       }
   ],
   "ijk": [
