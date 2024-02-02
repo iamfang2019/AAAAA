@@ -541,8 +541,7 @@
       "url": "https://z1.m1907.top/?jx=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64;x64) AppleW ebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
-          "Referer": "https://v.ctrlqq.com/"
+          "User-Agent": "Mozilla/5.0"
         }
       }
     },
