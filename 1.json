@@ -57,7 +57,7 @@
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺1",
       "type": 3,
-      "api": "./js/drpy2.min.js",
+      "api": "./js/drpy2.m.js",
       "ext": "./js/爱奇艺.js"
     },
     {
