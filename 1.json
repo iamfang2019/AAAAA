@@ -330,12 +330,7 @@
    {
     "name":"M1907",
      "type": 0,
-     "url": "https://z1.m1907.top/?jx=",
-      "ext": {
-       "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-        }
+     "url": "https://z1.m1907.top/?jx="
     },
     {
       "name": "🐱手动点击json播",
