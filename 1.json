@@ -335,18 +335,6 @@
         "header": {"User-Agent":"aim-topbar"}
         }
     },
-
-
-    {
-      "name": "🐱15号",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
     {
       "name": "🐱手动点击json播",
       "type": 0,
