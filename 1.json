@@ -331,8 +331,13 @@
     "name":"M1907",
      "type": 0,
      "url": "https://z1.m1907.top/?jx=",
-      "showType": 3
-    },   {
+      "ext": {
+        "flag": [
+"优酷VIP解析","爱奇艺VIP解析","腾讯VIP解析","乐视VIP解析","芒果VIP解析","VIP视频在线解析","VIP视频免费看","在线解析"
+        ]
+      }
+    },
+    {
       "name": "🐱手动点击json播",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?=&url=",
