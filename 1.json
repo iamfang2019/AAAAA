@@ -324,13 +324,61 @@
     }
   ],
   "parses": [
-    {
-      "name": "🐱6号",
+        {
+      "name": "🐱芒果腾讯专用",
       "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
         "header": {
-          "User-Agent": "Mozilla/5.0"
+          "User-Agent": ""
+        }
+      }
+    },
+    {
+      "name": "🐱手动点击json播",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?=&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": ""
         }
       }
     },
@@ -405,6 +453,16 @@
         "header": {
           "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
           "Referer": "https://www.dy6g.com/"
+        }
+      }
+    },
+    {
+      "name": "🐱6号",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
         }
       }
     },
@@ -575,64 +633,6 @@
         ],
         "header": {
           "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "🐱芒果腾讯专用",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
-        }
-      }
-    },
-    {
-      "name": "🐱手动点击json播",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?=&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
         }
       }
     }
