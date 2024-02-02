@@ -265,7 +265,7 @@
       "name": "💥哔哩戏曲",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "ext": "./js/戏曲.json"
     },
@@ -287,7 +287,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
