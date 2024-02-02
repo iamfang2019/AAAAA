@@ -333,9 +333,25 @@
      "url": "https://z1.m1907.top/?jx=",
       "ext": {
         "flag": [
-"优酷VIP解析","爱奇艺VIP解析","腾讯VIP解析","乐视VIP解析","芒果VIP解析","VIP视频在线解析","VIP视频免费看","在线解析"
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
         ],
-         "header": {
+        "header": {
           "User-Agent": ""
         }
       }
