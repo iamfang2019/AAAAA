@@ -326,10 +326,19 @@
   "parses": [
    {"name": "综合解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA",
 "luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频", "腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
-                {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url=","mobile":1},
                 {"name":"BL","url":"https://vip.bljiex.com/?v=","mobile":0},
                 {"name":"剖云","url":"https://www.pouyun.com/?url=","mobile":0},
                 {"name":"2ys","url":"https://gj.fenxiangb.com/player/analysis.php?v=","mobile":0},
+       {
+      "name": "1907",
+      "type": 0,
+      "url": "https://z1.m1907.top/?jx",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
     {
       "name": "🐱手动点击json播",
       "type": 0,
@@ -473,33 +482,6 @@
       }
     },
     {
-      "name": "🐱三个柒",
-      "type": 0,
-      "url": "     \nhttps://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
       "name": "高清1",
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url=",
@@ -580,34 +562,6 @@
         "header": {
           "User-Agent": "Mozilla/5.0"
         }
-      }
-    },
-    {
-      "name": "酷享解析",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
       }
     },
     {
