@@ -331,6 +331,11 @@
     "name":"RDF解析 无广告",
      "type": 0,
      "url": " https://player.mrgaocloud.com/player/?url="
+           "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
     },
 
 
