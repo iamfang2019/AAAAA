@@ -31,21 +31,21 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "1官源",
+      "name": "咪咕请用解析3",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/咪咕视频.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "2官源",
+      "name": "优酷用解析1/2",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/优酷.js"
     },
     {
       "key": "csp_SP33",
-      "name": "三合一官方",
+      "name": "三合一用解析1/2",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -55,14 +55,14 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "3官源",
+      "name": "爱奇艺用解析1/1",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/爱奇艺.js"
     },
     {
       "key": "drpy_yh",
-      "name": "4官源",
+      "name": "优酷用解析1/2",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/优酷.js"
@@ -325,7 +325,7 @@
   ],
   "parses": [
     {
-      "name": "综合解析",
+      "name": "解析1",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
@@ -371,7 +371,7 @@
       }
     },
     {
-      "name": "🐱手动点击json播",
+      "name": "解析2",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?=&url=",
       "ext": {
@@ -400,17 +400,7 @@
       }
     },
     {
-      "name": "🐱6号",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "高清解析7",
+      "name": "解析3",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
       "ext": {
@@ -434,6 +424,16 @@
           "1905",
           "xigua"
         ]
+      }
+    },
+    {
+      "name": "🐱6号",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
       }
     },
     {
