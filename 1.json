@@ -23,8 +23,8 @@
       "key": "Qtv",
       "name": "腾讯视频",
       "type": 3,
-      "api": "./js/ddrpy2.m.js",
-      "ext": "./js/腾讯视频.js",
+      "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+      "ext": "http://alist.xn--z7x900a.live/腾云.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
