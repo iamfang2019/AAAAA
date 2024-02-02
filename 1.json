@@ -332,7 +332,9 @@
      "type": 0,
      "url": "https://z1.m1907.top/?jx=",
       "ext": {
-        "header": {"User-Agent":"aim-topbar"}
+       "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
         }
     },
     {
