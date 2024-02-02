@@ -621,8 +621,11 @@
       "name": "888",
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url=",
-      "mobile":1
-    }
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
   ],
   "ijk": [
     {
