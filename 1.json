@@ -1,4 +1,4 @@
-﻿{
+{
   "spider": "https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip",
   "lives": [
     {
@@ -34,7 +34,7 @@
       "name": "┃芒果┃官源",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
+      "ext": "./js/咪咕视频.js"
     },
     {
       "key": "drpy_js_优酷",
@@ -54,18 +54,11 @@
       "changeable": 0
     },
     {
-      "key": "drpy_js_百忙无果",
-      "name": "官源 | 🥭",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
-    },
-    {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 |🥝",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
+      "ext": "./js/爱奇艺.js"
     },
     {
       "key": "drpy_yh",
