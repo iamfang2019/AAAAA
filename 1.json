@@ -33,8 +33,8 @@
       "key": "drpy_js_优酷",
       "name": "┃优酷┃官源",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/优酷.js"
     },
     {
       "key": "csp_SP33",
