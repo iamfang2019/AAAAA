@@ -19,6 +19,32 @@
       "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
       "ext": "我的直播$./IPTV/v4v6.txt"
     },
+  
+       
+            {
+                  "key": "Qtv",
+                        "name": "┃企鹅┃官源",
+                              "type": 3,
+                                    "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
+                                          "ext": "http://alist.xn--z7x900a.live/腾云.js",
+                                                "searchable": 1,
+                                                      "quickSearch": 1,
+                                                            "filterable": 1
+                                                                },
+                                                                    {
+                                                                          "key": "drpy_js_百忙无果",
+                                                                                "name": "┃芒果┃官源",
+                                                                                      "type": 3,
+                                                                                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+                                                                                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+                                                                                                      },
+                                                                                                          {
+                                                                                                                "key": "drpy_js_优酷",
+                                                                                                                      "name": "┃优酷┃官源",
+                                                                                                                            "type": 3,
+                                                                                                                                  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+                                                                                                                                        "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+                                                                                                                                            },
     {
       "key": "csp_SP33",
       "name": "🍳┃33官源┃",
