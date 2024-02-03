@@ -22,8 +22,7 @@
     },
     {
       "key": "Qtv",
-      "name": "提前预祝",
-      //"name": "腾讯视频",
+       "name": "💥腾讯视频",
       "type": 3,
       "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.live/腾云.js",
@@ -33,8 +32,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "各位群友",
-      //"name": "💥💥💥💥",
+     "name": "💥💥一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -43,8 +41,7 @@
     },   
     {
       "key": "量子",
-      "name": "💥💥💥💥",
-     // "name": "藏金阁专线",
+      "name": "藏金阁专线",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -88,8 +85,7 @@
     },
     {
       "key": "鑫鑫影视",
-      "name": "新年快乐",
-      //"name": "💥鑫鑫影视",
+      "name": "💥鑫鑫影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -100,8 +96,7 @@
 
     {
       "key": "光速资源",
-      "name": "💥💥💥💥",
-      //"name": "🎀光速┃采集🎀",
+      "name": "💥光速采集",
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -128,48 +123,8 @@
       ]
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "疯狗影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/疯狗影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "七新影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/七新影视.json"
-    },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "奇优影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/奇优影视.json"
-    },
-    {
       "key": "csp_热播",
-      "name": "热播之家|T追剧",
+      "name": "💥热播之家",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -178,58 +133,8 @@
       "ext": "./json/热播之家.json"
     },
     {
-      "key": "csp_日后",
-      "name": "日后影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/348影视.json"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "达龟影院|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/达达龟影视.json"
-    },
-    {
-      "key": "csp_蛋蛋",
-      "name": "蛋蛋影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/蛋蛋影视.json"
-    },
-    {
-      "key": "csp_黑狐",
-      "name": "黑狐影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/黑狐影视.json"
-    },
-    {
-      "key": "csp_非凡",
-      "name": "非凡资源|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/非凡资源网.json"
-    },
-    {
       "key": "荐片",
-      "name": "荐片秒播|T追剧",
+      "name": "💥荐片秒播",
       "type": 3,
       "api": "csp_RinHome",
       "searchable": 1,
@@ -255,7 +160,7 @@
     },
     {
       "key": "酷奇js",
-      "name": "🎧酷奇MTV✨",
+      "name": "💥酷奇MV",
       "type": 3,
       "api": "./ext/drpy2.min.js",
       "ext": "./js/酷奇MV.js",
