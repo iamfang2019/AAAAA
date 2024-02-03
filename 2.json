@@ -31,6 +31,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_SP33",
+      "name": "腾优奇",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "一起看 ",
      "name": "💥💥一起看",
       "type": 3,
