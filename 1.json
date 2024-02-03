@@ -409,6 +409,16 @@
         ]
       }
     },
+       {
+      "name": "🐱32号",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
     {
       "name": "🐱6号",
       "type": 0,
@@ -549,16 +559,7 @@
         }
       }
     },
-    {
-      "name": "🐱32号",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
+
     {
       "name": "江湖解析",
       "type": 0,
