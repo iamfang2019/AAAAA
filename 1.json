@@ -429,15 +429,6 @@
         }
       }
     },
-    {"name":"纯净1",
-    "type": 0,    
-    "url":"https://im1907.top/?jx=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
     {
       "name": "🐱6号",
       "type": 0,
