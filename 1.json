@@ -412,6 +412,16 @@
     {
       "name": "抽风解析4",
       "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "抽风解析5",
+      "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
@@ -533,16 +543,6 @@
       "name": "🐱10号",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "🐱15号",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url=",
       "ext": {
         "header": {
           "User-Agent": "Mozilla/5.0"
