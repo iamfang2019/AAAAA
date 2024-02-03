@@ -41,7 +41,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "💥南瓜App",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -60,7 +60,7 @@
     },
     {
       "key": "💥光速资源",
-      "name": "光速采集",
+      "name": "💥光速采集",
       "type": 1,
       "api": "http://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -88,7 +88,7 @@
     },
     {
       "key": "Qtv",
-      "name": "腾讯视频",
+      "name": "💥腾讯视频",
       "type": 3,
       "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.live/腾云.js",
@@ -98,21 +98,21 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "咪咕视频",
+      "name": "💥咪咕视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/咪咕视频.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷视频",
+      "name": "💥优酷视频",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/优酷.js"
     },
     {
       "key": "csp_SP33",
-      "name": "腾优奇",
+      "name": "💥💥腾优奇",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -122,14 +122,14 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "爱奇艺",
+      "name": "💥💥爱奇艺",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/爱奇艺.js"
     },
     {
       "key": "csp_疯狗",
-      "name": "疯狗影视|T追剧",
+      "name": "💥疯狗影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -139,7 +139,7 @@
     },
     {
       "key": "csp_七新",
-      "name": "七新影视|T追剧",
+      "name": "💥七新影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "csp_xBPQ_奇优",
-      "name": "奇优影视|T追剧",
+      "name": "💥奇优影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -159,7 +159,7 @@
     },
     {
       "key": "csp_日后",
-      "name": "日后影视|T追剧",
+      "name": "💥日后影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -169,7 +169,7 @@
     },
     {
       "key": "csp_达龟",
-      "name": "达龟影院|T追剧",
+      "name": "💥达龟影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "csp_蛋蛋",
-      "name": "蛋蛋影视|T追剧",
+      "name": "💥蛋蛋影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -189,7 +189,7 @@
     },
     {
       "key": "csp_黑狐",
-      "name": "黑狐影视|T追剧",
+      "name": "💥黑狐影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -199,7 +199,7 @@
     },
     {
       "key": "csp_非凡",
-      "name": "非凡资源|T追剧",
+      "name": "💥非凡资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -209,7 +209,7 @@
     },
     {
       "key": "荐片",
-      "name": "荐片秒播|T追剧",
+      "name": "💥荐片秒播",
       "type": 3,
       "api": "csp_RinHome",
       "searchable": 1,
@@ -217,7 +217,7 @@
       "filterable": 0
     },
     {"key": "乐视",
-      "name": "🍄乐视┃推荐",
+      "name": "💥乐视推荐",
       "type": 1,
       "api": " https://leshizyapi.com/api.php/provide/vod/",
       "categories": [ "短剧", "国产剧", "科幻片", "国产动漫" ] },
@@ -232,7 +232,7 @@
     },
     {
       "key": "酷狗",
-      "name": "酷狗",
+      "name": "💥💥酷狗💥",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
@@ -240,7 +240,7 @@
     },
     {
       "key": "酷奇js",
-      "name": "🎧酷奇MTV✨",
+      "name": "💥酷奇MTV",
       "type": 3,
       "api": "./ext/drpy2.min.js",
       "ext": "./js/酷奇MV.js",
