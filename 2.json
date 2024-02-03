@@ -783,17 +783,7 @@
         "110.42.2.115",
         "m3u8"
       ]
-    },
-
-        {
-            "name": "農民嗅探",
-            "hosts": [
-                "toutiaovod.com"
-            ],
-            "regex": [
-                "video/tos/cn"
-            ]
-        }
+    }
     ],
 
   "doh": [
@@ -845,23 +835,9 @@
     "ae01.alicdn.com",
     "mg.g1mm3d.cn",
     "mimg.0c1q0l.cn",
-   
     "www.googleanalytics.com",
     "www.googletagmanager.com",
     "www.jixunkyy.cn",
-    "xc.hubeijieshikj.cn",
-    "xdn.cqqc3.com",
-    "xg.gars57.cn",
-    "xg.huataisangao.cn",
-    "xg.whsbpw.cn",
-    "xomk.jiangjunmh.top",
-    "z1.cnzz.com",
-    "z12.cnzz.com",
-    "z2.cnzz.com",
-    "z3.cnzz.com",
-    "z5.cnzz.com",
-    "z6.cnzz.com",
-    "z7.cnzz.com",
-    "z8.cnzz.com"
+    "xc.hubeijieshikj.cn"
   ]
 }
