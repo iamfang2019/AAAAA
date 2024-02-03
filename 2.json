@@ -263,7 +263,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
@@ -277,7 +277,7 @@
         "ratio": 1.597
       },
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "changeable": 0,
       "ext": "./js/MTV.json"
     }
