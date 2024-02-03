@@ -1091,7 +1091,8 @@
     }
   ],
    "ads": [
-        "ae01.alicdn.com",
+    "www.google-analytics.com",
+    //"ae01.alicdn.com",
     "c.cnzz.com",
     "cdn.bootcss.com",
     "cdnjs.hnfenxun.com",
@@ -1132,7 +1133,7 @@
     "wofwk.aoidf3.com",
     "www.92424.cn",
     "www.baihuillq.com",
-    "www.google-analytics.com",
+  
     "www.googleanalytics.com",
     "www.googletagmanager.com",
     "www.jixunkyy.cn",
