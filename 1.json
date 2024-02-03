@@ -429,29 +429,12 @@
         }
       }
     },
-    {"name":"纯净1","url":"https://im1907.top/?jx=",
-          "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
+    {"name":"纯净1",
+    "type": 0,    
+    "url":"https://im1907.top/?jx=",
+      "ext": {
         "header": {
-          "User-Agent": ""
+          "User-Agent": "Mozilla/5.0"
         }
       }
     },
