@@ -769,7 +769,17 @@
     }
   ],
    "rules": [
-               {
+                     {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+   {
 
       "name": "量子",
       "hosts": [
@@ -789,17 +799,7 @@
                 "15.1666"
             ]
         },
-        {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
+   {
       "host": "jx.jsonplayer.com",
       "rule": [
         ".mp4",
