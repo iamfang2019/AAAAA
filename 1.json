@@ -429,9 +429,9 @@
         }
       }
     },
-    {"name":"纯净1","url":"https://im1907.top/?jx=","mobile":1,      "ext": {
+    {"name":"纯净1","url":"https://im1907.top/?jx=","mobile":1,       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0"
+          "User-Agent": "okhttp/4.1.0"
         }
       }},
     {
