@@ -17,7 +17,7 @@
     {"key": "csp_热播","name": "💥热播之家💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
     {"key": "荐片","name": "💥荐片秒播💥","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},
-    {"key": "酷狗","name": "酷狗💥","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
+  //{"key": "酷狗","name": "酷狗💥","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
     {"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
     
