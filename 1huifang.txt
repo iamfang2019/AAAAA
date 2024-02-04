@@ -1,4 +1,9 @@
 央视频道,#genre#,https://epg.erw.cc/api/diyp
+星空电影台,https://bstvcdn.ballbar.net/xingkong/playlist-12.m3u8a?t=1707031734&token=c81d93705ee5c74a03516c244caa5ef7
+星卫电影,https://bstvcdn.ballbar.net/xingwei_movie/playlist-12.m3u8a?t=1707031792&token=d13804c136f0c21557021942c6700c87
+美亚电影,https://bstvcdn.ballbar.net/meiyamovie_twn/playlist-12.m3u8a?t=1707031842&token=03b07a1c47e4039f44360ab745e1a71a
+龙华电影,https://bstvcdn.ballbar.net/lunghuamovie_twn/playlist-12.m3u8a?t=1707031903&token=28f4c28b580450bbb02dabaab8486e65
+东森电影,https://bstvcdn.ballbar.net/ettvmovie/playlist-12.m3u8a?t=1707031943&token=a37680bfa3218e0c1ca9ce46ef3e2a8c
 纬来电影, https://bstvcdn.ballbar.net/videolandmovie/playlist-12.m3u8a?t=1707027549&token=b0646fa506ba8b4ff94b68f1ac714ec6
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
