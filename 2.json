@@ -1,54 +1,29 @@
 {
-  "spider": "https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip","lives": [
+  "spider": "https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
+  "lives": [
     {
       "name": "live","type": 0,"url": "./1huifang.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],"sites": [
-    {
-      "key": "直播","name": "流星坠落",
-      "name": "💻电视直播","type": 3,"api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "我的直播$./IPTV/v4v6.txt"
-    },
-    {"key": "Qtv","name": "💥腾讯视频💥","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/腾云.js","searchable": 1,"quickSearch": 1,"filterable": 1
-        },
-            {"key": "drpy_js_百忙无果","name": "💥咪咕视频💥","type": 3,"api": "./js/drpy2.min.js","ext": "./js/咪咕视频.js"},
-                {"key": "drpy_js_优酷","name": "💥优酷视频💥","type": 3,"api": "./js/drpy2.min.js","ext": "./js/优酷.js"},
-                    {"key": "csp_SP33","name": "💥💥腾优奇💥","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0
-                        },
-                            {"key": "drpy_js_奇珍异兽","name": "💥💥爱奇艺💥","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱奇艺.js"},
-    {
-      "key": "鑫鑫影视","name": "💥鑫鑫影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-
-    {
-      "key": "光速资源","name": "💥光速采集","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": [
-        "动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"
-      ]
-    },
-    {
-      "key": "csp_热播","name": "💥热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"
-    },
-    {
-      "key": "荐片","name": "💥荐片秒播","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"filterable": 0
-    },
-    {
-      "key": "csp_戏曲","name": "💥哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"
-    },
-    {
-      "key": "酷狗","name": "酷狗","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0
-    },
-    {
-      "key": "酷奇js","name": "💥酷奇MV","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {
-        "type": "rect","ratio": 1.597
-      },"searchable": 1,"quickSearch": 1,"changeable": 0
-    },
-    {
-      "key": "MTV","name": "💥明星 MV","type": 3,"api": "csp_Bili","style": {
-        "type": "rect","ratio": 1.597
-      },"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"
-    }
-  ],"parses": [
-     {
-      "name": "解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {
+  ],
+  "sites": [
+    {"key": "直播","name": "流星坠落","name": "💻电视直播","type": 3,"api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "我的直播$./IPTV/v4v6.txt"},
+    {"key": "Qtv","name": "💥腾讯视频💥","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/腾云.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+    {"key": "drpy_js_百忙无果","name": "💥咪咕视频💥","type": 3,"api": "./js/drpy2.min.js","ext": "./js/咪咕视频.js"},
+    {"key": "drpy_js_优酷","name": "💥优酷视频💥","type": 3,"api": "./js/drpy2.min.js","ext": "./js/优酷.js"},
+    {"key": "csp_SP33","name": "💥💥腾优奇💥","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+    {"key": "drpy_js_奇珍异兽","name": "💥💥爱奇艺💥","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/爱奇艺.js"},
+    {"key": "鑫鑫影视","name": "💥鑫鑫影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
+    {"key": "光速资源","name": "💥光速采集","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": [
+        "动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]},
+    {"key": "csp_热播","name": "💥热播之家","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
+    {"key": "荐片","name": "💥荐片秒播","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"filterable": 0},
+    {"key": "csp_戏曲","name": "💥哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},
+    {"key": "酷狗","name": "酷狗","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
+    {"key": "酷奇js","name": "💥酷奇MV","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0},
+    {"key": "MTV","name": "💥明星 MV","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
+    
+    "parses": [
+     {"name": "解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {
         "flag": [
           "qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"
         ],"header": {
@@ -56,8 +31,7 @@
         }
       }
     },
-    {
-      "name": "解析2","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {
+    {"name": "解析2","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {
         "flag": [
           "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"
         ],"header": {
