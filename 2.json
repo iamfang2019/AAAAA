@@ -51,6 +51,13 @@
         }
       }
     },
+        {
+      "name": "BL解析","type": 0,"url": "https://m1-z2.cloud.vving.vip:2223/?jx","ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
     {
       "name": "boz","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {
         "flag": [
