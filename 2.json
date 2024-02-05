@@ -36,14 +36,6 @@
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
         }}
     },
- 
-    {
-      "name": "yunpan","type": 1,"url": "http://pandown.pro/app/kkdy.php?url=","ext": {
-        "flag": [
-          "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"
-        ]
-      }
-    },
     {
       "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
         "header": {
