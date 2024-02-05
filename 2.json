@@ -44,7 +44,14 @@
         ]
       }
     },
-   {
+    {
+      "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
       "name": "boz","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {
         "flag": [
           "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"
@@ -88,13 +95,6 @@
     },
     {
       "name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "咸鱼1","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
         "header": {
           "User-Agent": "Mozilla/5.0"
         }
