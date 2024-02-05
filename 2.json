@@ -51,14 +51,6 @@
         }
       }
     },
-        {
-      "name": "BL解析","type": 0,"url": "https://z1.im1907.top/?jx=","ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0",
-          "Referer": "http://www.766kan.com"
-        }
-      }
-    },
     {
       "name": "boz","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {
         "flag": [
