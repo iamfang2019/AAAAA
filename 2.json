@@ -94,6 +94,13 @@
       }
     },
     {
+      "name": "咸鱼1","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
       "name": "pangu","type": 0,"url": "https://www.pangujiexi.com/pangu/?url=","ext": {
         "flag": [
           "qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"
