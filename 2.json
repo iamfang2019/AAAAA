@@ -34,8 +34,9 @@
         }
       }
     },
-    { "name": "抽风解析3","type": 0,"url": "https://www.yemu.xyz/?url=","showType": 3,"header": {
-          "User-Agent": "Mozilla/5.0"
+    { "name": "抽风解析3","type": 0,"url": "https://www.yemu.xyz/?url=","flag": [text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9],
+    header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
         }
     },
  
