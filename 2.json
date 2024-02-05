@@ -34,7 +34,9 @@
         }
       }
     },
-    { "name": "抽风解析3","type": 0,"url": "https://www.yemu.xyz/?url=","showType": 3
+    { "name": "抽风解析3","type": 0,"url": "https://www.yemu.xyz/?url=","showType": 3,"header": {
+          "User-Agent": "Mozilla/5.0"
+        }
     },
  
     {
