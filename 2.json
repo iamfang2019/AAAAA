@@ -45,16 +45,6 @@
       "ext": "./js/优酷.js"
     },
     {
-      "key": "csp_SP33",
-      "name": "💥360影视💥",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "drpy_js_奇珍异兽",
       "name": "💥💥爱奇艺💥",
       "type": 3,
