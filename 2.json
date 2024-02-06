@@ -23,6 +23,7 @@
 
 
     "parses": [
+    {"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1},
      {"name": "抽风解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
         }
