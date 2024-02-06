@@ -18,11 +18,7 @@
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
     
 
-
-
-
-
-    "parses": [
+ "parses": [
      {"name": "抽风解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
         }
@@ -46,34 +42,10 @@
       }
     },
     {
-            "name": "xxys",
-                  "type": 0,
-                        "url": "https://ffzyplayer.com/?url=",
-                              "ext": {
-                                      "flag": [
-                                                "qq",
-                                                          "腾讯",
-                                                                    "qiyi",
-                                                                              "iqiyi",
-                                                                                        "爱奇艺",
-                                                                                                  "奇艺",
-                                                                                                            "youku",
-                                                                                                                      "优酷",
-                                                                                                                                "mgtv",
-                                                                                                                                          "芒果",
-                                                                                                                                                    "letv",
-                                                                                                                                                              "乐视",
-                                                                                                                                                                        "pptv",
-                                                                                                                                                                                  "PPTV",
-                                                                                                                                                                                            "sohu",
-                                                                                                                                                                                                      "搜狐",
-                                                                                                                                                                                                                "bilibili",
-                                                                                                                                                                                                                          "哔哩哔哩",
-                                                                                                                                                                                                                                    "哔哩"
-                                                                                                                                                                                                                                            ]
-                                                                                                                                                                                                                                                  }
-                                                                                                                                                                                                                                                      },
-    }
+      "name": "xxys", "type": 0,"url": "https://ffzyplayer.com/?url=",
+      "ext": { "flag": ["qq", "腾讯", "qiyi", "iqiyi", "爱奇艺","奇艺","youku", "优酷","mgtv","芒果","letv","乐视","pptv",  "PPTV", "sohu","搜狐", "bilibili","哔哩哔哩","哔哩"]}
+    },
+    
     {
       "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
         "header": {
