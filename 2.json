@@ -25,7 +25,6 @@
                                                     "quickSearch": 1,
                                                           "filterable": 1
                                                               },
-        }
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
     
 
