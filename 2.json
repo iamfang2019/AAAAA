@@ -17,6 +17,27 @@
     {"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
     
+    "TVBox修改教程": [
+{"key": "order","name": "排序","value": [
+{"n": "综合排序","v": "0"},
+{"n": "最多点击","v": "click"},
+{"n": "最新发布","v": "pubdate"},
+{"n": "最多弹幕","v": "dm"},
+{"n": "最多收藏","v": "stow"}
+]
+},
+{"key": "duration","name": "时长","value": [
+{"n": "全部时长","v": "0"},
+{"n": "60分钟以上","v": "4"},
+{"n": "30~60分钟","v": "3"},
+{"n": "10~30分钟","v": "2"},
+{"n": "10分钟以下","v": "1"}
+
+]
+}
+],
+
+
     "parses": [
      {"name": "抽风解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
           "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
