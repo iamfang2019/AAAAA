@@ -39,6 +39,14 @@
         }}
     },
     {
+      "name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+
+    {
       "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -82,13 +90,6 @@
     },
     {
       "name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
-    },
-    {
-      "name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {
         "header": {
           "User-Agent": "Mozilla/5.0"
         }
