@@ -16,9 +16,9 @@
   //{"key": "酷狗","name": "💥酷狗💥","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
     {"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
-"parses":[{"name":"解析聚合","type":3,"url":"Demo"},
+"parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+
 # type1 聚合.并发.轮询
   	  
     
