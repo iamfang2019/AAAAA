@@ -13,23 +13,6 @@
     {"key": "csp_热播","name": "💥热播之家💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
     {"key": "荐片","name": "💥荐片秒播💥","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"filterable": 0},
     {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},
-  {"key": "order","name": "排序","value": [
-{"n": "综合排序","v": "0"},
-{"n": "最多点击","v": "click"},
-{"n": "最新发布","v": "pubdate"},
-{"n": "最多弹幕","v": "dm"},
-{"n": "最多收藏","v": "stow"}
-]
-},
-{"key": "duration","name": "时长","value": [
-{"n": "全部时长","v": "0"},
-{"n": "60分钟以上","v": "4"},
-{"n": "30~60分钟","v": "3"},
-{"n": "10~30分钟","v": "2"},
-{"n": "10分钟以下","v": "1"}
-
-]
-},
   //{"key": "酷狗","name": "💥酷狗💥","type": 3,"api": "csp_Kugou","searchable": 0,"changeable": 0},
     {"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
