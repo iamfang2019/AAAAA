@@ -172,7 +172,7 @@
       "type": 2,
       "url": "Sequence"
     },
-  # type0 聚合.并发.轮询
+  # type1 聚合.并发.轮询
     {
       "name": "抽风解析1",
       "type": 1,
