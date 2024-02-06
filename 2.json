@@ -180,17 +180,7 @@
     {
       "name": "抽风解析2",
       "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?=&url=",
-      "ext": {
-        "flag": [
-          "text/html",
-          "application/xhtml+xml",
-          "application/xml;q=0.9",
-          "image/avif",
-          "image/webp",
-          "image/apng",
-          "*/*;q=0.8",
-          "application/signed-exchange;v=b3;q=0.9"
+      "url": "https://jx.jsonplayer.com/player/?=&url="
         ],
         "header": {
           "User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"
