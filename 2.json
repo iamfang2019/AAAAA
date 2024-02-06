@@ -19,44 +19,21 @@
     
 
  "parses": [
-     {"name": "抽风解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
-        }
-      }
+    {"name": "抽风解析1","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"}}
     },
     {"name": "抽风解析2","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],"header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
-        }
-      }
+          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"}}
     },
     { "name": "抽风解析3","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["text/html","application/xhtml+xml","application/xml;q=0.9","image/avif","image/webp","image/apng","*/*;q=0.8","application/signed-exchange;v=b3;q=0.9"],
-    header": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"
-        }}
+    header": {"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36"}}
     },
-    {
-      "name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+    {"name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0" }}
     },
-    {
-      "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+    { "name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v=","ext": { "header": { "User-Agent": "Mozilla/5.0" }}
     },
-    {
-      "name": "boz","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {
-        "flag": [
-          "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"
-        ]
-      }
-    },
-    {
-      "name": "555","type": 0,"url": "https://jiexi.555jiexi.net:555/player/?url=","ext": {
+    {"name": "boz","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]} },
+    {"name": "555","type": 0,"url": "https://jiexi.555jiexi.net:555/player/?url=","ext": {
         "header": {
           "User-Agent": "okhttp/4.1.0"
         }
