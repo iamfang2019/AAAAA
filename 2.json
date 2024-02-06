@@ -194,7 +194,7 @@
     },
     {
       "name": "抽风解析2",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.jsonplayer.com/player/?=&url=",
       "ext": {
         "flag": [
@@ -214,7 +214,7 @@
     },
     {
       "name": "抽风解析3",
-      "type": 1,
+      "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
         "flag": [
