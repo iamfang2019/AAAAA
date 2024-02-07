@@ -146,7 +146,9 @@
       "ext": "./js/MTV.json"
     }
   ],
-  "parses": [
+  "parses": [{"name":"json聚合","type":3,"url":"Demo"},
+{"name":"json并发","type":2,"url":"Parallel"},
+{"name":"json轮询","type":2,"url":"Sequence"},
     {
       "name": "抽风解析1",
       "type": 1,
