@@ -35,7 +35,7 @@
         "flag": [
           "seven"
         ],
-       "Encoding": ["g"zip", "deflate",],
+       "Encoding": ["gzip", "deflate"],
 "Host": xiutan.shiyifacai.com,
 "Connection": keep-alive,
 "Insecure-Requests": 1,
