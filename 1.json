@@ -19,6 +19,7 @@
       "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
       "ext": "我的直播$./IPTV/v4v6.txt"
     },
+    {"key":"360影院","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"changeable": 1,"jar": "./jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"},
     {
       "key": "drpy_js_优酷",
       "name": "优酷官源",
