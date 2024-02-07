@@ -252,57 +252,7 @@
 			}
 		}
 	],
-	
-	 "rules": [
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "一起看",
-      "hosts": [
-        "yqk88"
-      ],
-      "regex": [
-        "15.1666"
-      ]
-    },
-    {
-      "host": "jx.jsonplayer.com",
-      "rule": [
-        ".mp4",
-        ".m3u8",
-        "?vkey=",
-        "110.42.2.115",
-        "m3u8"
-      ]
-    },
-    {
-      "name": "農民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    }
-  ],
+
  "flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","m1905", "xigua", "letv","leshi","乐
 
 视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou","mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩","SPA","YuMi-
