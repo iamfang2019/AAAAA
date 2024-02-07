@@ -151,7 +151,7 @@
 {"name":"json轮询","type":2,"url":"Sequence"},
     {
       "name": "抽风解析1",
-      "type": 1,
+      "type": 2,
       "url": "http://119.91.123.253:2345/Api/yun.php?url=",
       "ext": {
         "flag": [
