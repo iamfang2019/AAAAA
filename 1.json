@@ -20,6 +20,13 @@
       "ext": "我的直播$./IPTV/v4v6.txt"
     },
     {
+      "key": "drpy_js_优酷",
+      "name": "┃优酷┃官源",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    {
       "key": "drpy_js_百忙无果",
       "name": "┃芒果┃官源",
       "type": 3,
