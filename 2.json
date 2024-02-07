@@ -24,21 +24,30 @@
 		"name": "💥咪咕视频💥",
 		"type": 3,
 		"api": "./js/drpy2.min.js",
-		"ext": "./js/咪咕视频.js"
+		"ext": "./js/咪咕视频.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
 	}, 
 	{
 		"key": "drpy_js_优酷",
 		"name": "💥优酷视频💥",
 		"type": 3,
 		"api": "./js/drpy2.min.js",
-		"ext": "./js/优酷.js"
+		"ext": "./js/优酷.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
 	}, 
 	{
 		"key": "drpy_js_奇珍异兽",
 		"name": "💥💥爱奇艺💥",
 		"type": 3,
 		"api": "./lib/drpy2.min.js",
-		"ext": "./js/爱奇艺.js"
+		"ext": "./js/爱奇艺.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1
 	}, 
 	{
 		"key": "鑫鑫影视",
