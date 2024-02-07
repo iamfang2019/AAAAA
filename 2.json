@@ -8,8 +8,7 @@
       "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
-      "mobile": 0,
-      "requests": 1,
+      "Requests": 1,
       "ext": {
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -40,7 +39,6 @@
     {
       "name": "抽风解析2",
       "type": 0,
-      "mobile": 0,   
       "requests": 1,
       "url": "https://jx.jsonplayer.com/player/?=&url=",
       "ext": {
@@ -63,6 +61,7 @@
       "name": "抽风解析3",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
+      "Requests": 1,
       "ext": {
         "flag": [
           "text/html",
