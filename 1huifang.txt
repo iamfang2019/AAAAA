@@ -51,7 +51,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 重庆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 
 影视频道,#genre#
-重温经典,http://218.201.23.215:80/session/6a8eef18-c49f-11ee-9b93-5254003e6f6f$h1.0$default/odsvu7/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8?token=526e5fbb46e7fc8f3ac48cc493d022b6_1707276346_1707276346
+重温经典台,http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
 知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
