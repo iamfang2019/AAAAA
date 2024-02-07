@@ -9,14 +9,7 @@
 		"epg": "https://epg.erw.cc/api/diyp",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	}],
-	"sites": [{
-		"key": "直播",
-		"name": "💻电视直播",
-		"type": 3,
-		"api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
-		"ext": "我的直播$./IPTV/v4v6.txt"
-	},
-    {
+	"sites": [ {
 		"key": "Qtv",
 		"name": "💥腾讯视频💥",
 		"type": 3,
@@ -25,22 +18,19 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, 
-	{
+	}, {
 		"key": "drpy_js_百忙无果",
 		"name": "💥咪咕视频💥",
 		"type": 3,
 		"api": "./js/drpy2.min.js",
 		"ext": "./js/咪咕视频.js"
-	}, 
-	{
+	}, {
 		"key": "drpy_js_优酷",
 		"name": "💥优酷视频💥",
 		"type": 3,
 		"api": "./js/drpy2.min.js",
 		"ext": "./js/优酷.js"
-	}, 
-	{
+	}, {
 		"key": "drpy_js_奇珍异兽",
 		"name": "💥💥爱奇艺💥",
 		"type": 3,
