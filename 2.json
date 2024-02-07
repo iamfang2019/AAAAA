@@ -63,8 +63,6 @@
       "name": "抽风解析3",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
-      "mobile": 0,
-      "requests": 1,
       "ext": {
         "flag": [
           "text/html",
