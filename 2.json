@@ -156,7 +156,7 @@
     },
     {
       "name": "xmflv",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
