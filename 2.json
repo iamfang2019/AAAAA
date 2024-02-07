@@ -35,6 +35,10 @@
         "flag": [
           "seven"
         ],
+       "Encoding": gzip, deflate
+"Host": xiutan.shiyifacai.com,
+"Connection": keep-alive,
+"Insecure-Requests": 1,
         "header": {
           "User-Agent": "Lavf/58.12.100"
         }
