@@ -29,16 +29,13 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, 
-	{
-		"key": "drpy_js_优酷",
-		"name": "💥优酷视频💥",
-		"type": 3,
-		"api": "./js/drpy2.min.js",
-		"ext": "./js/优酷.js",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
+    {
+      "key": "drpy_js_优酷",
+      "name": "优酷官源",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "爱奇艺官源",
