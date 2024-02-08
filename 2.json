@@ -114,11 +114,10 @@
 	}],
 
 
-	"parses": [ 
-		{"name":"解析聚合","type":3,"url":"Demo"},
-	    {"name":"Json并发","type":2,"url":"Parallel"},
+	"parses": [ {"name":"Json并发","type":2,"url":"Parallel"},
 		{"name":"Json轮询","type":2,"url":"Sequence"},
-		{
+		{"name":"解析聚合","type":3,"url":"Demo"},
+    {
 			"name": "xmflv",
 			"type": 0,
 			"url": "https://jx.xmflv.com/?url=",
