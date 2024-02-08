@@ -9,14 +9,13 @@
 	{"key": "csp_热播","name": "💥热播之家💥","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/热播之家.json"},
 	{"key": "荐片","name": "💥荐片秒播💥","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"filterable": 0},
 	{"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},
-	{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597
-		},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
+	{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
 
 
 	"parses": [ {"name":"Json并发","type":2,"url":"Parallel"},
 		{"name":"Json轮询","type":2,"url":"Sequence"},
 		{"name":"解析聚合","type":3,"url":"Demo"},
-    {"name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+        {"name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
 		{"name": "咸鱼","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
 		{"name": "MeowTV","type": 1,"url": "http://jx.meowtv.cn/?url="},
 		{"name": "解析5","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
@@ -32,8 +31,7 @@
 		{"name": "pangu","type": 0,"url": "https://www.pangujiexi.com/pangu/?url=","ext=":{"flag": ["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header": {"User-Agent": "Dart/2.14(dart:io)"}}}
 	],
   "ijk": [
-    {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}
-      ]},
+    {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]},
     {"group": "硬解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "1"},{"category": 4,"name": "mediacodec-auto-rotate","value": "1"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},{"category": 4,"name": "mediacodec-hevc","value": "1"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
   "rules": [
     {"name": "非凡","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
