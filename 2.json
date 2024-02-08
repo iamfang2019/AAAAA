@@ -19,6 +19,13 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, 
+    {
+      "key": "搜狗",
+      "name": "搜狗官源",
+      "type": 3,
+      "api": "https://weixine.net/js/lib/drpy2.min.js",
+      "ext": "https://pan.shangui.cc/f/PkvpUK/%E8%8F%9C%E7%8B%97.js"
+    },
 	{
 		"key": "drpy_js_百忙无果",
 		"name": "💥咪咕视频💥",
