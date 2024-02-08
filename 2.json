@@ -96,7 +96,7 @@
 		"quickSearch": 1,
 		"ext": "./js/戏曲.json"
 	}, 
-	{"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0}, 
+ // {"key": "酷奇js","name": "💥酷奇MV💥","type": 3,"api": "./ext/drpy2.min.js","ext": "./js/酷奇MV.js","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0}, 
 	{
 		"key": "MTV",
 		"name": "💥明星 MV💥",
