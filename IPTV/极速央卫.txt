@@ -1,4 +1,3 @@
-﻿
 CCTV第一剧场,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
 CCTV风云剧场,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
 CCTV怀旧剧场,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
