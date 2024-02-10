@@ -1,3 +1,4 @@
+剧场频道,#genre#,
 CCTV第一剧场,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
 CCTV风云剧场,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
 CCTV怀旧剧场,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
@@ -12,6 +13,7 @@ CHC电影,http://183.237.231.139:9901/tsfile/live/1052_1.m3u8
 知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 繁花,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228710/index.m3u8
+央视频道,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227375/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221228118/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227295/index.m3u8
@@ -28,6 +30,7 @@ CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb0c]/ott.mobaibox.com/PLTV/4/224/3
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/4/224/3221225560/index.m3u8
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221225817/index.m3u8
 CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228320/index.m3u8
+卫视频道,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 江苏卫视 4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221228127/index.m3u8
@@ -62,5 +65,3 @@ CCTV16 4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/22
 崇川TV,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228533/index.m3u8
 泰州3,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228100/index.m3u8
 徐州4台,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/4/224/3221225951/index.m3u8
-香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-本港台,http://113.117.74.28:8081/hls/135/index.m3u8
