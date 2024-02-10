@@ -1,7 +1,6 @@
 剧场频道,#genre#,https://epg.erw.cc/api/diyp
 CCTV第一剧场,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
 CCTV风云剧场,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
-CCTV怀旧剧场,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
 CHC电影,http://183.237.231.139:9901/tsfile/live/1052_1.m3u8
 超级电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000031/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000031&livemode=1&stbId=3
 家庭剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
@@ -10,7 +9,6 @@ CHC电影,http://183.237.231.139:9901/tsfile/live/1052_1.m3u8
 爱情喜剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
 精品大剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227618/index.m3u8
 军旅剧场,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
-知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
 繁花,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228710/index.m3u8
 央视频道,#genre#
