@@ -306,7 +306,7 @@
 		{"name":"Json轮询","type":2,"url":"Sequence"},
 		{
 			"name": "xmflv",
-			"type": 0,
+			"type": 1,
 			"url": "https://jx.xmflv.com/?url=",
 			"ext": {
 				"flag": [
@@ -319,7 +319,7 @@
 		},
 		{
 			"name": "咸鱼",
-			"type": 0,
+			"type": 1,
 			"url": "https://jx.xyflv.cc/?url=",
 			"ext": {
 				"header": {
@@ -379,7 +379,7 @@
 		},
 		{
 			"name": "抽风解析2",
-			"type": 0,
+			"type": 1,
 			"url": "https://jx.jsonplayer.com/player/?=&url=",
 			"ext": {
 				"flag": [
@@ -409,7 +409,7 @@
 		},
 		{
 			"name": "抽风解析3",
-			"type": 0,
+			"type": 1,
 			"url": "https://www.yemu.xyz/?url=",
 			"Requests": 1,
 			"ext": {
@@ -440,7 +440,7 @@
 		},
     {
       "name": "🐱芒果腾讯专用",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
