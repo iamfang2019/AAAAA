@@ -7,7 +7,7 @@
       "url": "./肥猫.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml",
+      "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
