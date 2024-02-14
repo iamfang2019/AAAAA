@@ -1,23 +1,15 @@
 { "storeHouse":  [
 {
-"sourceName": "🏆绿茶①🏆",
-"sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/多仓.json"
+"sourceName": "多仓1",
+"sourceUrl": "http://qrh.yimkj.cn/壹梦多仓.json"
 },
 {
-"sourceName": "🏆绿茶②🏆",
+"sourceName": "多仓2",
 "sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/多仓.json"
 },
       {
-"sourceName": "🏆绿茶③🏆",
+"sourceName": "多仓3",
   "sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/5.json"
-        },
-{
-"sourceName": "🏆绿茶④🏆",
-  "sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/1.json"
-},
-{
- "sourceName": "🏆绿茶⑤🏆",
-"sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/多仓.json"
-}
+        }
 ]
 }
