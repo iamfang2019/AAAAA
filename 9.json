@@ -1,5 +1,5 @@
 { "storeHouse":  [
-//{"sourceName": "多仓1","sourceUrl": ""},
+{"sourceName": "多仓1","sourceUrl": "http://530.my3v.work/f.json"},
 {
 "sourceName": "多仓2",
 "sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/多仓.json"
