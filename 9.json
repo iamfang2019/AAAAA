@@ -1,8 +1,5 @@
 { "storeHouse":  [
-{
-"sourceName": "多仓1",
-"sourceUrl": "https://cyuan.netlify.app/tvbox/store18.json"
-},
+//{"sourceName": "多仓1","sourceUrl": ""},
 {
 "sourceName": "多仓2",
 "sourceUrl": "https://raw.gitcode.com/frxz751113/1/raw/main/多仓.json"
