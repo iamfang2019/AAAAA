@@ -317,19 +317,8 @@
       "header": {
         "User-Agent": "Mozilla/5.0"
       }
-    }
-  ],
-  "parses": [
-    {
-      "name": "若视频无法加载",
-      "type": 2,
-      "url": "Parallel"
     },
-    {
-      "name": ",请依次点击",
-      "type": 2,
-      "url": "Sequence"
-    },
+
     {
       "name": "各个解析",
       "type": 0,
