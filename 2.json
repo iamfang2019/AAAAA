@@ -19,6 +19,7 @@
 "parses": [     {"name":"若视频无法加载","type":2,"url":"Parallel"},
     {"name":",请依次点击","type":2,"url":"Sequence"},
 	{"name": "各个解析","type": 0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+    {"name": "解析5","type": 0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
     {"name": "解析1","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
 	{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
     //{"name": "本列解析","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
