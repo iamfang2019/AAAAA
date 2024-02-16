@@ -16,7 +16,7 @@
 	{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
 
 
-"parses": [//{"name":"聚合解析","type":3,"url":"Demo"}, 
+"parses": [{"name":"聚合解析","type":3,"url":"Demo"}, 
     //{"name":"解析并发","type":2,"url":"Parallel"}, 
     {"name":"解析轮询","type":2,"url":"Sequence"},
 	{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
