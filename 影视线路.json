@@ -42,7 +42,7 @@
     },
   {
       "key": "Qtv",
-      "name": "🍎腾讯",
+      "name": "腾讯视频",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
