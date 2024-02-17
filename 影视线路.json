@@ -19,6 +19,8 @@
       "api": "./%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
       "ext": "我的直播$./IPTV/v4v6.txt"
     },
+    {"key": "百度资源", "name": "百度(官)","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["大陆剧", "战争片","动作片","喜剧片"] },
+
     {
       "key": "drpy_js_优酷",
       "name": "优酷官源",
