@@ -3,6 +3,7 @@
 V6网下观看,#genre#,
 音乐台①,http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
 音乐台②,http://zzy789.xyz/douyu1.php?id=3870925#http://mmitv.top/test/douyu.php?id=3870925
+音乐台3,http://171.214.202.220:4000/udp/239.93.0.157:2194
 央视V6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
