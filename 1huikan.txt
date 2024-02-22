@@ -1,9 +1,8 @@
 标有V6的请,#genre#,https://epg.erw.cc/api/diyp
 五峰电视台,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 V6网下观看,#genre#,
-宜昌综合,http://pcplay.3xgd.com/sxgd/zhpd.m3u8?auth_key=1708605255-0-0-35edb7d0554fbbd6455ab54987e2a34d
-宜昌旅游生活,http://pcplay.3xgd.com/sxgd/lysw.m3u8?auth_key=1708605321-0-0-106d6c0c8e987c7ffc8fae2e32b2c619
-
+音乐台①,http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
+音乐台②,http://zzy789.xyz/douyu1.php?id=3870925#http://mmitv.top/test/douyu.php?id=3870925
 央视V6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
