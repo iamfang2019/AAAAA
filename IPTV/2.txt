@@ -178,24 +178,7 @@ GRTN文化[1280*720],https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=16
 广州综合[1280*720],http://r.jdshipin.com/iR6Gq
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州影视[1280*720],http://r.jdshipin.com/TcKr2
-深圳都市[1280*720],http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
-东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-佛山综合[1280*720],http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视[1280*720],http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共[1280*720],http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海[1280*720],http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德[1280*720],http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明[720*404],http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水[720*404],http://php.jdshipin.com:8880/fstv.php?id=fsss
-云浮综合[720*404],https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅[720*404],https://livestream.oeeee.com/slive/17807.m3u8
-惠阳电视台[1280*720],http://ci.emdoor.tech:8080/touchtv.php?pk=2470
-惠东综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2404
-深圳东部[1280*720],https://lglivepull.sznews.com/live/2646.m3u8?zguangd
-深圳龙岗[1280*720],https://lglivepull.sznews.com/live/2647.m3u8
-深圳众创[1280*720],https://lglivepull.sznews.com/live/2645.m3u8
-深圳东部[1280*720],https://lglivepull.sznews.com/live/2646.m3u8
+
 
 河南,#genre#
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
