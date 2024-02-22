@@ -1,4 +1,4 @@
-标注V6请于,#genre#,https://epg.erw.cc/api/diyp
+标有V6的请,#genre#,https://epg.erw.cc/api/diyp
 五峰电视台,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 V6网下观看,#genre#,
 宜昌综合,http://pcplay.3xgd.com/sxgd/zhpd.m3u8?auth_key=1708605255-0-0-35edb7d0554fbbd6455ab54987e2a34d
