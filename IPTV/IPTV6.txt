@@ -1,4 +1,4 @@
-标有V6的请,#genre#,https://epg.erw.cc/api/diyp
+标有V6的请,#genre#,http://epg.erw.cc/e.xml.gz
 五峰电视台,https://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 V6网下观看,#genre#,
 音乐台①,http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
