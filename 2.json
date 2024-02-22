@@ -1,7 +1,15 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs//ZBjar.zipf8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3",
 
 
-"lives": [{"name": "live","type": 0,"url": "./1huikan.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [
+       {"name": "在线live1","type": 0,"url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
+       {"name": "在线live0","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live0.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live1","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live1.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live2","type": 0,"url": "http://127.0.0.1:9978/file/XYQTVBox/tv/live2.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live0","type": 0,"url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live0.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+       {"name": "在线live1","type": 0,"url": "https://fanmingming.com/txt?url=https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlcmc1972/tvbox/main/tv/live1.m3u","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "live","type": 0,"url": "./1huikan.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites": [{"key":"直播转点播","name":"┃电视┃直播","type":3,"searchable":0,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
      "ext":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E6%BA%90.json"},
