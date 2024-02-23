@@ -1,3 +1,4 @@
+"spider": "https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip",
 {
 "sites": [
 {"key":"csp_SP360","name":"公众号：源享家，免费获取最新接口！","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -452,7 +453,7 @@
 "renrenmi"
 ],
 
-"spider": "http://mao.laigc.com/bc.jar",
+
 
 "ijk":[
 {"group":"软解码","options":[
