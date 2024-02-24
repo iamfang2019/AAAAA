@@ -1,15 +1,5 @@
 {"spider":"https://raw.gitcode.com/frxz751113/1/blobs/ace5f107bf445b8efda1f5df8ef0ee0f7ca09b24/%E5%B0%8F.jar",
- "lives": [
-    {"name":"live","type":0,"playerType":1,
-    "url":"https://raw.gitcode.com/qq_33200661/1/raw/main/1",
-     "epg":"https://epg.erw.cc/api/diyp/",
-    "epg":"http://epg.erw.cc/e.xml.gz", 
-    "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-    "epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-    "logo":"http://epg.112114.xyz/logo/{name}.png",
-    "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"},
-    {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di5sYW4yd2FuLnRvcC9saXZlLnR4dA=="]}]}
-  ],
+
 "sites": [
      {"key":"直播转点播",
      "name":"┃电视┃直播",
