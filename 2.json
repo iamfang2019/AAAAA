@@ -27,7 +27,6 @@
     {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
     {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
     {"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com"},
-    {"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":""},
     {"key":"drpy_js_爱迪影视","name":"爱迪影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱迪影视.js"},
     {"key":"drpy_js_大师兄影视","name":"大师兄影视","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"},
     {"key":"drpy_js_蓝光影院","name":"蓝光影院","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蓝光影院.js"},
