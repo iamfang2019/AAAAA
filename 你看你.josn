@@ -1,20 +1,5 @@
-{
-   "wallpaper":"https://picsum.photos/1280/720",
-    "spider": "https://github.moeyy.xyz/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69",
- 
-       "spider":"https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip
-",
-    "spider": "https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
-     "spider":"https://gitcode.com/qq_33200661/12/raw/master/HeChengChaXiu.jar",
-    "spider":"https://gitcode.com/qq_33200661/12/raw/master/HeChengChaXiu.jar",
-     "spider": "https://github.moeyy.xyz/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69",
- 
-     "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705694117971/fan.txt;md5;87c10cb2cda0a4cca965373ec8d02c7b",
-       "spider": "https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
-
- 
-   "wallpaper": "https://api.likepoems.com/img/bing",
-    "lives": [
+{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip",
+ "lives": [
     {"name":"live","type":0,"playerType":1,
     "url":"https://raw.gitcode.com/qq_33200661/1/raw/main/1",
      "epg":"https://epg.erw.cc/api/diyp/",
