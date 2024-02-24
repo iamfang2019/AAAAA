@@ -4,53 +4,37 @@ CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV1 12M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1 3M1080,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1527557465_-1431215922/ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8?
-
 icpid=3&RTS=1674385937&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1 3M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1750297731_174117004/ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8?
-
 icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV1 3M1080,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1750497522_339657307/ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8?
-
 icpid=3&RTS=1674386160&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 CCTV1 4.8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw3963387606_1140881910/ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8?
-
 icpid=3&RTS=1674379783&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1527830964_-1694427992/ott.mobaibox.com/PLTV/3/224/3221228146/index.m3u8?
-
 icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw3963514148_-902666800/ott.mobaibox.com/PLTV/3/224/3221225530/index.m3u8?
-
 icpid=3&RTS=1674379783&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb05_80&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 CCTV1 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw3964003222_765154567/ott.mobaibox.com/PLTV/3/224/3221227644/index.m3u8?
-
 icpid=3&RTS=1674379784&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 CCTV1 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1 5.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?
-
 icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3965487430_-634044824/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8?
-
 icpid=3&RTS=1674379785&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1528000783_-231655737/ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8?
-
 icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964691378_-587544707/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?
-
 icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964843858_1182658871/ott.mobaibox.com/PLTV/3/224/3221227634/index.m3u8?
-
 icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3965349198_413260074/ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8?
-
 icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb10_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?
-
 icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3965487430_-634044824/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8?
-
 icpid=3&RTS=1674379785&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw1527557465_-1431215922/ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8?
-
 icpid=3&RTS=1674385937&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1,http://1278.hsmedia.top:8080/newlive/live/hls/1/live.m3u8
 CCTV1,http://1304.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
