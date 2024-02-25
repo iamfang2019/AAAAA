@@ -1,5 +1,5 @@
-{ //"spider":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip",
-  "spider":"https://raw.gitcode.com/frxz751113/1/blobs/09d07b4b1eebeec5f0ab7483e851a0de3d271f4c/%E8%87%AA%E7%94%A8.jar",
+{ "spider":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip",
+  //"spider":"https://raw.gitcode.com/frxz751113/1/blobs/09d07b4b1eebeec5f0ab7483e851a0de3d271f4c/%E8%87%AA%E7%94%A8.jar",
 
 "lives": [{"name": "live","type": 0,"url": "./1huikan.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
