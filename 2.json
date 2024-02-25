@@ -1,4 +1,4 @@
-{ "spider": "https://raw.gitcode.com/frxz751113/1/blobs/05cfd8e277227f27984af9efea1d65185b89f29e/HeChengChaXiu.jar",
+{ "spider": "https://raw.gitcode.com/frxz751113/1/blobs/53ed722ead89ee9cea830e758abdba1b2c182486/fix24224.jar",
 
 
 "lives": [{"name": "live","type": 0,"url": "./1huikan.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -29,9 +29,6 @@
     {"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url="},
     {"key":"K影","name":"K影院┃App","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1},
     {"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang"},
-    {"key":"圣城影视","name":"💥圣城2K💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/frxz751113/1/raw/main/json/圣城.json"},
-    {"key":"速映影视","name":"💥速映2K💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/frxz751113/1/raw/main/json/速映.json"},
-    {"key":"555影视","name":"💥555蓝光💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/frxz751113/1/raw/main/json/555.json"},
     {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}],
 
