@@ -27,7 +27,6 @@
   //{"key": "meowtv_bdys","name": "💥哔嘀影视💥","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/xp/哔嘀影视.json","jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"},
     {"key": "暴風影视","name": "💥暴风影视💥","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1}, 
     {"key": "meowtv_mays","name": "💥米爱影视💥","type": 3,"api": "http://cdn.teyonds.com/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://cdn.teyonds.com/js/米爱影视.js"},
-    {"key": "meowtv_77yy","name": "💥七七影视💥","type": 3,"api": "csp_Kunyu77", "searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A" },
     {"key":"meowtv_akys","name":"💥爱看影视💥","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"[排序:lz线路,kuaik]","jar":"http://meowtv.cn/meow5;md5;6120D08F4EB1EDCE507BFCD1B339C482"},
     {"key":"meowtv_jpyy","name":"💥荐片影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cdn.teyonds.com/js/荐片影视.js"},
     {"key":"meowtv_kkys","name":"💥看看影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/看看影视.js"},
