@@ -1,4 +1,4 @@
-{ //"spider":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip","wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
+{ "spider":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip","wallpaper":"http://www.kf666888.cn/api/tvbox/img","lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}]}],
 	"sites": [{
 			"key": "南瓜",
 			"name": "南瓜┃App",
