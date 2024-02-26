@@ -11,28 +11,7 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "sites": [ {
-            "key": "360_spider",
-            "name": "💡360┃影视",
-            "type": 3,
-            "api": "csp_SP360",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "横版影院",
-            "name": "🐞短剧2┃短剧",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "短剧"
-            ]
-        },
-        {
+    "sites": [{
             "key": "极速资源",
             "name": "🎀极速┃采集",
             "type": 1,
