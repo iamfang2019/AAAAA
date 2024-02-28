@@ -40,17 +40,16 @@
     {"key":"meowtv_jpyy","name":"💥荐片影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cdn.teyonds.com/js/荐片影视.js"},
     {"key":"meowtv_kkys","name":"💥看看影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/看看影视.js"},
     {"key":"meowtv_zzys","name":"💥子子影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},
+    {"key":"meowtv_qfys","name":"起飞┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/起飞影视.js"},
+    {"key":"meowtv_vfys","name":"VOF ┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/VOF影视.js"},
+    {"key":"加速","name":"🐰加速┃APP","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
     {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},  
     {"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇.json"},
     {"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./json/歌曲.json"},
     {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"},
-    {"key":"meowtv_dgys","name":"达龟┃影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/xp/达龟影视.json"},
-    {"key":"meowtv_qfys","name":"起飞┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/起飞影视.js"},
-    {"key":"meowtv_vfys","name":"VOF ┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/VOF影视.js"},
-    {"key":"加速","name":"🐰加速┃APP","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"}
     ],
 
-"parses": [   {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+"parses": [   {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}}
     {"name": "聚合解析", "type": 3, "url": "Web"},
   //{"name":"聚合解析","type":3,"url":"Demo"}, 
   //{"name":"解析并发","type":2,"url":"Parallel"}, 
