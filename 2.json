@@ -46,10 +46,10 @@
     {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},  
     {"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇.json"},
     {"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./json/歌曲.json"},
-    {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"},
+    {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}
     ],
 
-"parses": [   {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}}
+"parses": [   {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
     {"name": "聚合解析", "type": 3, "url": "Web"},
   //{"name":"聚合解析","type":3,"url":"Demo"}, 
   //{"name":"解析并发","type":2,"url":"Parallel"}, 
