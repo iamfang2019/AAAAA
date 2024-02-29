@@ -301,15 +301,7 @@
         "冒险片"
       ]
     },
-    {
-      "key": "meowtv_33ys",
-      "name": "三六┃视频",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  //{"key":"meowtv_33ys","name":"三六┃视频","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "meowtv_fqdj",
       "name": "番茄┃短剧",
@@ -320,16 +312,7 @@
       "filterable": 1,
       "ext": "http://cdn.teyonds.com/js/番茄短剧.js"
     },
-    {
-      "key": "meowtv_rxdj",
-      "name": "锐星┃短剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.84.103:6822/api.php/app/"
-    },
+  //{"key":"meowtv_rxdj","name":"锐星┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"},
     {
       "key": "meowtv_ntdm",
       "name": "柠桐┃动漫",
