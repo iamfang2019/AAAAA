@@ -12,9 +12,12 @@
 {"key":"meowtv_nmys","name":"农民┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/农民影视.js"},
 {"key":"meowtv_dyxs","name":"先生┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/电影先生.js"},
 {"key":"meowtv_mays","name":"米爱┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/米爱影视.js"},
+{"key":"meowtv_fqdj","name":"番茄┃短剧","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/番茄短剧.js"},
 {"key":"meowtv_qxys","name":"秋霞┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/秋霞影视.js"},
+{"key":"meowtv_ntdm","name":"柠桐┃动漫","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/柠桐动漫.js"},
 {"key":"meowtv_sjys","name":"视觉┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/视觉影视.js"},
 {"key":"meowtv_dmys","name":"大米┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/大米影视.js"},
+{"key":"meowtv_qmdm","name":"奇米┃动漫","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇米动漫.js"},
 {"key":"meowtv_qfys","name":"起飞┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/起飞影视.js"},
 {"key":"meowtv_zzys","name":"子子┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},
 {"key":"meowtv_jyys","name":"九悠┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/九悠影视.js"},
@@ -25,10 +28,8 @@
 {"key":"meowtv_bfzy","name":"暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"],"jar":"http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"},
 {"key":"meowtv_kkzy","name":"快看┃资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","categories":["国产剧","港台剧","国产动漫","日韩剧","欧美剧","海外剧","动作片","爱情片","剧情片","科幻片","奇幻片","战争片","犯罪片","恐怖片","悬疑片","惊悚片","冒险片"]},
 {"key":"meowtv_33ys","name":"三六┃视频","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"meowtv_fqdj","name":"番茄┃短剧","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/番茄短剧.js"},
-{"key":"meowtv_rxdj","name":"锐星┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"},
-{"key":"meowtv_ntdm","name":"柠桐┃动漫","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/柠桐动漫.js"},
-{"key":"meowtv_qmdm","name":"奇米┃动漫","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇米动漫.js"}],
+{"key":"meowtv_rxdj","name":"锐星┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/"}
+],
 
 
 
