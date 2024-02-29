@@ -3,8 +3,7 @@
 "lives": [{"name": "live","type": 0,"url": "./IPTV/3.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
-"sites": [{"key":"meowtv_jpyy","name":"荐片┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://cdn.teyonds.com/js/荐片影视.js"},
-{"key":"meowtv_qysp","name":"奇艺┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇艺视频.js"},
+"sites": [{"key":"meowtv_qysp","name":"奇艺┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇艺视频.js"},
 {"key":"meowtv_txsp","name":"腾讯┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/腾讯视频.js"},
 {"key":"meowtv_yksp","name":"优酷┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/优酷视频.js"},
 {"key":"meowtv_mgsp","name":"芒果┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/芒果视频.js"},
