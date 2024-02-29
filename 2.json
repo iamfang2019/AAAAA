@@ -39,7 +39,6 @@
 {"key":"meowtv_qmdm","name":"奇米┃动漫","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇米动漫.js"},
 {"key":"meowtv_qfys","name":"起飞┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/起飞影视.js"},
 {"key":"meowtv_zzys","name":"子子┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},
-{"key":"meowtv_jyys","name":"九悠┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/九悠影视.js"},
 {"key":"meowtv_vfys","name":"VOF ┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/VOF影视.js"},
 {"key":"meowtv_nyys","name":"纽约┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/纽约影视.js"},
 {"key":"meowtv_49ys","name":"四九┃资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
