@@ -12,6 +12,7 @@
 {"key":"meowtv_nmys","name":"农民┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/农民影视.js"},
 {"key":"meowtv_zzys","name":"子子┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},
 {"key":"meowtv_sjys","name":"视觉┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/视觉影视.js"},
+{"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
 {"key":"meowtv_dyxs","name":"先生┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/电影先生.js"},
 {"key":"meowtv_mays","name":"米爱┃影视","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/米爱影视.js"},
 {"key":"meowtv_fqdj","name":"番茄┃短剧","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/番茄短剧.js"},
