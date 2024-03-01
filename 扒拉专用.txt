@@ -1,4 +1,4 @@
-﻿{
+{
 	"urls": [
 
 		{
@@ -23,10 +23,6 @@
 			"url": "https://wds.ecsxs.com/230989.json"
 		},
 
-		{
-			"name": "🥫荷城茶秀",
-			"url": "http://rihou.cc:88/荷城茶秀"
-		},
 		{
 			"name": "🚖夜猫子新",
 			"url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json"
