@@ -23,6 +23,7 @@
 {"key":"saohuo","name":"春盈骚火","type":3,"searchable":1,"changeable":0,"quickSearch":1,"playerType":"2","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_XBPQ","ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"nmys_js","name":"‍农民在线","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js","timeout":15},
 {"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://raw.gitcode.com/frxz751113/8/raw/master/js/新片场.js"},
+{"key":"drpy_js_鑫鑫[V2]","name":"鑫鑫[V2]","type":3,"api":"https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js","ext":"https://raw.gitcode.com/frxz751113/8/raw/master/js/鑫鑫[V2].js"},
 
 
 
