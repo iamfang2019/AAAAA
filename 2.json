@@ -1,6 +1,6 @@
 {"spider":"https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
 
-"lives": [{"name": "live","type": 0,"url": "./IPTV/3.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86%E7%95%8C%E9%9D%A2%E6%96%87%E4%BB%B6/channels.json","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites": [//{"key":"直播转点播","name":"┃电视┃直播","type":3,"searchable":0,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E6%BA%90.json"},
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "影视频道$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.m3u#地方台$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt#极速央卫$./IPTV/IPV6A.txt"},
