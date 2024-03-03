@@ -31,8 +31,8 @@
 {"key":"加速","name":"🐰加速┃APP","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 {"key":"csp_xml_忆梦","name":"🐝忆 梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["香港剧","古装片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-{"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["香港剧","古装片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
+{"key":"csp_xml_无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["香港剧","武侠片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
+{"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["香港剧","武侠片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片","犯罪片","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 
 
 
