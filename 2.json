@@ -1,4 +1,4 @@
-{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
+{//"spider":"https://raw.gitcode.com/frxz751113/1/blobs/9a71d41ed94a9cc17e394258b6340f3d949b6d5f/classe.zip",
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.m3u","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://openwrt.lan/epg/e.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -24,9 +24,9 @@
 //{"key":"drpy_js_新片场","name":"新片场[js]","type":3,"api":"https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.gitcode.com/frxz751113/8/raw/master/js/新片场.js"},
 {"key":"drpy_js_鑫鑫[V2]","name":"💥极速鑫鑫[V2]","type":3,"api":"https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js","ext":"https://raw.gitcode.com/frxz751113/8/raw/master/js/鑫鑫[V2].js"},
 {"key":"K影","name":"💥影院极速💥","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1},
-{"key":"鑫鑫0","name":"💥鑫鑫极速💥","type": 3,"api": "csp_AppYsV2","ext": "http://yingszj.xn--654a.cc/api.php/app/"},
+//{"key":"鑫鑫0","name":"💥鑫鑫极速💥","type": 3,"api": "csp_AppYsV2","ext": "http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"meowtv_zzys","name":"💥子子┃影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},
-{"key":"meowtv_33ys","name":"💥三六视频💥","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
+//{"key":"meowtv_33ys","name":"💥三六视频💥","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"csp_SP360","name":"💥360影视💥","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"加速","name":"🐰加速┃APP","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_AppYsV2","searchable":1,"quickSearch":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 
