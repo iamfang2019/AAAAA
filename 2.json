@@ -59,7 +59,7 @@
 //{"key":"meowtv_bfzy","name":"暴风┃资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"],"jar":"http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"},
 //{"key":"meowtv_33ys","name":"三六┃视频","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},  
-{"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇.json"},
+{"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇.json","jar": "./jar/通用.jar;md5;f2e335a610902ad385828c2e67ad884a"},
 {"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./json/歌曲.json"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}
 ],
