@@ -1676,113 +1676,25 @@
         "lajiao",
         "kbzy"
     ],
-    "parses": [
-        {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "解析1.1",
-            "type": 1,
-            "url": "https://www.qiaoji8.com/tvbox/wudi.php?url="
-        },
-        {
-            "name": "解析1.2",
-            "type": 1,
-            "url": "https://cache.json.icu/s1804857380.php?url="
-        },
-        {
-            "name": "解析1.3",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=309258&key=jmoruvzDFNRSTV0156&url="
-        },
-        {
-            "name": "解析1.4",
-            "type": 1,
-            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=bhnoprvyzBMNOQTY19&url="
-        },
-        {
-            "name": "解析1.5",
-            "type": 1,
-            "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url="
-        },
-        {
-            "name": "解析1.6",
-            "type": 1,
-            "url": "http://119.91.123.253:2345/Api/yun.php?url="
-        },
-        {
-            "name": "解析1.7",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=abdfjqvwyCFKNOVXZ4&url="
-        },
-        {
-            "name": "解析1.8",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
-        },
-        {
-            "name": "解析1.9",
-            "type": 1,
-            "url": "http://124.222.144.9/za.php?url="
-        },
-        {
-            "name": "解析1.10",
-            "type": 1,
-            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
-        },
-        {
-            "name": "解析1.11",
-            "type": 1,
-            "url": "https://api.cygc.xyz/video.php?url="
-        },
-        {
-            "name": "解析1.12",
-            "type": 1,
-            "url": "http://198.16.32.195/json/?url="
-        },
-        {
-            "name": "解析1.13",
-            "type": 1,
-            "url": "https://bf.ppjbk.cn/?url="
-        },
-        {
-            "name": "解析1.14",
-            "type": 1,
-            "url": "https://jiexi.xn--654a.cc/home/api?type=ys&uid=10456764&key=bgiuvEGIMQRSTWX689&url="
-        },
-        {
-            "name": "解析1.15",
-            "type": 1,
-            "url": "http://42.51.37.161:5678/json/520239app9/mlzjphp111.php?url="
-        },
-        {
-            "name": "解析1.16",
-            "type": 1,
-            "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
-        },
-        {
-            "name": "解析1.17",
-            "type": 1,
-            "url": "https://vip.xiaomaomi.tv/api.php?key=cjmwyIJLNRSWZ04689&url="
-        },
-        {
-            "name": "解析1.18",
-            "type": 1,
-            "url": "http://jiexi.kudian6.com/pzjx/zz.php?url="
-        },
-        {
-            "name": "解析1.19",
-            "type": 1,
-            "url": "http://ku.renrenmi.cc/api/?key=PhHW95uatpNjHOeVbj&url="
-        },
-        {
-            "name": "解析1.20",
-            "type": 1,
-            "url": "http://svip.nfjx.xyz/api/?key=wbbgCgezulNGcZVHc1&url="
-        }
-    ],
+"parses": [   {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+    {"name": "聚合解析", "type": 3, "url": "Web"},
+  //{"name":"聚合解析","type":3,"url":"Demo"}, 
+  {"name":"解析并发","type":2,"url":"Parallel"}, 
+  //{"name":"解析轮询","type":2,"url":"Sequence"},
+	  {"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
+  //{"name": "咸鱼解析","type":0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+  //{"name": "CGD解析","type":0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
+    {"name": "2345解析","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
+    {"name": "777解析","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
+  //{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
+  //{"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
+  //{"name": "QL解析","type": 0,"url": "https://t1.qlplayer.cyou/player/?url="},
+  //{"name":"壹梦","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+    {"name": "JSON解析","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}}, 
+    {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
+    {"name":"免费分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}],
+
     "ijk": [
         {
             "group": "硬解码",
