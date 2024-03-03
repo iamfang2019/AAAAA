@@ -1,4 +1,4 @@
-{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/01e781fa7849a40dd2dd7d0b15132fb48e913f1b/%E6%98%A5%E7%9B%881.jar",
+{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/2a5ec494555059c1c59cab78fb29f66f71a66eed/%E6%98%A5%E7%9B%881.jar",
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.m3u","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://openwrt.lan/epg/e.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
