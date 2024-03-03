@@ -63,9 +63,7 @@
 //{"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/酷奇.json"},
 //{"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./json/歌曲.json"},
 //{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}
-{"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json"},  
-{"key":"drpy_js_酷奇MV","name":"MV | 酷奇[js]","type":3,"api":"./js/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/酷奇MV.js"},
-{"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"./json/歌曲.json"},
+{"key":"专辑┃视频","name":"明星","type":4,"api":"http://120.53.102.254/t4/gaze","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json"}
 ],
 
