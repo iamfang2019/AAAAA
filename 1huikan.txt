@@ -165,12 +165,12 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-无名影视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 海外剧场,http://[2409:8087:2001:20:2800:0:df6e:eb07]:80/wh7f454c46tw2056934744_1249676649/ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 中国功夫,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1755251107_-1720510105/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8?icpid=3&RTS=1674386165&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 广西V4,#genre#
