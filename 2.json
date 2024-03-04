@@ -60,7 +60,7 @@
 //{"key":"meowtv_33ys","name":"三六┃视频","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
 {"key": "csp_戏曲","name": "💥哔哩戏曲💥","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"ext": "./js/戏曲.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}, 
 //{"key":"csp_xp_酷奇mv","name":"💥酷奇MV💥","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/酷奇.json","jar": "https://raw.gitcojarde.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"},
-{"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/歌曲.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/ffc018427cd7433e8c7f4658f225575c9cffe462/83_3.jar"},
+{"key":"csp_Bili歌曲","name":"💥歌曲MV💥","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1, "ext":"./json/歌曲.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./js/MTV.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}
 ],
 
