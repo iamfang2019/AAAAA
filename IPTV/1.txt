@@ -27,31 +27,23 @@ CCTV怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 	
 	
 卫视频道,#genre#
+湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
+湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+湖南茶,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 安徽卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
 福建东南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
-甘肃卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040021/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3
-广东大湾区卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=3
 广东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-广西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040014/1.m3u8?channel-id=bestzb&Contentid=5000000006000040014&livemode=1&stbId=3
 贵州卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3
 海南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000023773/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3
 河北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3
 河南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027731/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3
-黑龙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000025203/1.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
-湖北卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=3
-湖南茶,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031209/1.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-湖南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
 华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 吉林卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3
 江苏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
 江西卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
-辽宁卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001945/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3
-宁夏卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
-青海安多卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000022124/1.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
-青海卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3
 厦门卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
 山东教育卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
 山东卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000004134/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=3
@@ -67,7 +59,6 @@ CCTV怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
 云南卫视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040019/1.m3u8?channel-id=bestzb&Contentid=5000000006000040019&livemode=1&stbId=3
 浙江卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
-中国天气,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000057/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3
 重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
 	
 	
