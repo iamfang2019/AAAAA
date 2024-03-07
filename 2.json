@@ -1,7 +1,7 @@
 {//"spider":"https://raw.gitcode.com/frxz751113/1/blobs/2168d5c96af53f346b41bb83f03c08c28a4c2da3/XYT.jar",
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt","playerType": 1,"ua": "okhttp/3.12.13",
-"epg": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPV6-/main/EPG.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"epg": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/frxz751113/IPV6-zdgx/main/EPG.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites": [//{"key":"直播转点播","name":"┃电视┃直播","type":3,"searchable":0,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E6%BA%90.json"},
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#极速央卫$./IPTV/IPV6A.txt"},
