@@ -82,7 +82,7 @@ CCTV怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch000000909900000
 超级电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
 东北剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
 动作电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-古装剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3
+古装剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000024/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=3#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 欢乐剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=3
 家庭剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000012/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 惊悚悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3
