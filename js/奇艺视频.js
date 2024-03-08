@@ -17,7 +17,7 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_name:'电影&电视剧&舞蹈&其他地区&其他地区&其他地区&其他地区&其他地区&其他地区',
+    class_name:'电影&电视剧&舞蹈&音乐&音乐&音乐&音乐&音乐&音乐&音乐',
     class_url:'1&2&5&13&14&15&16&17&18',
     limit:20,
     // play_parse:true,
