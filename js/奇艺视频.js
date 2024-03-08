@@ -18,7 +18,7 @@ var rule = {
     },
     timeout:5000,
     class_name:'电影&电视剧&搞笑&舞蹈&音乐',
-    class_url:'1&2&16&5&17',
+    class_url:'1&2&17&5&18',
     limit:20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
