@@ -1,6 +1,6 @@
 {//"spider":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar",
 
-"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://openwrt.lan/epg/e.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.m3u","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://openwrt.lan/epg/e.xml","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
 "sites": [{"key":"meowtv_qysp","name":"奇艺┃视频","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/奇艺视频.js"},
