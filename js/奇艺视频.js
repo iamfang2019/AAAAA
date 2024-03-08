@@ -17,8 +17,8 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
-    class_name:'电影&电视剧&舞蹈',
-    class_url:'1&2&5',
+    class_name:'电影&电视剧&舞蹈&其他地区&其他地区&其他地区&其他地区&其他地区&其他地区&其他地区',
+    class_url:'1&2&5&6&7&8&9&10&11&12',
     limit:20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
