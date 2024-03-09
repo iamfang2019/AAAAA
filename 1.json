@@ -137,7 +137,7 @@
 			"key": "天天影视",
 			"name": "天天影视",
 			"type": 1,
-			"api": "https://www.hrblddl.cn//api.php/provide/vod",
+			"api": "https://www.hrblddl.cn/provide/vod",
 			"searchable": 1,
 			"quickSearch": 1,
 			"categories": ["电影", "电视剧", "综艺", "动漫"]
