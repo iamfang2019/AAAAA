@@ -5,7 +5,7 @@
 		"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.12.13",
-		"epg": "",
+		"epg": "https://epg.erw.cc/api/diyp",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	}],
 
