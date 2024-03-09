@@ -479,14 +479,7 @@
 			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
 			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/4K电影网.js"
 		},
-		{
-			"key": "drpy_js_飞兔影视",
-			"name": "飞兔影视[js]",
-			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
-			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/飞兔影视.js"
-		},
-		{
+    	{
 			"key": "drpy_js_看了么",
 			"name": "看了么[js]",
 			"type": 3,
