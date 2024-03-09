@@ -3,7 +3,7 @@
 音乐台,#genre#,
 音乐台①,http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
 音乐台②,http://zzy789.xyz/douyu1.php?id=3870925#http://mmitv.top/test/douyu.php?id=3870925
-央视高码,#genre#
+央视高码IPV6,#genre#
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3965487430_-634044824/ott.mobaibox.com/PLTV/3/224/3221228213/index.m3u8?icpid=3&RTS=1674379785&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw1528000783_-231655737/ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8?icpid=3&RTS=1674385938&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 CCTV1 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964691378_-587544707/ott.mobaibox.com/PLTV/3/224/3221227462/index.m3u8?icpid=3&RTS=1674379785&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -55,7 +55,7 @@ CCTV16 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw2571298
 CCTV16 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw465056087_375752967/ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8?icpid=3&RTS=1674466479&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-卫视高码,#genre#
+卫视高码IPV6,#genre#
 安徽卫视 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/wh7f454c46tw1543723360_1990131240/ott.mobaibox.com/PLTV/3/224/3221227498/index.m3u8?icpid=3&RTS=1674385954&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 安徽卫视 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1543923225_-692499466/ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8?icpid=3&RTS=1674385954&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 安徽卫视 Max16M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw198496833_-887574231/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1674380313&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
