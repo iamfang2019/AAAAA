@@ -82,3 +82,6 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 
 
 
+音乐台,#genre#,
+音乐台①,http://zzy789.xyz/douyu1.php?id=3186217#http://mmitv.top/test/douyu.php?id=3186217
+音乐台②,http://zzy789.xyz/douyu1.php?id=3870925#http://mmitv.top/test/douyu.php?id=3870925
