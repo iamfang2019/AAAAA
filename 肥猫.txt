@@ -1,6 +1,6 @@
 
 
-V6影视,#genre#
+影视院线,#genre#
 
 知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/wh7f454c46tw4153357107_-1457036326/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8?icpid=3&RTS=1674371383&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 精品剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3
@@ -22,8 +22,7 @@ V6影视,#genre#
 都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 欢笑剧场,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
 
-Gitee - 基于 Git 的代码托管和研发协作平台Gitee - 基于 Git 的代码托管和研发协作平台 我的 
- 1 
+
   
 
 数字影视,#genre#,https://epg.erw.cc/api/diyp
