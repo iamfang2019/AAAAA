@@ -1,4 +1,4 @@
-﻿影视,#genre#
+影视,#genre#
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
@@ -37,7 +37,6 @@ CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/1.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
