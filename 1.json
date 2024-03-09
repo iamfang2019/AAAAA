@@ -136,7 +136,7 @@
 				{
 			"key": "大象影院",
 			"name": "天天影视",
-			"type": 1,
+			"type": 3,
 			"api": "https://www.hrblddl.cn/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1,
