@@ -3,7 +3,7 @@
 
 "sites": [//{"key":"直播转点播","name":"┃电视┃直播","type":3,"searchable":0,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext":"https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E6%BA%90.json"},
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#极速央卫$./IPTV/IPV6A.txt"},
-{"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/优酷视频.js"},
+{"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷视频.js"},
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/腾讯视频.js"},
 {"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇艺视频.js"},
 {"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片","伦理片"]},
