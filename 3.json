@@ -14,7 +14,6 @@
 {"key":"比特","name":"💥比特影视💥","type":3,"api":"csp_Bttwo","jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar"},
 {"key":"meowtv_lzzy","name":"💥量子资源💥","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","categories":["国产剧","香港剧","台湾剧","韩国剧","短剧","海外剧","动作片","爱情片","喜剧片","伦理片"]},
-{"key":"荐片弹幕版","name":"💥弹幕荐片💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60,"jar": "https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"}, 
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}
 ],
 
