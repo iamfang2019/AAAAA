@@ -63,6 +63,16 @@
 			"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/%E9%91%AB%E9%91%AB[V2].js"
 		},
 		{
+	"key": "csp_YQKan",
+	"name": "💥一┃起┃看💥",
+	"type": 3,
+	"api": "csp_YQKan",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"
+},
+{
 			"key": "zy_金鹰资源",
 			"name": "💥极速金鹰💥",
 			"type": 1,
@@ -93,20 +103,8 @@
 			"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
 			"categories": ["国产剧", "香港剧", "台湾剧", "短剧", "海外剧", "动作片", "喜剧片", "伦理片"]
 		},
-		{
-			"key": "MTV",
-			"name": "💥明星 MV💥",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"
-		}
+		{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}
+
 	],
 
 	"parses":[{"name":"超级嗅探","type":1,"url":"http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext":{"flag":["seven"],
