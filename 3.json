@@ -67,15 +67,7 @@
 			"filterable": 1,
 			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
 		},
-		{
-			"key": "豪华资源",
-			"name": "💥超级极速💥",
-			"type": 1,
-			"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"categories": ["内地剧", "香港剧", "台湾剧", "动作片", "喜剧片", "伦理片"]
-		},
+
 		{
 			"key": "csp_YQKan",
 			"name": "💥一┃起┃看💥",
