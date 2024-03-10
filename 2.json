@@ -66,7 +66,7 @@
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}
 ],
 
-"parses": [{"name":"解析并发","type":2,"url":"Parallel"}, 
+"parses": [//{"name":"解析并发","type":2,"url":"Parallel"}, 
   //{"name":"解析轮询","type":2,"url":"Sequence"},
     {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
   //{"name": "聚合解析", "type": 3, "url": "Web"},
