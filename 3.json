@@ -64,8 +64,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar"
+			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
 		},
 		{
 			"key": "豪华资源",
@@ -83,8 +82,7 @@
 			"api": "csp_YQKan",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"
+			"filterable": 1
 		},
 		{
 			"key": "saohuo",
@@ -94,7 +92,6 @@
 			"changeable": 1,
 			"quickSearch": 1,
 			"playerType": "2",
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar",
 			"api": "csp_XBPQ",
 			"ext": {
 				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -133,15 +130,13 @@
 			"timeout": 15,
 			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"
+			"changeable": 1
 		},
 		{
 			"key": "比特",
 			"name": "💥比特影视💥",
 			"type": 3,
-			"api": "csp_Bttwo",
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"
+			"api": "csp_Bttwo"
 		},
 		{
 			"key": "热播",
@@ -149,8 +144,7 @@
 			"type": 3,
 			"api": "csp_TTian",
 			"playerType": 2,
-			"ext": "http://v.rbotv.cn",
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar"
+			"ext": "http://v.rbotv.cn"
 		},
 		{
 			"key": "meowtv_ffzy",
@@ -183,8 +177,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./json/jianpian.json$$$1",
-			"timeout": 60,
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"
+			"timeout": 60
 		},
 		{
 			"key": "MTV",
@@ -198,8 +191,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json",
-			"jar": "https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"
+			"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"
 		}
 	],
 
