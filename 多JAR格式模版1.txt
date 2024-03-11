@@ -1,14 +1,10 @@
-{
-  "spider":"https://gitea.com/wjj415/wjj/raw/branch/main/01.jar;md5;d3418c225503499e7a8e97b229d8d576
-",
+{"spider":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar",
 
 "jars":
-{
-"668":"https://gitea.com/wjj415/wjj/raw/branch/main/668.jar;md5;8c9dd15a0e5a8fa5537ab1ddabb5cfa2",
-"qj0729":"https://gitea.com/wjj415/wjj/raw/branch/main/qj0729.jar;md5;80bbc2d2f8bd207815aa717e5a199b14",
-"ts":""
-
-},
+{"001":"https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar",
+"002":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar",
+"003":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt",
+"004":"https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"},
 
 
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
