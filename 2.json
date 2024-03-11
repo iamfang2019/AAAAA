@@ -1,5 +1,5 @@
 { "spider":"https://raw.gitcode.com/frxz751113/1/blobs/f8a16bc662dffc7c7d2f4c4f2a8d1d0c0ffca6d3/ZBjar.zip",
-//  ,"jar":https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt},
+//  ,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/多线回看源.txt","playerType": 1,"ua": "okhttp/3.12.13",
 "epg": "https://epg.erw.cc/api/diyp","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -13,7 +13,7 @@
 {"key":"csp_YQKan","name":"💥一┃起┃看💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","喜剧片"]},
 {"key": "meowtv_xxys","name": "💥新新极速💥","type": 3, "api": "csp_AppYsV2", "searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"},
-{"key":"酷看","name":"💥酷看秒播💥","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt},
+{"key":"酷看","name":"💥酷看秒播💥","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
 {"key":"荐片弹幕版","name":"💥弹幕荐片💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60},
 {"key":"meowtv_ffzy","name":"💥非凡资源💥","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","categories":["国产剧","韩国剧","日本剧","动作片","喜剧片","恐怖片","台湾剧","香港剧","海外剧"]},
