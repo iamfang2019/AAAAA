@@ -1,10 +1,10 @@
-{//"spider":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar",
+{//"spider":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.spider",
 
-"jars":
-{"001":"https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar",
-"002":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar",
+"spiders":
+{"001":"https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.spider",
+"002":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.spider",
 "003":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt",
-"004":"https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"},
+"004":"https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.spider"},
 
 
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
@@ -16,23 +16,23 @@
 
 
 {"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
-{"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"004"},
+{"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","spider":"004"},
 
 
-{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"004"},
+{"key":"KanSJ_spider","name":"🐞看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","spider":"004"},
 
-{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"}, 
-{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
+{"key":"293视频","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"}, 
+{"key":"3EDY","name":"🐞3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
    
-    {"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
+    {"key":"酷猫","name":"🐱酷猫","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
     {"key":"追剧喵","name":"🥇追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},    
-    {"key":"csp_hbys","name":"🥇简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY","jar":"004"},
-   {"key":"csp_Kuaikan","name":"🥇快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
-    {"key":"csp_CZSPP","name":"🥇厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
-    {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
+    {"key":"csp_hbys","name":"🥇简影(SP)","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY","spider":"004"},
+   {"key":"csp_Kuaikan","name":"🥇快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
+    {"key":"csp_CZSPP","name":"🥇厂长(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
+    {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
     {"key": "Ikan","name": "🥇爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
-    {"key":"csp_Wmkk","name":"🥇完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"004"},     
-    {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
+    {"key":"csp_Wmkk","name":"🥇完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"spider":"004"},     
+    {"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
 
   {
           "key": "Ekan_spider",
@@ -71,13 +71,13 @@
           "filterable": 1
         },
          
-    {"key":"csp_LiteApple","name":"🥇小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1,"jar":"004"},
-    {"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
-    {"key":"csp_Auete","name":"🥇Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
-    {"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"004" }
+    {"key":"csp_LiteApple","name":"🥇小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1,"spider":"004"},
+    {"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
+    {"key":"csp_Auete","name":"🥇Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
+    {"key":"csp_Bttoo","name": "🥇Bttwo(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1,"spider":"004" }
 ,
-    {"key":"csp_Cokemv","name":"🥇Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"004"},
-    {"key": "Lib","name": "🥇Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1,"jar":"004"},
+    {"key":"csp_Cokemv","name":"🥇Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"spider":"004"},
+    {"key": "Lib","name": "🥇Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1,"spider":"004"},
    
    
        
@@ -99,7 +99,7 @@
           "searchable": 1,
           "quickSearch": 1,
           "filterable": 1,
-          "ext": "https://gitea.com/qiaoji/jar/raw/branch/main/token.txt"
+          "ext": "https://gitea.com/qiaoji/spider/raw/branch/main/token.txt"
         },
 
  {
@@ -111,11 +111,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod",
-    "jar":"004"  
+    "spider":"004"  
     },
-     {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/token.txt"},
-    {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/token.txt"},
-    {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/qiaoji/jar/raw/branch/main/token.txt"},
+     {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qiaoji/spider/raw/branch/main/token.txt"},
+    {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/qiaoji/spider/raw/branch/main/token.txt"},
+    {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/qiaoji/spider/raw/branch/main/token.txt"},
   {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
    
