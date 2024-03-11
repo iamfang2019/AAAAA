@@ -1,0 +1,24 @@
+{
+"key":"***",
+"name":"***",
+"api":"csp_***",
+"type":3,
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"spider":"http://****/*.jar"
+},
+{
+  "key":"***",
+  "name":"***",
+  "api":"***",
+  "type":3,
+  "filterable":1,
+  "quickSearch":1,
+  "searchable":1,
+  "plugin":"http://****/*.jar"
+},
+网盘部分 内置了 WebDAV
+开启方式
+
+"drives": [{"server":"","userName":"","password":"","type":"webdav"}]
