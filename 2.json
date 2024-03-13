@@ -15,28 +15,16 @@
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/%E6%98%A5%E7%9B%88.jar"}
 ],
 
-"parses": [     {
-      "name": "江湖",
-      "type": 1,
-      "url": "http://150.230.216.174/tvjx.php?url=",
-      "ext": {
-      "flag": [
-        "qq",
-        "qiyi",
-        "mgtv",
-        "youku",
-        "letv",
-        "sohu",
-        "xigua",
-        "1905",
-        "优播线路",
-        "腾播线路"
-       ],
+"parses": [   
+    {
+      "name":"FosiPlayer",
+      "type":0,
+      "url":"https://play.fositv.com/?url=",
        "header": {
         "User-Agent": "Dart/2.14 (dart:io)"
        }
-      }
-    },
+      },
+    
     {"name": "超级嗅探","type": 1,"url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
     {"name":"七七八八解析","type":1,"url":"http://42.157.129.139:7788/json/aiku.php?url=","ext":{"flag":["seven","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"Lavf/58.12.100"}}},
     {"name": "JSON解析","type": 0,"url": "https://jx.jsonplayer.com/player/?=&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}}, 
