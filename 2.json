@@ -1,5 +1,5 @@
 {"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/多线回看源.txt","playerType": 1,"ua": "okhttp/3.12.13",
-"epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}, "warningText": "本库资源免费服务大众，切勿付费购买！"],
 
 
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#极速央卫$./IPTV/IPV6A.txt"},
