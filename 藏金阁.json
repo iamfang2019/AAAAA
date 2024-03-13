@@ -1,34 +1,17 @@
-﻿{
-  "spider": "./jar/HeChengChaXiu.jar",
+{
+  "spider": "https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
  "warningText": "藏经阁影视库免费服务大众，切勿付费购买！",
   
 "lives":
 [{"name": "电视直播", 
 "type": 0,
-"url": "./tvlive/tvlive.txt",
+"url": "./IPTV/1.txt",
 "playerType": 1
 }], 
 
 "sites":
-[{
-"key": "js_豆瓣热播",
-      "name": "🐉追剧影院💰热播",
-      "type": 3,
-      "api": "./json/Api.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/Doubanrebo.js"},
-
-{
-"key": "AliYunPan",
-"name": "🐉云盘登录💰签到",
-"type": 3,
-"api": "csp_AliYunPan",
-"searchable": 0,
-"filterable": 0,
-"ext": "ded5947e840242e88fd3a932a3e24ded"},
+[
 
 {
 "key": "AList",
@@ -37,7 +20,7 @@
 "api": "csp_AList",
 "searchable": 1,
 "changeable": 0,
-"ext": "./alist/alist.json"},
+"ext": "./json/alist.json"},
 
     {
       "key": "Czspp",
