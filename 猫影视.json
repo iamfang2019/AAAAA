@@ -1,8 +1,6 @@
 { "warningText": "本库资源免费服务大众，不喜勿喷！",
   "lives": [
-        {
-            "group": "卫视",
-            "channels": [
+       "channels": [
                 {
                     "name": "三沙卫视",
                     "tvg_name": "三沙卫视",
@@ -61,7 +59,8 @@
                         "http://111.59.63.32:9901/tsfile/live/1038_1.m3u8",
                         "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
                     ]
-                }],
+                }]
+                ],
 "sites": [{"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片"]},
 {"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","喜剧片"]}],
 
