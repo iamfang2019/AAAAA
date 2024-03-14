@@ -1,5 +1,5 @@
-[{"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片"]},
+{"sites": [{"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片"]},
 {"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","喜剧片"]}
-]
+]}
 
 
