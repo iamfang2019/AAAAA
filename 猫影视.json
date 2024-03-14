@@ -1,64 +1,23 @@
 { "warningText": "本库资源免费服务大众，不喜勿喷！",
   "lives": [
-                {
-                    "name": "三沙卫视",
+{"name": "三沙卫视",
                     "tvg_name": "三沙卫视",
-                    "urls": [
-                        "https://epg.pw/stream/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.m3u8",
-                        "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IASHttpSessionId=OTT",
-                        "http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/08984400000000060000000000000319/1.m3u8",
-                        "http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8",
-                        "http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231227/1.m3u8"
-                    ]
-                },
-                {
-                    "name": "东南卫视",
+                    "url":"https://epg.pw/stream/de612c9a7e60a728c4c7416f9f5767e6e1d998de42dc23a3e1c401afad4f4498.m3u8"},
+{"name": "东南卫视",
                     "tvg_name": "东南卫视",
-                    "urls": [
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
-                        "http://39.134.66.4/PLTV/88888888/224/3221225950/index.m3u8",
-                        "http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3",
-                        "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
-                        "http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225950/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "东方卫视",
+                    "url":"http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"},
+{"name": "东方卫视",
                     "tvg_name": "东方卫视",
-                    "urls": [
-                        "http://39.134.65.149/PLTV/88888888/224/3221225942/1.m3u8",
-                        "http://39.134.65.130/PLTV/88888888/224/3221225942/1.m3u8",
-                        "http://39.134.65.141/PLTV/88888888/224/3221225942/1.m3u8",
-                        "http://39.134.65.151/PLTV/88888888/224/3221225942/1.m3u8",
-                        "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
-                    ]
-                },
-                {
-                    "name": "云南卫视",
+                    "url":"http://39.134.65.149/PLTV/88888888/224/3221225942/1.m3u8"},
+{"name": "云南卫视",
                     "tvg_name": "云南卫视",
-                    "urls": [
-                        "http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3",
-                        "http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8",
-                        "https://epg.pw/stream/f72d8c76d15c9cf3efe23af82179802a374d97971eb4f87a304f1db28cbc482b.ctv",
-                        "http://111.20.35.103:6610/000000001000/1000000002000024694/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=00",
-                        "http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230448/1.m3u8"
-                    ]
-                },
-                {
-                    "name": "兵团卫视",
+                    "url":"http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3"},
+{"name": "兵团卫视",
                     "tvg_name": "兵团卫视",
-                    "urls": [
-                        "https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8"
-                    ]
-                },
-                {
-                    "name": "内蒙古卫视",
+                    "url":"https://epg.pw/stream/85e6975cbd16ed8411909474995d0973728889c2e84a98f21e3063311adb4c84.m3u8"},
+{"name": "内蒙古卫视",
                     "tvg_name": "内蒙古卫视",
-                    "urls": [
-                        "http://111.59.63.32:9901/tsfile/live/1038_1.m3u8",
-                        "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
-                    ]
-                }],
+                    "url":"http://111.59.63.32:9901/tsfile/live/1038_1.m3u8"}],
               
 "sites": [{"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片"]},
 {"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","喜剧片"]}],
