@@ -18,8 +18,7 @@
                 "type": 3,
                 "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/hscangku.js",
                 "timeout": 30,
-                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}"
-            },
+                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
             {
                 "key": "jable",
                 "name": "🔞|Jable|🔞",
@@ -27,17 +26,14 @@
                 "type": 3,
                 "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/jable.js",
                 "timeout": 30,
-                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}"
-            },
-            {
+                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
                 "key": "liangzi18",
                 "name": "🔞|量子资源18+|🔞",
                 "playerType": 0,
                 "type": 3,
                 "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/liangzi18.js",
                 "timeout": 30,
-                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}"
-            },
+                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
             {
                 "key": "nivod_18",
                 "name": "🔞┃泥视频18+┃🔞",
@@ -45,8 +41,7 @@
                 "type": 3,
                 "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/nivod_18.js",
                 "timeout": 30,
-                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}"
-            },
+                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
             {
                 "key": "sehuatang",
                 "name": "🔞|色花堂BT|🔞",
@@ -54,8 +49,7 @@
                 "type": 3,
                 "api": "https://gh.con.sh/https://raw.githubusercontent.com/jadehh/TVSpider/js/sehuatang.js",
                 "timeout": 30,
-                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}"
-            },
+                "ext": "{\"box\": \"CatOpen\", \"danmu\": false}","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
             {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar"},
 {"key":"py_cctv","name":"央视〔PY〕","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/py_cctv.py"},
 //{"key":"meowtv_ffzy","name":"💥非凡资源💥","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","categories":["国产剧","韩国剧","日本剧","动作片","喜剧片","恐怖片","台湾剧","香港剧","海外剧"]},
