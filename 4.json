@@ -1,9 +1,9 @@
 {
    "spider": "https://raw.gitcode.com/frxz751113/1/blobs/a35398bed7b784f0001bac9141f67dfeba485fdf/%E6%98%A5%E7%9B%88.jar",
-   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-   
-     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/2.txt"]}]}],
-     
+   "warningText": "本库资源免费服务大众，不喜勿喷！",
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/%E5%A4%9A%E7%BA%BF%E5%9B%9E%E7%9C%8B%E6%BA%90.txt","playerType": 1,"ua": "okhttp/3.12.13",
+"epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+  
    "sites": [{
          "key": "一起看 ",
          "name": "一起app",
