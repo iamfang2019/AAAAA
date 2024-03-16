@@ -1,4 +1,4 @@
-﻿
+央视频道,#genre#
 CCTV1,http://101.71.176.182:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://27.185.2.92:9901/hls/1/index.m3u8
 CCTV2,http://101.71.176.182:8888/newlive/live/hls/3/live.m3u8
@@ -24,6 +24,7 @@ CCTV13,http://27.185.2.92:9901/hls/13/index.m3u8
 CCTV14,http://101.71.176.182:8888/newlive/live/hls/16/live.m3u8
 CCTV14,http://27.185.2.92:9901/hls/14/index.m3u8
 CCTV15,http://27.185.2.92:9901/hls/15/index.m3u8
+卫视频道,#genre#
 湖北卫视,http://101.71.176.182:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,http://27.185.2.92:9901/hls/45/index.m3u8
 湖南卫视,http://101.71.176.182:8888/newlive/live/hls/23/live.m3u8
