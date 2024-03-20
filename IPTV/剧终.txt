@@ -307,7 +307,6 @@ Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225717/index.m3u8
 超级电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-潮妈辣婆,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
 潮妈辣婆,http://39.134.65.164/PLTV/88888888/224/3221225542/1.m3u8
 潮妈辣婆,http://39.134.65.166/PLTV/88888888/224/3221225542/1.m3u8
 潮妈辣婆,http://39.134.65.208/PLTV/88888888/224/3221225542/index.m3u8
@@ -319,7 +318,8 @@ Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 潮妈辣婆,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
 潮妈辣婆,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/1.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-潮婆辣妈,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+潮妈辣婆,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=3
+潮妈辣婆,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 东北剧场,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=3
 东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
