@@ -253,6 +253,7 @@ Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 百色4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 斗鱼4K,http://159.75.85.63:35455/douyu/9249162
 华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
 爱情喜剧,http://39.134.65.82:80/wh7f454c46tw972760835_-1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
