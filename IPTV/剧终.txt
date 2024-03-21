@@ -1,4 +1,4 @@
-⏯央视频道,#genre#
+⏯央视频道🔥,#genre#
 CCTV1 MAX16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -248,7 +248,7 @@ Citv都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1
 Citv都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 
-🔥影视频道,#genre#
+🔥影视频道🔥,#genre#
 搜狐4K,http://117.9.171.16:8888/udp/225.1.2.190:5002
 百色4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 斗鱼4K,http://159.75.85.63:35455/douyu/9249162
@@ -483,7 +483,7 @@ Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8
 中国功夫,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=3
-▶卫视频道,#genre#
+🔥卫视频道🔥,#genre#
 凤凰中文 576[785*576][785*576][785*576],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 TVB星河[1280*720][1280*720][1280*720],http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226206/index.m3u8
@@ -764,10 +764,10 @@ TVB星河[1280*720][1280*720][1280*720],http://v2h.jdshipin.com/xinghe/xinghe.st
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3
-▶音乐频道,#genre#
+🔥音乐频道🔥,#genre#
 音乐台②,http://zzy789.xyz/douyu1.php?id=3870925
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-▶直播中国,#genre#
+🔥直播中国🔥,#genre#
 湖南张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
 四川峨眉山普贤菩萨铜像,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 浙江杭州云栖小镇,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
@@ -838,7 +838,7 @@ TVB星河[1280*720][1280*720][1280*720],http://v2h.jdshipin.com/xinghe/xinghe.st
 丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8
 云南红河哈尼梯田老虎嘴,https://gcalic.v.myalicdn.com/gc/hnttlhzjd_1/index.m3u8
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-▶乡村美食,#genre#
+🔥乡村美食🔥,#genre#
 鲍汁豆腐[852*480],https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 地锅鸡[852*480],https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all
 河蟹一锅烩[852*480],https://vd2.bdstatic.com/mda-nekcx3v9ett2ris5/480p/h264/1653125375347700570/mda-nekcx3v9ett2ris5.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033479-0-0-b49abd06012eb0b266a58d9dca5c7f5f&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0079449514&vid=6322076425195603579&abtest=all
