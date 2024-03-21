@@ -249,8 +249,8 @@ Citv都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/i
 Citv都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 
 ▶影视频道,#genre#
-4K影视,http://117.9.171.16:8888/udp/225.1.2.190:5002
-BESTV 4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+搜狐4K,http://117.9.171.16:8888/udp/225.1.2.190:5002
+百色4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 斗鱼4K,http://159.75.85.63:35455/douyu/9249162
 华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
