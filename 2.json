@@ -10,8 +10,8 @@
 {"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇艺视频.js"},
 {"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","欧美剧","台湾剧","动作片","喜剧片","科幻片","爱情片"]},
 #有短剧
-{"key":"csp_YQKan","name":"💥一┃起┃看💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/557b63e33a8cb5f2666b3bd3c968baa8c82e4f28/巧技改.jar","categories":["短剧","电视剧","电影","综艺","动漫"]},
-{"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["短剧","内地剧","香港剧","欧美剧","台湾剧","动作片","喜剧片"]},
+{"key":"csp_YQKan","name":"💥一┃起┃看💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/557b63e33a8cb5f2666b3bd3c968baa8c82e4f28/巧技改.jar"},
+{"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
 
 
 {"key":"鑫鑫0","name":"💥鑫鑫极速💥","type": 3,"api": "csp_AppYsV2","ext": "http://yingszj.xn--654a.cc/api.php/app/"},
