@@ -32,7 +32,7 @@
 {"key":"nm","name":"沐沐农民无广","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://v.nmvod.cn","jar":"https://raw.gitcode.com/frxz751113/1/blobs/c67180982e7704b247a21d39deed1c3e6078445e/沐沐.jar","categories":["剧集","电影","综艺","动漫"]},
 {"key":"lvdou","name":"沐沐短剧-1","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.52.241.21:83/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/c67180982e7704b247a21d39deed1c3e6078445e/沐沐.jar"},
 {"key":"meowtv_rxdj","name":"沐沐短剧-2","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.84.103:6822/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/c67180982e7704b247a21d39deed1c3e6078445e/沐沐.jar"},
-{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"}
+{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"}
 ],
 
 "parses": [ 
