@@ -29,7 +29,7 @@
     {"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
     {"name": "咸鱼解析","type":0,"url": "https://jx.xyflv.cc/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
     {"name": "CGD解析","type":0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
-    {"name":"爱酷🌾","type":1,"url":"http://42.157.129.139:7788/json/aiku.php?url=","ext":{"flag":["seven","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"Lavf/58.12.100"}}},
+    {"name":"7788","type":1,"url":"http://42.157.129.139:7788/json/aiku.php?url=","ext":{"flag":["seven","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"Lavf/58.12.100"}}},
     //{"name": "2345解析","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
     //{"name": "777解析","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
     {"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
