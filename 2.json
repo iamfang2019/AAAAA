@@ -53,7 +53,6 @@
 {"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
 {"name": "潜龙解析","type": 0,"url": "https://t1.qlplayer.cyou/player/?url="},
             {"name":"纯净1","url":"https://im1907.top/?jx="},
-
             {"name":"听乐","url":"https://jx.dj6u.com/?url="},
             {"name":"YT","url":"https://jx.yangtu.top/?url="},
             {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}}
