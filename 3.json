@@ -1,4 +1,4 @@
-{"spider": "https://raw.gitcode.com/frxz751113/1/blobs/79ab6d98ee638858fa625eb594648c8464c6c723/83.jar",
+{//"spider": "https://raw.gitcode.com/frxz751113/1/blobs/79ab6d98ee638858fa625eb594648c8464c6c723/83.jar",
   
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt","playerType": 1,"ua": "okhttp/3.12.13",
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -14,10 +14,7 @@
 {"key":"酷看","name":"💥酷看秒播💥","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar": "https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
-{"key":"荐片弹幕版","name":"💥弹幕荐片💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60,"jar": "https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"}, 
-{"key":"鑫鑫0","name":"💥鑫鑫极速💥","api": "csp_AppYsV2","type": 3,"ext": "http://yingszj.xn--654a.cc/api.php/app/","jar": "https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
-{"key":"csp_YQKan","name":"💥一┃起┃看💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
-{"key":"豪华资源","name":"💥超级极速💥","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","动作片","喜剧片","伦理片"]}
+{"key":"荐片弹幕版","name":"💥弹幕荐片💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jianpian.json$$$1", "timeout":60,"jar": "https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"}
 ],
 
 "parses": [//{"name":"解析并发","type":2,"url":"Parallel"}, 
