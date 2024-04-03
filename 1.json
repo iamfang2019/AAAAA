@@ -10,7 +10,8 @@
 	}],
 
 
-	"sites": [{
+	"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","json":"直播源.json"},
+		{
 			"key": "meowtv_qysp",
 			"name": "奇艺┃视频",
 			"type": 3,
