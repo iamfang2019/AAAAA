@@ -19,8 +19,7 @@
 //{"key":"豪华资源","name":"💥超级极速💥","type": 1, "api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫", "剧情片", "战争片", "动作片", "科幻片", "记录片", "爱情片", "喜剧片", "灾难片", "悬疑片", "犯罪片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
 
 
-{"ext":"eyJhcGkiOiJodHRwOi8vdHYua290Yy5jbiIsInRva2VuIjoiIn0=","filterable":1,"quickSearch":1,"name":"丫仙女","changeable":0,"jar":"http://tv.kotc.cn/spring.jar","style":{"type":"rect"},"api":"csp_XiaoYa","type":3,"key":"csp_XiaoYa","searchable":1},
-
+{"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
 
 
 
