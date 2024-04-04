@@ -14,7 +14,6 @@
 "sites": [
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt"},
 {"key":"csp_xBPQ_秒","name":"❤文才秒播❤","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt","categories":["国产剧","欧美剧","港台剧","动作片","喜剧片","科幻片","爱情片"]},
-{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
 {"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","最新电影"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar"},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷视频.js"},
