@@ -22,8 +22,7 @@
 {"key": "csp_xml_爱坤","name": "💥影视爱坤💥","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"meowtv_zzys","name":"💥子子影视💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cdn.teyonds.com/js/子子影视.js"},	
 {"key":"淘片资源","name":"❤❤🐁淘片❤","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1},
-{"key":"yqk","name":"一起看[cat]","type":3,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/js/%E4%B8%80%E8%B5%B7%E7%9C%8B.js"},
- {"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
+{"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
 
 
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
