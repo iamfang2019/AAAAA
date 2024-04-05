@@ -1,11 +1,4 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip",
- //https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip
- //https://raw.gitcode.com/frxz751113/1/blobs/7f26f9e07cc8d10aad9e830022e6d85d2dc107bb/巧技.jar
- //https://raw.gitcode.com/frxz751113/1/blobs/aa4cf05cf5a4cc36eaf2d0e2801feb511eba3470/春盈.jar
- //https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt
- //"spider": "https://raw.gitcode.com/frxz751113/1/blobs/095105e8e73633f10df32a87b4b9fe50ed6f2788/yt.jar",
- //https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar
-
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt","playerType": 1,"ua": "okhttp/3.12.13",
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -21,7 +14,7 @@
 {"key":"淘片资源","name":"❤淘片影视❤","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","最新电影"]},
 {"key":"csp_xBPQ_秒","name":"❤文才秒播❤","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","categories":["国产剧","港台剧","动作片","喜剧片","科幻片","爱情片"]},
-{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"热播库","name":"💥热播之家💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":{"主页url":"https://rebozj.pro","数组":"class=\"stui-vodlist__thumb lazyload&&</a>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"pic-text text-right\"><b>&&</span>","搜索模式":"1","嗅探词":".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","搜索url":"https://rebozj.pro/type/id-.html?wd={wd}","线路数组":"<h4 class=\"title&&/h4>","线路标题":">&&<","播放列表":"<a&&/a>","播放标题":">&&<","影片类型":"类型：&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"display: none;\">&&</span>","分类":"电视剧$2#电影$1#综艺$3#动漫$4","分类url":"https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a","跳转播放链接":"urlDecode(vod_class*url\":\"&&\")"}},
 {"key":"saohuo","name":"💥极速骚火💥","type":3,"api":"csp_XBPQ","searchable":1,"changeable":0,"quickSearch":1,"playerType":"2","ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
