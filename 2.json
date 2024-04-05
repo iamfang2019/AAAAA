@@ -35,7 +35,7 @@
 {"key":"saohuo","name":"💥极速骚火💥","type":3,"api":"csp_XBPQ","searchable":1,"changeable":0,"quickSearch":1,"playerType":"2","ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
 {"key": "csp_appys_影盒","name": "❤影探4K❤❤","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms-ythz.lyyytv.cn/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/095105e8e73633f10df32a87b4b9fe50ed6f2788/yt.jar"},
-{"key":"csp_appys_影探","name":"🖼影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/095105e8e73633f10df32a87b4b9fe50ed6f2788/yt.jar"},
+{"key":"csp_appys_影探","name":"🖼影探4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1b8f7c39955cef48f5b28780c471a4ad49cfa407/yt.jar"},
 
 
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/py_cctv.py"},
