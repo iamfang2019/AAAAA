@@ -19,15 +19,7 @@
 			"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
 			"ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt"
 		},
-		{
-			"key": "drpy_js_荐片",
-			"name": "❤影视荐片❤",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"ext": "./js/荐片.js",
-			"playerType": "1"
-		},
-		{
+        {
 			"key": "meowtv_yksp",
 			"name": "💥优酷接口💥",
 			"type": 3,
@@ -110,7 +102,15 @@
 				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
 			}
 		},
-				{
+		{
+			"key": "drpy_js_荐片",
+			"name": "❤影视荐片❤",
+			"type": 3,
+			"api": "./js/drpy2.min.js",
+			"ext": "./js/荐片.js",
+			"playerType": "1"
+		},
+		{
 			"key": "csp_xml_爱坤",
 			"name": "💥爱坤影视💥",
 			"type": 1,
