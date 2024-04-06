@@ -26,7 +26,7 @@
 
 {"key":"厂长","name":"📔厂长无广","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/"},
 {"key":"csp_Jianpian","name":"荐片秒播","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar"},
-{"key":"荐片","name":"荐片磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jianpian.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
+{"key":"荐片","name":"荐片磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/jianpian.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider专用.jar"},
 
 
 
