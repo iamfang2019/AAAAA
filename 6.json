@@ -573,15 +573,6 @@
         "filterable": 1,
         "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/疯狗电影.json"
     }, {
-        "key": "白嫖影视",
-        "name": "️白影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/白嫖影视.json"
-    }, {
         "key": "csp_XBPQ_黑狐",
         "name": "🍚黑狐(XBPQ)",
         "type": 3,
