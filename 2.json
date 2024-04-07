@@ -19,7 +19,7 @@
 {"key": "csp_xml_爱坤","name": "💥爱坤影视💥","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["动作片","大陆剧","喜剧片","爱情片","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","伦理片"]},
 {"key":"淘片资源","name":"❤淘片影视❤","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
-{"key":"鑫鑫影视","name":"🕯鑫鑫影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
+{"key":"鑫鑫影视","name":"❤鑫鑫影视❤","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"csp_Jianpian","name":"💥荐片秒播💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"荐片","name":"💥荐片磁力💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/jianpian.json","jar":"https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/jar/spider.jar;md5;c8ad0526ddd4012de25706eaf7375bda"},
 {"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"]},
