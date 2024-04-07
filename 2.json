@@ -22,8 +22,8 @@
 {"key":"鑫鑫影视","name":"❤鑫鑫影视❤","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"csp_Jianpian","name":"💥荐片秒播💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"荐片","name":"💥荐片磁力💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/jianpian.json","jar":"https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/jar/spider.jar;md5;c8ad0526ddd4012de25706eaf7375bda"},
-{"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"]},
-{"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.site/","categories":["国产剧","日剧","电影","韩剧"]},
+{"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider%E4%B8%93%E7%94%A8.jar"},
+{"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.site/","categories":["国产剧","日剧","电影","韩剧"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider%E4%B8%93%E7%94%A8.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
 ],
