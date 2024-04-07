@@ -1,6 +1,4 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar",
-//https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar
-//https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip
 
 
 
@@ -24,17 +22,10 @@
 {"key":"saohuo","name":"💥极速骚火💥","type":3,"api":"csp_XBPQ","searchable":1,"changeable":0,"quickSearch":1,"playerType":"2","ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["短剧","国产剧","香港剧","台湾剧","日本剧","欧美剧","韩国剧","动作片","爱情片","喜剧片","其他片"]},	
-
-
 {"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/","categories":["国产剧","日剧","电影","韩剧"]},
 {"key":"csp_Jianpian","name":"💥荐片秒播💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar"},
 {"key":"荐片","name":"💥荐片磁力💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"changeable":1,"ext":"./json/jianpian.json","jar":"https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/jar/spider.jar;md5;c8ad0526ddd4012de25706eaf7375bda"},
 {"key":"耐看","name":"💥耐看影视💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/耐看.js","jar":"https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/jar/spider.jar;md5;c8ad0526ddd4012de25706eaf7375bda"},
-
-
-
-
-
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
 ],
