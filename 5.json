@@ -2,13 +2,13 @@
    "urls": [
     {"url": "https://raw.gitcode.com/frxz751113/1/raw/main/2.json", "name":"默认线路"},
     {"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
-    {"name":"测试线路","url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.json"}
+    {"name":"测试线路","url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.json"},
     //{"url": "https://raw.gitcode.com/qq_33200661/12/raw/master/1.josn", "name":"你看你"}
     //{"url": "https://raw.gitcode.com/frxz751113/1/raw/main/极速.json", "name":"备用线路"}
     //{"name":"###","url": "https://caiji.semaozy.net/inc/apijson_vod.php"},   
     //{"name":"测试专用勿点","url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/AAAAA/main/2.json"}
     //{"name":"","url": "https://gh.con.sh/"},   
-    //{"name":"1","url": "https://agit.ai/cjh198488/tvbox0607-3/raw/branch/main/my.json"},   
+    {"name":"1","url": "https://raw.gitcode.com/frxz751113/1/raw/main/6.json"}
     //{"name":"2","url": "https://agit.ai/movie/tvbox/raw/branch/master/0.json"},   
     //{"name":"3","url": "https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/tv.txt"}
     //{"name":"","url": ""},   
