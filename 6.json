@@ -75,8 +75,8 @@
         "api": "csp_Kunyu77",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "豆瓣",
         "name": "豆瓣",
         "type": 3,
@@ -84,15 +84,8 @@
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0
-    }, {
-        "key": "YGP",
-        "name": "荐影",
-        "type": 3,
-        "api": "csp_YGP",
-        "searchable": 0,
-        "quickSearch": 0,
-        "changeable": 0
-    }, {
+    }, 
+    {
         "key": "dr_酷云",
         "name": "酷云七七(js)",
         "type": 3,
@@ -108,8 +101,8 @@
         "type": 3,
         "filterable": 1,
         "quickSearch": 1,
-        "searchable": 1
-    }, {
+        "searchable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "农民",
         "name": "🥝农民",
         "type": 3,
@@ -163,8 +156,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://www.czzy88.com/"
-    }, {
+        "ext": "https://www.czzy88.com/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "csp_AppTT",
         "name": "💥萌米",
         "type": 3,
@@ -211,8 +204,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "changeable": 1
-    }, {
+        "changeable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "酷看",
         "name": "💡酷看",
         "type": 3,
@@ -220,8 +213,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "changeable": 1
-    }, {
+        "changeable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "csp_YCyz",
         "name": "☀原创",
         "type": 3,
@@ -248,8 +241,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "changeable": 1
-    }, {
+        "changeable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "csp_DiDuan",
         "name": "低端",
         "type": 3,
@@ -265,8 +258,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "https://v.auete.com/"
-    }, {
+        "ext": "https://v.auete.com/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "csp_MYYS",
         "name": "👻忍者",
         "type": 3,
@@ -274,8 +267,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "http://rzys.xyz"
-    }, {
+        "ext": "http://rzys.xyz","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "csp_MLYS",
         "name": "🐴毛驴",
         "type": 3,
@@ -293,8 +286,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "https://www.kuin.one/api.php/app/"
-    }, {
+        "ext": "https://www.kuin.one/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "奇奇",
         "name": "🍓奇奇┃App",
         "type": 3,
@@ -330,8 +323,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
-        "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
-    }, {
+        "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "csp_AppYsV2",
         "name": "😎69美剧┃app",
         "type": 3,
@@ -367,8 +360,8 @@
         "quickSearch": 1,
         "filterable": 1,
         "playerType": "2",
-        "ext": "https://www.kuin.one/api.php/app/"
-    }, {
+        "ext": "https://www.kuin.one/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "如意",
         "name": "🍝如意",
         "type": 3,
@@ -376,8 +369,8 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    }, {
+        "ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "新建",
         "name": "👰新新",
         "type": 3,
@@ -395,15 +388,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "https://www.hdmyy.com/"
-    }, {
-        "key": "csp_DiDuan",
-        "name": "📺低端",
-        "type": 3,
-        "api": "csp_Ddrk",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1
-    }, {
+    },  {
         "key": "csp_Bttwoo",
         "name": "✌比特",
         "type": 3,
@@ -427,8 +412,8 @@
         "api": "csp_AppMr",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+        {
         "key": "csp_Lib",
         "name": "🔷LibVio",
         "type": 3,
@@ -510,26 +495,16 @@
         "api": "csp_Ying",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "Ysj",
         "name": "📮异世界",
         "type": 3,
         "api": "csp_Ysj",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
-        "key": "csp_WoGG",
-        "name": "👽玩偶哥哥",
-        "type": 3,
-        "api": "csp_WoGG",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 0,
-        "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd"
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "影图影视",
         "name": "🥪影图影视",
         "type": 1,
@@ -554,8 +529,8 @@
         "playUrl": "https://hd.iapijy.com/play?url=",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "火狐资源",
         "name": "火狐资源",
         "type": 1,
@@ -572,8 +547,8 @@
         "playUrl": "https://subojiexi.com/play/?url=",
         "searchable": 1,
         "quickSearch": 1,
-        "filterable": 1
-    }, {
+        "filterable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
+         {
         "key": "索尼资源",
         "name": "索尼资源",
         "type": 1,
