@@ -2,6 +2,10 @@
     "spider": "https://agit.ai/ystvy/yydsy/raw/branch/master/jar/yv.txt",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     // 数据接口【Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫】【searchable:0不可以1可以quickSearch:可快速搜索0不可以 1可以filterable:可筛选0不可以1可以】
+  
+  "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt","playerType": 1,"ua": "okhttp/3.12.13",
+"epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+
   "sites": [{
         "key": "csp_Jianpian",
         "name": "🧲荐片",
