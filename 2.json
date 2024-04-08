@@ -5,7 +5,7 @@
 //https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider专用.jar
 //https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar
 //https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar
-
+//https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt
 
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt","playerType": 1,"ua": "okhttp/3.12.13",
@@ -28,7 +28,7 @@
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"https://raw.gitcode.com/frxz751113/1/blobs/e11152da489fd6a1a2065b4614a754ca55878d5b/pg.jar"},
 {"key":"鑫鑫影视","name":"💥鑫鑫影视💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
-{"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.site/","categories":["国产剧","日剧","电影","韩剧"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"},
+{"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.site/","categories":["国产剧","日剧","电影","韩剧"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt"},
 {"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"]},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
