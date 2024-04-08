@@ -1,12 +1,6 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs/bd8458247adc9e8b0f80337ec750b3dc5679a2f7/%E5%90%88%E6%88%901.jar",
 //"spider": "https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar",
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider专用.jar"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt"},
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/f5237b7548e39124e4c4a0324ad3ac463399dea8/LR.jar"},
+
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt","playerType": 1,"ua": "okhttp/3.12.13",
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
