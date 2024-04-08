@@ -1,11 +1,11 @@
 {//"spider": "https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar",
 "spider": "https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar",
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip""""""
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider专用.jar"
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar"
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"
-//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt"
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/dfd2a69f2f4a9f8736e8acd914951a98f3a26769/ZBjar.zip"},
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b2509b961cff9d54c034d8dc77685e3f70deee50/fan.txt"},
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/a35687eb29f5f9d9dfe96bd61564741ea70d6fc4/spider专用.jar"},
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/7aa3619b848300ccc78fcd2d2faf39291bc76e07/Yoursmile.jar"},
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"},
+//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/26b66134138dd280334eaa1023dde5d52db019b1/yydf.txt"},
 
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt","playerType": 1,"ua": "okhttp/3.12.13",
@@ -29,7 +29,7 @@
 {"key":"鑫鑫影视","name":"💥鑫鑫影视💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"厂长","name":"💥厂长无广💥","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy.site/","categories":["国产剧","日剧","电影","韩剧"]},
-{"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"
+{"key":"csp_Bttoo","name":"💥两个BT💥","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","日韩剧","最新电影"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/c3ea88f402505449dfd1c52f3ef8b22dfbcaee13/PandaQ240309.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
 ],
