@@ -10,8 +10,8 @@
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt"},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/优酷视频.js"},
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
-{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
-{"key":"meowtv_mgsp","name":"💥芒果视频💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.teyonds.com/js/芒果视频.js"},
+//{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
+//{"key":"meowtv_mgsp","name":"💥芒果视频💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.teyonds.com/js/芒果视频.js"},
 {"key":"豪华资源","name":"💥豪华资源💥","type":1,"api":" https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","爱情片","喜剧片","短剧"]},
 {"key":"淘片资源","name":"❤淘片影视❤","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key":"drpy_js_荐片","name":"❤影视荐片❤","type":3,"api":"./js/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
@@ -24,7 +24,6 @@
 {"key":"csp_xBPQ_秒","name":"💥文才秒播💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","categories":["国产剧","港台剧","动作片","喜剧片","科幻片","爱情片"]},
 {"key":"热播","name":"💥热播App💥","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn"},
 {"key":"鑫鑫影视","name":"💥鑫鑫影视💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","categories":["电影","电视剧"]},
-{"key":"神仙影视","name":"💥神仙影视💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"}},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
