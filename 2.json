@@ -18,6 +18,7 @@
 {"key":"索尼资源","name":"💥索尼资源💥","type":3,"api":"https://raw.gitcode.com/frxz751113/1/raw/main/js/caiji.js","searchable":1,"ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","演唱会","港台三级","西方伦理","日本伦理","韩国伦理","影视解说"]}},
 {"key": "csp_xml_爱坤","name": "💥爱坤影视💥","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["动作片","大陆剧","喜剧片","爱情片","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","伦理片"]},
 
+{"key":"鑫鑫影视","name":"💥鑫鑫影视💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/"},
 
 //jar
 {"key":"csp_Jianpian","name":"💥荐片秒播💥","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
