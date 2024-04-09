@@ -108,7 +108,7 @@ var rule = {
             }
             let playMap = {};
 			if (node.have_ftp_ur == 1) {
-				playMap["边下边播超清版"] = node.new_ftp_list.map(it => {
+				playMap["超清版"] = node.new_ftp_list.map(it => {
 					return it.title + "$" + (/m3u8/.test(it.url) ? play_url + it.url : "tvbox-xg:" + it.url)
 				}).join('#');
 			}
