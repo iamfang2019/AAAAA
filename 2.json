@@ -7,7 +7,7 @@
 
 
 "sites": [//js
-{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt#小台$https://gitee.com/a-falling-star/app/raw/master/%E5%A4%8D%E5%90%88%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F%E5%B0%8F%E5%8F%B0.txt"},
+{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/1.txt"},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/优酷视频.js"},
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
 //{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
