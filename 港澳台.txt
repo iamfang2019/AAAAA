@@ -1,9 +1,8 @@
-﻿= 未分组 =
+= 未分组 =
 49号[1280*720],http://61.221.215.25:8800/hls/49/index.m3u8
 AMC电影台[1280*720],http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影台[1280*720],http://61.221.215.25:8800/hls/43/index.m3u8
-AMC电影台[1280*720],http://mywlkj.ddns.net:754/tv/tw.php?id=56
-authid=0
+AMC电影台[1280*720],http://mywlkj.ddns.net:754/tv/tw.php?id=56authid=0
 Discovery探索频道[1280*720],http://mywlkj.ddns.net:754/tv/tw.php?id=51
 ELEVEN1台[1280*720],rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2台[1280*720],rtmp://f13h.mine.nu/sat/tv741
@@ -15,8 +14,7 @@ MoMo综合[1280*720],rtmp://f13h.mine.nu/sat/tv761
 Mo综合[1280*720],rtmp://f13h.mine.nu/sat/tv761
 NHK新闻[1280*720],http://61.221.215.25:8800/hls/51/index.m3u8
 now爆谷[1280*720],http://119.23.61.191:8088/HK/nowbg/hls.m3u8
-now星影[1280*720],http://119.23.61.191:8088/HK/nowxy/hls.m3u8
-stream02/streamPlaylist.m3u8
+now星影[1280*720],http://119.23.61.191:8088/HK/nowxy/hls.m3u8stream02/streamPlaylist.m3u8
 TVBS新闻[1280*720],http://47.76.82.26:29500/live.m3u8?c=2
 TVBS新闻[1280*720],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS新闻[1920*1080],http://mywlkj.ddns.net:754/tv/tw.php?id=52
