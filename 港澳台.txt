@@ -54,11 +54,11 @@ TVB無線新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://tvbox6.com/tv/fhzx.m3u8
-港台31[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-港台32[853*480],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-港台33[853*480],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台34[640*360],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台35[640*360],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+港台31,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+港台32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+港台33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+港台35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 港台電視33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 港台電視34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 功夫,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -68,7 +68,7 @@ TVB無線新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视频道,rtmp://f13h.mine.nu/sat/tv111
 寰宇新聞,http://47.76.82.26:29500/live.m3u8?c=5
-经典电影[720*576],http://171.108.239.95:8181/tsfile/live/1019_1.m3u8
+经典电影,http://171.108.239.95:8181/tsfile/live/1019_1.m3u8
 卡通,http://61.221.215.25:8800/hls/40/index.m3u8
 藍色水玲瓏,http://47.76.82.26:29500/live.m3u8?c=9
 龙祥电影台,http://171.108.239.92:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -112,8 +112,8 @@ TVB無線新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 无线财经体育,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 无线新闻,http://119.23.61.191:8088/HK/wxxw/hls.m3u8
 現代嘉慶君,http://47.76.82.26:29500/live.m3u8?c=8
-香港電台(RTHK 34)[1024*576],https://livedoc.cgtn.com/1000d/prog_index.m3u8
-香港電台(RTHK 34)[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+香港電台(RTHK 34),https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港文旅频道[1152*648],http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 星光碟视,http://mywlkj.ddns.net:754/tv/yximgs.php?id=69
@@ -125,13 +125,13 @@ TVB無線新聞台,http://137.175.30.127:9080/hls/inews.m3u8
 星空卫视[1047*576],http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视[1047*576],http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视,http://171.108.239.95:8181/tsfile/live/1012_1.m3u8
-耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经[1024*576],http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经[1024*576],https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-耀才财经[1024*576],https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-耀才财经频道[1024*576],https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 音乐,http://mywlkj.ddns.net:754/tv/tw.php?id=65
 有线18,http://58.87.99.251:8090/HK/yx18/hls.m3u8
 娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
