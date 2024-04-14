@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+✄央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -70,7 +70,7 @@ CCTV央视台球高清,http://113.24.136.208:8084/udp/239.1.1.100:8100
 
 
 
-卫视频道,#genre#
+✄卫视频道,#genre#
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
@@ -169,7 +169,7 @@ CCTV央视台球高清,http://113.24.136.208:8084/udp/239.1.1.100:8100
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 
-特色频道,#genre#
+❉特色频道,#genre#
 茶频道高清,http://113.24.136.208:8084/udp/239.1.1.77:8077
 法治天地高清,http://113.24.136.208:8084/udp/239.1.1.79:8079
 动漫秀场高清,http://113.24.136.208:8084/udp/239.1.1.80:8080
@@ -194,7 +194,7 @@ CCTV央视台球高清,http://113.24.136.208:8084/udp/239.1.1.100:8100
 新闻综合 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 超级电视剧 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 动作电影 8M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-4K-8K频道,#genre#
+❉4K8K频道,#genre#
 北京纪实科教-8K[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 CCTV4K 超高清,http://159.75.85.63:5679/cctv4k.php
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -203,9 +203,9 @@ Fashion-4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 4K-UHD,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-苏州-4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州-4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-??香港频道「测试中」,#genre#
+▶香港频道,#genre#
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰中文,http://proxy.dfkj.live/alitv.php?u=min&id=1
@@ -238,9 +238,7 @@ now星影,http://mywlkj.ddns.net:754/tv/tw.php?id=102
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://mywlkj.ddns.net:754/tv/dl/dl668/bfgd.php?id=635
-??澳门频道,#genre#
-澳亚卫视[720*480],https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-??湾湾频道「测试中」,#genre#
+▶湾湾频道,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -287,7 +285,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-??NewTV频道,#genre#
+NewTV频道,#genre#
 NewTV东北热剧 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV军事评论 2.5M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
