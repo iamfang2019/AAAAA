@@ -28,8 +28,7 @@
 {"key":"鑫鑫影视","name":"💥鑫鑫影视💥","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","categories":["电影","电视剧"]},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},//,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py"},
-{"key":"drpy_js_酷奇MV","name":"🎵酷奇","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/5c38e70b44ef059dc0761458c25e09775faf3556/js/酷奇MV.js"}
-//{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
+{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json"}
 ],
 
 "parses": [{"name":"Json轮询","type":2,"url":"Sequence"},
