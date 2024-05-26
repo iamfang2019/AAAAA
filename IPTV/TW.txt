@@ -1,4 +1,4 @@
-﻿﻿Taiwan,#genre#
+Taiwan,#genre#
 AXN[1920*1080],http://23.224.232.221:81/kk.php?id=axn_twn
 CINEMAX[1920*1080],http://23.224.232.221:81/kk.php?id=cinemax_twn
 EYETV旅遊,http://23.224.232.221:81/kk.php?id=eyetvtravel_twn
