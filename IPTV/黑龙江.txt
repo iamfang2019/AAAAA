@@ -215,7 +215,7 @@ CCTV17,http://39.134.65.162/PLTV/88888888/224/3221225708/index.m3u8
 通川电视台,rtmp://tv.drs.dzxw.net/channellive/tcpd-dz3
 达川生活,rtmp://tv.drs.dzxw.net/channellive/ggpd-dz2
 包头综合,rtmp://test5.btzx.com.cn/live/kkdl.stream
-新闻,rtmp://test5.btzx.com.cn/live/13TV.stream
+十三师电视台,rtmp://test5.btzx.com.cn/live/13TV.stream
 生活,rtmp://live.sfrmt.com/live/zhpd
 宿豫综合,rtmp://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd
 泗阳资讯,rtmp://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx
