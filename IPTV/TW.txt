@@ -28,8 +28,6 @@ TVB星河台,http://jxtv2.gdsz.eu.org:8081/hls/135/index.m3u8
 欧洲华文频道,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-4K南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-4K斗鱼影院台,http://159.75.85.63:35455/douyu/9249162
 东森财经,http://livetv.skycf.eu.org/live.m3u8?c=14
 
 湾频道2,#genre#
