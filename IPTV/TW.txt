@@ -1,4 +1,4 @@
-﻿港澳/随时失效,#genre#
+港澳/随时失效,#genre#
 三立戏剧[1280*720],http://61.221.215.25:8800/hls/41/index.m3u8
 中视[1280*720],rtmp://220.130.201.73/sat/tv091
 中视[1280*720],rtmp://f13h.mine.nu/sat/tv091
@@ -21,7 +21,6 @@
 凤凰香港,http://hikvision.city:880/fhxgt.m3u8
 华视[1280*720],rtmp://f13h.mine.nu/sat/tv111
 台视[1280*720],rtmp://220.130.201.73/sat/tv071
-台视新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
 探索亚洲[1280*720],http://61.221.215.25:8800/hls/50/index.m3u8
 星光视界[1280*720],http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星河台[1280*720],http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
