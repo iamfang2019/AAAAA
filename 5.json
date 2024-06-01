@@ -1,40 +1,11 @@
   {
    "urls": [
-    {"url": "https://raw.gitcode.com/frxz751113/1/raw/main/2.json", "name":"默认线路"},
-    {"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
-    {"name":"测试线路","url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.json"}
+    {"url": "https://raw.gitcode.com/frxz751113/1/raw/main/2.json", "name":"默认线路"}
+    //{"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
+    //{"name":"测试线路","url": "https://raw.gitcode.com/frxz751113/1/raw/main/1.json"}
     //{"url": "https://raw.gitcode.com/qq_33200661/12/raw/master/1.josn", "name":"你看你"}
     //{"url": "https://gh.con.sh/https://raw.githubusercontent.com/fish2018/tvbox/55bd0b2719d035a6d6645821421087580762d2d3/%E7%BB%BC%E5%90%88%E5%A4%A7%E5%85%A8.txt", "name":"试用线路"}
     //{"name":"###","url": "https://caiji.semaozy.net/inc/apijson_vod.php"},   
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
-    {"name":"     ","url": ""},
     //{"name":"     ","url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/AAAAA/main/2.json"}
     //{"name":"","url": "https://gh.con.sh/"},   
-    //{"name":"1","url": ""}
-    //{"name":"2","url": "https://agit.ai/movie/tvbox/raw/branch/master/0.json"},   
-   // {"name":"3","url": "https://agit.ai/yinweiwei1989/TVBox-url/raw/branch/main/tv.txt"}
-    //{"name":"","url": ""},   
-    //{"name":"","url": ""},   
-    //{"name":"","url": ""},   
-    //{"name":"","url": ""},   
-    //{"name":"","url": ""}
 ]}
