@@ -16,6 +16,8 @@ TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
 凤凰卫视,http://hikvision.city:880/fhws.m3u8
 凤凰资讯,http://hikvision.city:880/fhzx.m3u8
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
+凤凰资讯[1920*1080],http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+香港卫视HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰香港,http://hikvision.city:880/fhxgt.m3u8
 华视[1280*720],rtmp://f13h.mine.nu/sat/tv111
 台视[1280*720],rtmp://220.130.201.73/sat/tv071
