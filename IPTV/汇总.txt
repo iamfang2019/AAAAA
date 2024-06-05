@@ -485,9 +485,9 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6
 
 影视,#genre#
-重温经典[1920*1080],http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典[1920*1080],http://171.208.19.192:9090/live/cwjd/hls.m3u8
-重温经典[1920*1080],http://123.6.102.32:11789/850.php?id=cwjdhd.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://171.208.19.192:9090/live/cwjd/hls.m3u8
+重温经典,http://123.6.102.32:11789/850.php?id=cwjdhd.m3u8
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225679/index.m3u8
 NewTV军事评论,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225535/index.m3u8
 NewTV军旅剧场,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225560/index.m3u8
