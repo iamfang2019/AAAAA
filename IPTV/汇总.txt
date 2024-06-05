@@ -556,8 +556,7 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 古装剧场,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
 古装剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225663/index.m3u8$4.0M_1080
-好像海外剧场,http://39.134.67.226/PLTV/88888888/224/3221225730/index.m3u8
-好像海外剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+海外剧场,http://39.134.67.226/PLTV/88888888/224/3221225730/index.m3u8
 家庭剧场,http://39.134.65.164/PLTV/88888888/224/3221225538/1.m3u8
 家庭剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8$4.0M_1080
 家庭剧场,http://39.134.65.3:80/wh7f454c46tw1479032835_1793140886/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -567,7 +566,6 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 家庭剧场,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
-
 怡伴健康,http://39.134.67.226/PLTV/88888888/224/3221225571/index.m3u8
 怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
 怡伴健康,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225673/index.m3u8$4.0M_1080
@@ -577,8 +575,9 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 惊悚悬疑,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 惊悚悬疑,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8$4.0M_1080
-无名影视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 无名电影,http://39.134.67.226/PLTV/88888888/224/3221225550/index.m3u8
+无名电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
+无名电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 欢乐剧场,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
 欢乐剧场,http://39.134.65.166/PLTV/88888888/224/3221225682/1.m3u8
 欢乐剧场,http://39.134.65.173/PLTV/88888888/224/3221225682/1.m3u8
@@ -591,7 +590,6 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 欢乐剧场,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8$4.1M_1080
 求索纪录,http://39.134.67.226/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 湖北影视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 潮妈辣婆,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8$4.0M_1080
@@ -607,8 +605,10 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 炫舞未来,http://39.134.67.226/PLTV/88888888/224/3221225646/index.m3u8
 炫舞未来,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010039/1.m3u8
 炫舞未来,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225719/index.m3u8$4.0M_1080
+热播精选,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 热播精选,http://39.134.65.166/PLTV/88888888/224/3221225521/1.m3u8
 热播精选,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/1.m3u8
+热播精选,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 热播精选,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8$4.0M_1080
 爱情喜剧,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8
 爱情喜剧,http://39.134.65.82:80/wh7f454c46tw972760835_-1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
@@ -617,7 +617,6 @@ NewTV超级电影,http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225644/
 爱情喜剧,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010000/1.m3u8
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8$4.0M_1080
-电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
 精品大剧,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 精品大剧,http://39.134.65.73:80/wh7f454c46tw620684259_1207662296/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 精品大剧,http://39.134.67.226/PLTV/88888888/224/3221225536/index.m3u8
