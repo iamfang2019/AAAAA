@@ -1,12 +1,10 @@
-﻿有线数字,#genre#
+有线数字,#genre#
 IPTV淘精彩[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.178:8001
 IPTV萌宠TV[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.102:8001
 IPTV淘Baby[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.238:8001
 IPTV淘剧场[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.95:8001
 IPTV淘电影[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.250:8001
 IPTV淘娱乐[1920*1080],http://happy2015.synology.me:4000/rtp/239.3.1.100:8001
-体育频道,#genre#
-足球频道[1920*1080],https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 IPV6线路1,#genre#
 CCTV11[1280*720],http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 CCTV13[1280*720],http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
