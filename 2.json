@@ -29,7 +29,9 @@
 //{"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar"}
 ],
 
-"parses": [{"name":"Json轮询","type":2,"url":"Sequence"},
+"parses": [//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name": "新777解析","type": 0,"url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url="},
 //{"name":"超级解析1","type":1,"url":"https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url="},
 //{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
