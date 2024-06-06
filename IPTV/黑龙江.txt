@@ -135,7 +135,6 @@ CCTV17,http://39.134.65.162/PLTV/88888888/224/3221225708/index.m3u8
 崇阳综合[1920*1080],http://61.184.176.248:10500/live/live.m3u8
 黄冈新闻[1920*1080],http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 黄冈公共[1920*1080],http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
-红安综合[1280*720],https://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1735660799-0-0-72da7166f8c3751c49c5feb5b24b54b8
 黄石新闻综合[1280*720],https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
 咸宁综合[1280*720],http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
 咸宁经济生活[1280*720],http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
