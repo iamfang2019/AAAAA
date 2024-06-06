@@ -1,4 +1,4 @@
-﻿🇨🇳中国港澳👉春盈,#genre#
+🇨🇳中国港澳👉春盈,#genre#
 凤凰中文频道[1920*1080],http://146.56.153.245:20121/bysid/258
 凤凰资讯频道[1920*1080],http://146.56.153.245:20121/bysid/257
 香港凤凰频道[1920*1080],http://146.56.153.245:20121/bysid/259
@@ -12,14 +12,11 @@ RTHK34*频道,[1024*576],https://livedoc.cgtn.com/1000d/prog_index.m3u8
 RTHK34*频道[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 RTHK34*频道[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 4k👉修复全网[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
--8K北京科教台[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
--8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k25
--8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
--8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k25
--8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
--4kCCTV16台[3840*2160],https://tv.cry33.com/ys4k.php?id=16-4k
-4K咪咕台ipv6[3840*2160],http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-8K北京纪实台[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+8K北京科教台[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+8K北京科教台[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k25
+8KCCTV超清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
+4kCCTV16台[3840*2160],https://tv.cry33.com/ys4k.php?id=16-4k
 🌏全球频道👉全网,#genre#
 环球电视[1920*1080],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CNA新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
