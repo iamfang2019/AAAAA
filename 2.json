@@ -15,6 +15,8 @@
 {"key":"nangua","name":"❤APP南瓜❤","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"jp","name":"❤APP荐片❤","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"xifan","name":"❤动漫稀饭❤","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
+{"key":"czzy","name":"影视|厂长","type":3,"api":"./js/czzy.js"},
+{"key":"nmys","name":"影视|农民","type":3,"api":"./js/nmys.js"},
 
 {"key":"csp_xBPQ_秒","name":"💥文才秒播💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","categories":["国产剧","港台剧","动作片","喜剧片","科幻片","爱情片"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"./js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},//"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
