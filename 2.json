@@ -1,12 +1,12 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar",
 
-//"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 //"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"lives":[{"name":"XIUTAN","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]，
 
 "sites": [//js
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "直播源$https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt"},
 //{"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/00549782dcc59b39f635bac65e04de5360ceb624/qyIPTV.jar"},
+{"name":"XIUTAN","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
 {"key":"New6v","name":"❤超清无广❤","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 {"key":"tvyb","name":"❤云播无广❤","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"xsj","name":"❤影视视觉❤","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
