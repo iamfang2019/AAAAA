@@ -1,9 +1,11 @@
 {"spider": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar",
 //"spider": "https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar",
 
-"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+//"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 //"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-
+"lives":[{"name":"live","type":0,"url":"https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType":1},
+		 {"name":"XIUTAN","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
+		 {"name":"IPV6","type":0,"url":"https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V6汇总.txt","playerType":1}]}，
 
 "sites": [//js
 {"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "直播源$https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt"},
