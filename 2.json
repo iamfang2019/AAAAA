@@ -13,7 +13,7 @@
 {"key":"xsj","name":"❤影视视觉❤","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"yj","name":"❤影视哔嘀❤","type":3,"api":"csp_WebYJ","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://www.yjys01.com","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"nangua","name":"❤APP南瓜❤","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
-{"key":"jp","name":"❤APP荐片❤","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":0,"jar":"./blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
+{"key":"jp","name":"❤APP荐片❤","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 {"key":"xifan","name":"❤动漫稀饭❤","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0,"ext":"公众号:影视资源站","jar":"https://raw.gitcode.com/frxz751113/1/blobs/1e296f8950b1f3ed7c0bf41e70550735392ff561/YSZYZ.jar"},
 
 {"key":"csp_xBPQ_秒","name":"💥文才秒播💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","categories":["国产剧","港台剧","动作片","喜剧片","科幻片","爱情片"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar"},
