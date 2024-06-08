@@ -10,6 +10,8 @@
 //{"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/00549782dcc59b39f635bac65e04de5360ceb624/qyIPTV.jar"},
 {"key":"New6v","name":"❤超清无广❤","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
 {"key":"tvyb","name":"❤影视云播❤","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com"},
+{"key":"xsj","name":"❤影视视觉❤","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com"},
+{"key":"yj","name":"❤影视哔嘀❤","type":3,"api":"csp_WebYJ","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"https://www.yjys01.com"},
 {"key":"csp_xBPQ_秒","name":"💥文才秒播💥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/文采秒播.json","categories":["国产剧","港台剧","动作片","喜剧片","科幻片","爱情片"],"jar":"https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"./js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},//"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"豪华资源","name":"💥豪华资源💥","type":1,"api":" https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json","searchable":1,"quickSearch":1,"categories":["内地剧","香港剧","欧美剧","台湾剧","动作片","伦理片","喜剧片","短剧"]},
