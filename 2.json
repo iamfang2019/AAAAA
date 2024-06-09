@@ -39,7 +39,6 @@
 //{"key":"一起看 ","name":"💥一起app💥","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},//"jar":"https://raw.gitcode.com/frxz751113/1/blobs/571d89b25bfd055cb8190a61b1780a3f7619606e/spider.jar"},
 {"key":"py_cctv","name":"💥央视PY💥","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 {"key":"py_cctv_集合","name":"💥央视视频💥","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/央视.js","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
-{"key":"Yinyuetai","name":"💥音乐┃MV💥","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/ea31d4cef2723908d2fa1a6cd25a17abeec8c5bc/MV.jar"},
 {"key":"csp_戏曲","name":"💥哔哩戏曲💥","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"ext":"./js/戏曲.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 {"key": "MTV","name": "💥明星 MV💥","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/5f4fe9b3dc2a5d63efddb6d7ce8f678a76ffa746/极速.jar"}
 ],
