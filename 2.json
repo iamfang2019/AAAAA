@@ -1,11 +1,11 @@
 {//"spider": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar",
 //,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
+//"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
 "lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-//"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "直播源$https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt"},
+
 
 ////////////////////js区//////////////////
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/优酷视频.js"},
