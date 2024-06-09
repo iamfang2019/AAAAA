@@ -46,7 +46,9 @@
 "parses": [{"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["seven"],"header": {"User-Agent": "Lavf/58.12.100"}}},
 //{"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"m3u8解析","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+{"name":"8090","url":"https://www.8090g.cn/?url="},
+{"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name": "新777解析","type": 0,"url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url="},
 //{"name":"超级解析1","type":1,"url":"https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url="},
 //{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
@@ -58,9 +60,7 @@
 {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 {"name": "CGD解析","type":0, "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=","ext": { "flag": ["youku","优酷", "qiyi","爱奇艺","奇艺","qq", "腾讯"  ]} },
 {"name": "777解析","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
-{"name":"m3u8解析","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
-{"name":"8090","url":"https://www.8090g.cn/?url="}
+{"name": "CK解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}}
 ],
 
 "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
