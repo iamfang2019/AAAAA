@@ -1,7 +1,7 @@
   {
    "urls": [
     {"url": "https://raw.gitcode.com/frxz751113/1/raw/main/2.json", "name":"默认线路"},
-    {"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
+    //{"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
     { "url": "http://www.饭太硬.com/tv","name": "饭太硬"},                      
     {"url": "http://肥猫.live","name": "肥猫"}
     //{"url": "http://xhww.fun/小米/DEMO.json","name": "饭太硬备"},             
