@@ -48,7 +48,7 @@
 {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url=","Requests": 1,"ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"],"header": {"User-Agent": "Mozilla/5.0(WindowsNT6.1;WOW64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4951.64Safari/537.36"}}},
 {"name":"m3u8解析","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 {"name":"8090","url":"https://www.8090g.cn/?url="},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name": "新777解析","type": 0,"url": "https://jx.777jiexi.com/player/?next=https://www.woaimoon.com/vod/98780-9-3.html&url="},
 //{"name":"超级解析1","type":1,"url":"https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url="},
 //{"name": "芒果解析","type": 1,"url": "http://jx.meowtv.cn/?url="},
