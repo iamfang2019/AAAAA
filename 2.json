@@ -29,7 +29,7 @@
 {"key":"勇往独家三","name":"勇往直前vip追剧","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://app.kzjtv.com"},
 {"key":"勇往蓝光三","name":"勇往直前蓝光自营","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://v.rbotv.cn"},
 {"key":"勇往超清二","name":"勇往直前超清自营","type":3,"api":"csp_NanGua","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/fan219.zip","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-
+{"key":"勇往超清四","name":" 勇往直前超清1自营","type":3,"api":"csp_CandyMuj_taoju","jar":"https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
