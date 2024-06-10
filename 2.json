@@ -10,7 +10,7 @@
 
 ////////////////////js区//////////////////
 //{"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/优酷视频.js"},
-{"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
+//{"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
 //{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
 {"key":"meowtv_mgsp","name":"💥咪咕视频💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.teyonds.com/js/芒果视频.js"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"./js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
