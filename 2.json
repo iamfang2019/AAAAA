@@ -26,7 +26,7 @@
 
 ///////////勇往直前区//////////////////////
 {"key":"勇往独家一","name":"勇往直前黑狐影视","type":3,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/b42ab8c077179ea49504a2cfc3c877137047b8ee/c.zip","playerType":"2","api":"csp_XBPQ","ext":{"站名":"黑狐影院","主页url":"http://fagmn.com","数组":"class=\"stui-vodlist__box\"&&</a","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","嗅探词":".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词":"/hls/#php","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://fagmn.com/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"href=\"#down&&/a>[替换:奇异视频>>勇往播放源1#优酷视频>>勇往播放源2#搜狐视频>>勇往播放源3#咪咕视频>>勇往播放源4]","线路标题":">&&<","播放数组":"class=\"stui-content__playlist clearfix&&</ul>","状态":"地区：&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"微信公众号【勇往科技】祝您观影愉快！    影片简介：+简介：&&</div>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
-{"key":"勇往独家三","name":"勇往直前非凡资源","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://app.kzjtv.com"},
+{"key":"勇往独家三","name":"勇往直前vip追剧","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://app.kzjtv.com"},
 
 
 
