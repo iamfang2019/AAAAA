@@ -1,4 +1,23 @@
-{
+{"lives": [{
+			"name": "影视",
+			"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/V4汇总.txt",
+			"type": 0,
+			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"group": "redirect",
+			"channels": [{
+				"name": "live",
+				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+				"urls": [
+					"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlZXZpL2R1by9yYXcvYnJhbmNoL21hc3Rlci92LnR4dA=="
+				]
+			}]
+		}
+	],
+
+
 	"sites": [{
 			"key": "js豆瓣",
 			"name": "🌞┃全网┃热剧",
@@ -789,24 +808,7 @@
 			"filterable": 1
 		}
 	],
-	"lives": [{
-			"name": "影视",
-			"url": "http://www.tvboxx.top/tv/lib/新V.txt",
-			"type": 0,
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-			"group": "redirect",
-			"channels": [{
-				"name": "live",
-				"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-				"urls": [
-					"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlZXZpL2R1by9yYXcvYnJhbmNoL21hc3Rlci92LnR4dA=="
-				]
-			}]
-		}
-	],
+	
 	"rules": [{
 			"name": "wowo",
 			"hosts": [
