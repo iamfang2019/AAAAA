@@ -1,4 +1,4 @@
-{//"spider": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar",
+{"spider": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar",
 //,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 //https://raw.gitcode.com/frxz751113/1/blobs/ea31d4cef2723908d2fa1a6cd25a17abeec8c5bc/MV.jar
 //"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -15,6 +15,274 @@
 {"key":"勇往超清二","name":"勇往直前超清自营","type":3,"api":"csp_NanGua","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/fan219.zip","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
 
+{
+            "key": "横版影院",
+            "name": "❤️短剧一\r\n    ",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+        },
+        {
+            "key": "至圣云(官）",
+            "name": "💖短剧二",
+            "type": 1,
+            "api": "http://www.ttkx.site/api.php/provide/vod/"
+        },
+        {
+            "key": "csp_djtv",
+            "name": "💚短剧三",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧.json"
+        },
+        {
+            "key": "PT",
+            "name": "💙短剧四",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "class=\"stui-vodlist__box&&</li",
+                "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+                "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+            }
+        },
+        {
+            "key": "csp_短剧网香",
+            "name": "🧡短剧五",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "规则名": "短剧网",
+                "规则作者": "醉卧东风",
+                "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+                "网页编码格式": "UTF-8",
+                "图片是否需要代理": "0",
+                "是否开启获取首页数据": "1",
+                "首页推荐链接": "https://www.duanju5.com",
+                "首页列表数组规则": "body&&.module-items",
+                "首页片单列表数组规则": ".module-item",
+                "首页片单是否Jsoup写法": "1",
+                "分类起始页码": "1",
+                "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
+                "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
+                "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",
+                "分类截取模式": "1",
+                "分类列表数组规则": "body&&.module-item",
+                "分类片单是否Jsoup写法": "1",
+                "分类片单标题": "a&&title",
+                "分类片单链接": "a&&href",
+                "分类片单图片": ".lazyloaded||.lazyload&&data-src||data-original",
+                "分类片单副标题": ".module-item-note||.module-item-text&&Text",
+                "分类片单链接加前缀": "https://www.duanju5.com",
+                "分类片单链接加后缀": "",
+                "搜索请求头参数": "User-Agent$MOBILE_UA",
+                "搜索链接": "https://www.duanju5.com/vodsearch/{wd}----------{SearchPg}---.html",
+                "POST请求数据": "",
+                "搜索截取模式": "1",
+                "搜索列表数组规则": "body&&.module-search-item",
+                "搜索片单是否Jsoup写法": "1",
+                "搜索片单图片": ".lazyload&&data-src",
+                "搜索片单标题": "h3&&Text",
+                "搜索片单链接": "a&&href",
+                "搜索片单副标题": ".video-serial&&Text",
+                "搜索片单链接加前缀": "https://www.duanju5.com",
+                "搜索片单链接加后缀": "",
+                "链接是否直接播放": "0",
+                "直接播放链接加前缀": "",
+                "直接播放链接加后缀": "#isVideo=true#",
+                "直接播放直链视频请求头": "",
+                "详情是否Jsoup写法": "0",
+                "类型详情": "",
+                "年代详情": "",
+                "地区详情": "",
+                "演员详情": "主演：</span>&&</div>",
+                "简介详情": "introduction\">&&</p>",
+                "线路列表数组规则": ".module-player-tab&&.module-tab-item",
+                "线路标题": "Text",
+                "播放列表数组规则": "body&&.module-player-list:has(.scroll-content)",
+                "选集列表数组规则": ".scroll-content&&a",
+                "选集标题链接是否Jsoup写法": "1",
+                "选集标题": "a&&Text",
+                "选集链接": "a&&href",
+                "是否反转选集序列": "0",
+                "选集链接加前缀": "https://www.duanju5.com",
+                "选集链接加后缀": "",
+                "分析MacPlayer": "0",
+                "是否开启手动嗅探": "1",
+                "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
+                "手动嗅探视频链接过滤词": ".html#?url=http"
+            }
+        },
+        {
+            "key": "yqkan_open",
+            "name": "❤️短剧六",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_XBPQ_短剧",
+            "name": "💛短剧七",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+                "分类": "短剧$20"
+            }
+        },
+        {
+            "key": "csp_XBPQ_vstv",
+            "name": "💚短剧八",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "姐姐",
+            "name": "💜短剧九",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://dytt996.com/api.php/app/"
+        },
+        {
+            "key": "csp_AppYsV2_Mxone",
+            "name": "🧡短剧十",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "陌陌",
+            "name": "❤️短剧十一",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "XBPQ_duanju5",
+            "name": "💛短剧十二",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---{year}.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar"
+        },
+
+        {
+            "key": "csp_XBPQ_aoaotv",
+            "name": "💙短剧十四",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+            }
+        },
+        {
+            "key": "短剧1xyq1",
+            "name": "🧡短剧十五",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/168079/%E8%A7%84%E5%88%99%E5%90%8D_%20_%E9%A6%99%E9%9B%85%E6%83%85%E6%A8%A1%E6%9D%BF_,.txt?sign=3aG9J_c2ZOrR0welihMao35c-9dpWB7h_vu5Rlc9Hbc%3D%3A0",
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar"
+        },
+        {
+            "key": "532短剧",
+            "name": "💙短剧十六",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": "分类url:https://532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"
+        },
+        {
+            "key": "种子短剧",
+            "name": "💗短剧十七",
+            "type": 3,
+            "api": "csp_Panda",
+            "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
+        },
+        {
+            "key": "zy_金鹰资源",
+            "name": "🔰金鹰",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "欧美剧",
+                "香港剧",
+                "韩剧",
+                "日剧",
+                "马泰剧",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "动漫",
+                "内地剧",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "台湾剧",
+        },
+        {
+            "key": "横版影院",
+            "name": "🧡短剧一",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+            ],
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar"
+        },
 
 
 
