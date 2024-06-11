@@ -232,48 +232,7 @@
             "api": "csp_Panda",
             "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1"
         },
-        {
-            "key": "zy_金鹰资源",
-            "name": "🔰金鹰",
-            "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "欧美剧",
-                "香港剧",
-                "韩剧",
-                "日剧",
-                "马泰剧",
-                "动作片",
-                "爱情片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "动漫",
-                "内地剧",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
-                "综艺",
-                "台湾剧",
-        },
-        {
-            "key": "横版影院",
-            "name": "🧡短剧一",
-            "type": 1,
-            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-            ],
-            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/b3070240f83360ed9f433b531d0cdd52d2f47c1e/candymuj.jar"
-        },
+     
 
 
 
