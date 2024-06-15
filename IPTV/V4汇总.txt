@@ -1,11 +1,4 @@
 数字,#genre#
-靖天戏剧（台）,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
-靖天映画（台）,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
-靖天育乐（台）,mitv://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
-靖天资讯（台）,mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
-靖天综合（台）,mitv://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
-靖洋戏剧（台）,mitv://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
-龙华偶像（台）,mitv://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 东北热剧,http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
 东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
