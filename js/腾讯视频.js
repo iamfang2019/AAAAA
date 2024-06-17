@@ -1,6 +1,6 @@
 var rule = {
     title:'MeowTV',
-    host:'https://v.%71%71.com',
+    host:'https://film.qq.com/film_all_list/allfilm.html?type=tv&sort=18',
     // homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
     homeUrl:'/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     detailUrl:'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
