@@ -18,9 +18,9 @@
 ////////////////////js区//////////////////
 {"key":"zy_金鹰资源","name":"💥极速金鹰💥","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"categories":["剧情片","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","伦理片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧梅动漫","综艺","台湾剧","体育赛事"]},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/优酷视频.js"},
-{"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
-{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
-{"key":"meowtv_mgsp","name":"💥咪咕视频💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://cdn.teyonds.com/js/芒果视频.js"},
+{"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
+{"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
+{"key":"meowtv_mgsp","name":"💥咪咕视频💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/芒果视频.js"},
 {"key":"一起看 ","name":"💥一起app💥","type":3,"api":"./js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"淘片资源","name":"💥淘片影视💥","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key": "荐片杪播","name": "💥超清荐片💥","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./js/drpy2.min.js","ext": "./js/荐片.js"},
