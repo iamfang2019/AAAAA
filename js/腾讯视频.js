@@ -1,6 +1,6 @@
 var rule = {
     title:'MeowTV',
-    host:'https://v.%71%71.com',
+    host:'https://film.qq.com/',
     // homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
     homeUrl:'/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',
     detailUrl:'https://node.video.%71%71.com/x/api/float_vinfo2?cid=fyid',
@@ -20,7 +20,7 @@ var rule = {
     timeout:5000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude:'会员|游戏|全部',
-    class_name:'电视剧&电影&综艺&动漫&&&&短剧',
+    class_name:'电视剧&电影&动漫&综艺&纪录片&音乐&少儿',
     class_url:'tv&movie&variety&cartoon',
     limit:20,
     // play_parse:true,
