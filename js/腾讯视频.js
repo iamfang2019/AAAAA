@@ -21,7 +21,7 @@ var rule = {
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude:'会员|游戏|全部',
     class_name:'电视剧&电影&综艺&动漫&短剧',
-    class_url:'tv&movie&variety&cartoon',
+    class_url:'tv&movie&variety&cartoon&mini_drama',
     limit:20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
