@@ -20,7 +20,7 @@ var rule = {
     timeout:5000,
     // class_parse:'.site_channel a;a&&Text;a&&href;channel/(.*)',
     cate_exclude:'会员|游戏|全部',
-    class_name:'重磅热播&电影&综艺&动漫',
+    class_name:'重磅热播&免费热剧&综艺&动漫',
     class_url:'tv&movie&variety&cartoon',
     limit:20,
     // play_parse:true,
