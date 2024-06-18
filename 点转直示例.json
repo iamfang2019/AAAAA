@@ -28,7 +28,7 @@
                                                      //"name":"2","url":"http://xxx",  
                                                      //"name":"3","url":"http://xxx"]
                                                      //里面的URL格式是直播文件地址&&&背景图片地址
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②",
@@ -36,7 +36,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv2.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "③",
@@ -44,7 +44,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv4.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "④",
@@ -52,7 +52,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv5.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑤",
@@ -60,7 +60,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv6.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑥",
@@ -68,7 +68,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv8.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑦",
@@ -76,7 +76,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv9.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑧",
@@ -84,7 +84,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv10.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑨",
@@ -92,7 +92,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv11.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑩",
@@ -100,7 +100,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv12.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑪",
@@ -108,7 +108,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv13.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑫",
@@ -116,7 +116,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv14.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑬",
@@ -124,7 +124,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv15.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑭",
@@ -132,7 +132,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv17.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑮",
@@ -140,7 +140,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv18.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑯",
@@ -148,7 +148,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv19.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑰",
@@ -156,7 +156,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv21.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑱",
@@ -164,7 +164,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv22.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑲",
@@ -172,7 +172,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv23.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "⑳",
@@ -180,7 +180,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv24.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②①",
@@ -188,7 +188,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv25.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②②",
@@ -196,7 +196,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv26.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②③",
@@ -204,7 +204,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv27.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②④",
@@ -212,7 +212,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv29.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②⑤",
@@ -220,7 +220,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv30.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②⑥",
@@ -228,7 +228,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv31.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②⑦",
@@ -236,7 +236,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv32.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②⑧",
@@ -244,7 +244,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv33.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "②⑨",
@@ -252,7 +252,7 @@
             "type": 3,
             "api": "./js/直转点.js",
             "ext": "http://rihou.cc:555/1/sdtv34.txt",
-            "jar": "http://rihou.cc:555/sdtv.jar"
+            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
         {
             "key": "③⑩",
