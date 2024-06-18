@@ -24,7 +24,10 @@
             "name": "猫TV直播",
             "type": 3,
             "api": "./js/直转点.js",
-            "ext": "http://rihou.cc:555/sdtv.txt",   //这里所有的txt格式必须是["name":"1","url":"http://xxx",  "name":"2","url":"http://xxx",  "name":"3","url":"http://xxx"]
+            "ext": "http://rihou.cc:555/sdtv.txt",   //这里所有的txt格式必须是["name":"1","url":"http://xxx",  
+                                                     //"name":"2","url":"http://xxx",  
+                                                     //"name":"3","url":"http://xxx"]
+                                                     //里面的URL格式是直播文件地址&&&背景图片地址
             "jar": "http://rihou.cc:555/sdtv.jar"
         },
         {
