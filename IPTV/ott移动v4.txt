@@ -94,9 +94,6 @@ CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinam
 洛阳一套综合频道,http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 洛阳二套科教频道,http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 洛阳三套文旅频道,http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
-焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
-焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
-孟州新闻综合频道,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 石家庄新闻综合频道,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐频道,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄生活频道,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
