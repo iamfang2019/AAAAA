@@ -4,7 +4,7 @@
 //"lives": [{"name": "live","type": 0,"url": "https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
-"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/mitv.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/v4汇总.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "./直播转点播.js","ext": "./tv.json",  "jar": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"
         },
 
