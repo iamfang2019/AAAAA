@@ -19,15 +19,7 @@
 
         
     "sites": [//以下全部直播转点播
-        {
-            "key": "①",
-            "name": "猫TV直播",
-            "type": 3,
-            "api": "./js/直转点.js",
-            "ext": "http://rihou.cc:555/sdtv.txt",   
-            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
-        },
-        //这里所有的txt格式必须是["name":"1","url":"http://xxx",  
+        { //这里所有的txt格式必须是["name":"1","url":"http://xxx",  
         //"name":"2","url":"http://xxx",  
         //"name":"3","url":"http://xxx"]
         //里面的URL格式是直播文件地址&&&背景图片地址
@@ -39,14 +31,7 @@
             "ext": "http://rihou.cc:555/1/sdtv2.txt",
             "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
         },
-        {
-            "key": "③",
-            "name": "晴天线路",
-            "type": 3,
-            "api": "./js/直转点.js",
-            "ext": "http://rihou.cc:555/1/sdtv4.txt",
-            "jar": "https://raw.gitcode.com/frxz751113/1/blobs/2c56e3517a9d82a29c1d1ab4e4050fb96635ee11/直转点.jar"
-        },
+
         {
             "key": "④",
             "name": "天微线路",
