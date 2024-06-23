@@ -1,7 +1,8 @@
   {
    "urls": [
     {"url": "https://raw.gitcode.com/frxz751113/1/raw/main/2.json", "name":"默认线路"},
-    {"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},                      
+    {"url": "https://raw.gitcode.com/frxz751113/2/raw/master/%E6%95%99%E8%82%B2.json", "name":"知识百科"},
+    {"url": "https://gh.con.sh/https://raw.githubusercontent.com/adam126tk/fans/master/%E7%9F%AD%E5%89%A7.json", "name":"知百科"},                      
     //{"url": "http://xhww.fun/小米/DEMO.json","name": "饭太硬备"},             
     { "url": "https://raw.gitcode.com/frxz751113/1/raw/main/点转直示例.json", "name": "直播线路"}
     //{"url": "https://gh.con.sh/https://raw.githubusercontent.com/fish2018/tvbox/55bd0b2719d035a6d6645821421087580762d2d3/%E7%BB%BC%E5%90%88%E5%A4%A7%E5%85%A8.txt", "name":"试用线路"}
