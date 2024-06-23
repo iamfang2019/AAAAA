@@ -54,7 +54,7 @@
 {"key":"py_cctv","name":"🎀央视PY🎀","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/py_cctv.py","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 {"key":"py_cctv_集合","name":"🎀央视视频🎀","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/央视.js","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 {"key":"酷奇","name":"🎀酷奇MKV🎀","type":3,"api":"./js/drpy2.min.js","ext":"./js/酷奇MV.js","style":{"type":"rect","ratio":1.597}},
-{"key":"csp_戏曲","name":"🎀哔哩戏曲🎀","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"ext":"./js/戏曲.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
+{"key":"csp_戏曲","name":"🎀哔哩戏曲🎀","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"ext":"./json/bili1.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 {"key": "MTV","name": "🎀明星 MV🎀","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/frxz751113/1/raw/main/js/MTV.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"}
 ],
 
