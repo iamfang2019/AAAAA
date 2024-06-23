@@ -1,3 +1,4 @@
+经典歌吧,#genre#
 MV,https://v4-vod.kwaicdn.com/ksc2/z5Os0KW3gGcIyDu4Pve-23yPHrwmsY0ikSdt5ZfWAVr27smq48Eoh-Jxxo8jS8-kNP1rZrolxIrrGmi794dyRQ.m3u8?ftt=R&pkey=AAU1YpJyQIcDpGI1C3U0EWWrRYSEAbwqSihQpJ7BBmZdbT3S288Tax_HOg2CqVch0_NHSaIsfI_IbGpFp6Jxm1kFzVduJFcW6SKczweaEuaTZVWlVa8tMOgt8Iiies-GBEE&ss=vp
 MV,https://v5-ot-vod.kwaicdn.com/bs3/video-hls/5252041726958706963_hlsb.m3u8?ftt=R&pkey=AAV3er8IbWrqGXmX-WN5hKQbCN0kDTfaLJfZvnBR22InELZRekf2S9CdDHWulIu63akwEAnU7W7wiuRkjkyvDe-WTVeWYpOYZpjOCKVEkfod0gnE2177pKRaxyzkkaRW0U8&ss=vp
 MV,https://v5-ot-vod.kwaicdn.com/bs3/video-hls/5189835755270082155_hlsb.m3u8?ftt=R&pkey=AAXRoVSXMs0KJigCXSDa2WXX4kbjtGBLTb6FFgbTlHP1C30REMFDLwZSBzRojDmdDiNuv-KkJgHYuvUyVK68oz5YhLZPn_SOkv14p91kpnvSibgp4iSza4QI8Oc5rQf3WVs&ss=vp
