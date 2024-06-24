@@ -377,20 +377,8 @@
 			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
 			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/鑫鑫[V2].js"
 		},
-		{
-			"key": "drpy_js_348电影网",
-			"name": "348电影网[js]",
-			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
-			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/348电影网.js"
-		},
-		{
-			"key": "drpy_js_4K电影网",
-			"name": "4K电影网[js]",
-			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
-			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/4K电影网.js"
-		},
+
+
     	{
 			"key": "drpy_js_看了么",
 			"name": "看了么[js]",
@@ -457,6 +445,9 @@
 			"playerType": 2,
 			"categories": ["动作片", "喜剧片", "科幻片", "恐怖片", "爱情片", "剧情片", "战争片", "纪录片", "国产剧", "欧美剧", "犯罪片", "香港剧", "韩国剧", "台湾剧", "日剧", "海外剧", "其他片", "悬疑片", "奇幻片", "动画片", "国产动漫", "日本动漫", "欧美动漫", "港台动漫", "海外动漫", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺"]
 		},
+    
+    
+ /////////////////////////////   
     {
         "key": "csp_Jianpian",
         "name": "🧲荐片",
@@ -466,25 +457,10 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "http://api2.rinhome.com"
-    }, {
-        "key": "csp_XBPQ_电影先生",
-        "name": "️电影先生",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/电影先生.json"
-    }, {
-        "key": "csp_XBPQ_胖虎影视",
-        "name": "️胖虎影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/胖虎影视.json"
-    }, {
+    }, 
+    
+ /////////////////////////////////   
+ {
       "key": "zztong",
       "name": "饭团",
       "type": 3,
@@ -511,15 +487,6 @@
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
       }
     },{
-        "key": "csp_XBPQ_加菲猫影视",
-        "name": "️加菲猫影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/加菲猫影视.json"
-    }, {
         "key": "豆瓣",
         "name": "豆瓣",
         "type": 3,
@@ -528,16 +495,7 @@
         "quickSearch": 0,
         "filterable": 0
     }, 
-    {
-        "key": "dr_酷云",
-        "name": "酷云七七(js)",
-        "type": 3,
-        "api": "https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"
-    }, {
+ {
         "key": "SP360",
         "name": "💘360影视",
         "api": "csp_SP33",
@@ -545,25 +503,7 @@
         "filterable": 1,
         "quickSearch": 1,
         "searchable": 1,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"}, 
-         {
-        "key": "农民",
-        "name": "🥝农民",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/农民影视.json"
-    }, {
-        "key": "七月",
-        "name": "💖七月影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/七月影视.json"
-    }, {
+{
         "key": "快看",
         "name": "👀快看",
         "type": 3,
@@ -580,17 +520,7 @@
         "quickSearch": 1,
         "filterable": 0,
         "ext": "http://www.xb6v.com/"
-    }, {
-        "key": "dr_荐片",
-        "name": "荐片",
-        "type": 3,
-        "api": "https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js",
-        "playerType": "1",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/js/荐片.js"
-    }, {
+    },  {
         "key": "csp_AppTT",
         "name": "💥萌米",
         "type": 3,
