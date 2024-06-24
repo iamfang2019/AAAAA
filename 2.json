@@ -22,6 +22,8 @@
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/腾讯视频.js"},
 {"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/奇艺视频.js"},
 {"key":"meowtv_mgsp","name":"💥咪咕视频💥","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/芒果视频.js"},
+{"key": "新浪资源", "name": "💥新浪接口💥", "type": 1, "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1, "quickSearch": 1,"playUrl": "","categories":["大陆剧","台湾剧","动作片","喜剧片","爱情片","伦理片"]},
+
 {"key":"一起看 ","name":"🎀一起app🎀","type":3,"api":"./js/一起看.js","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"淘片资源","name":"🎀淘片影视🎀","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"quickSearch":1,"categories":["电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/欧美剧","电视剧/海外剧","电影/动作片","电影/喜剧片","电影/科幻片","电影/爱情片"]},
 {"key": "荐片杪播","name": "🎀超清荐片🎀","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./js/drpy2.min.js","ext": "./js/荐片.js"},
