@@ -305,16 +305,7 @@
 			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/荐片.js",
 			"timeout": 30
 		},
-		{
-			"key": "drpy_js_新片场",
-			"name": "新片 | 新片场[js]",
-			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/1/raw/maIN/JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/新片场.js"
-		},
+
 		{
 			"key": "drpy_js_低端",
 			"name": "低端[js]",
@@ -322,13 +313,7 @@
 			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
 			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/ddys_d.js"
 		},
-		{
-			"key": "drpy_js_voflix",
-			"name": "voflix[js]",
-			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
-			"ext": "https://raw.gitcode.com/frxz751113/8/raw/master/js/voflix.js"
-		},
+
 		{
 			"key": "drpy_js_4k剧院",
 			"name": "4k剧院[js]",
