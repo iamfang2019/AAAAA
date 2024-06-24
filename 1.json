@@ -205,16 +205,7 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{
-			"key": "meowtv_nmys",
-			"name": "农民┃影视",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/农民影视.js"
-		},
+
 		{
 			"key": "meowtv_zzys",
 			"name": "子子┃影视",
@@ -225,26 +216,8 @@
 			"filterable": 1,
 			"ext": "http://cdn.teyonds.com/js/子子影视.js"
 		},
-		{
-			"key": "meowtv_sjys",
-			"name": "视觉┃影视",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/视觉影视.js"
-		},
-		{
-			"key": "meowtv_dyxs",
-			"name": "先生┃影视",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/电影先生.js"
-		},
+
+
 		{
 			"key": "meowtv_mays",
 			"name": "米爱┃影视",
@@ -285,36 +258,8 @@
 			"filterable": 1,
 			"ext": "http://cdn.teyonds.com/js/奇米动漫.js"
 		},
-		{
-			"key": "meowtv_qfys",
-			"name": "起飞┃影视",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/起飞影视.js"
-		},
-		{
-			"key": "meowtv_vfys",
-			"name": "VOF ┃影视",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/VOF影视.js"
-		},
-		{
-			"key": "meowtv_49ys",
-			"name": "四九┃资源",
-			"type": 1,
-			"api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"categories": ["国产剧", "纪录片", "欧美剧", "香港剧", "动作片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "喜剧片", "动画片", "犯罪片", "韩国剧", "动漫", "电影", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "台湾剧", "国产动漫", "日本动漫", "欧美动漫", "泰国剧", "日剧", "电影解说", "奇幻片", "灾难片", "悬疑片", "其他片", "体育赛事", "海外剧"]
-		},
+
+
 		{
 			"key": "meowtv_lzzy",
 			"name": "量子┃资源",
@@ -337,23 +282,7 @@
 			"categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"],
 			"jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 		},
-		{
-			"key": "meowtv_kkys",
-			"name": "💥看看影视💥",
-			"type": 3,
-			"api": "http://cdn.teyonds.com/js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://cdn.teyonds.com/js/看看影视.js"
-		},
-		{
-			"key": "js_v2-jy",
-			"name": "🦄鲸鱼",
-			"type": 3,
-			"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-			"ext": "https://notabug.org/ygfxz/6/raw/main/js/鲸鱼.js"
-		},
+
 		{
 			"key": "DiDuan",
 			"name": "⏮️低端┃外剧",
@@ -380,7 +309,7 @@
 			"key": "drpy_js_新片场",
 			"name": "新片 | 新片场[js]",
 			"type": 3,
-			"api": "https://raw.gitcode.com/frxz751113/8/raw/master/lib/drpy2.min.js",
+			"api": "https://raw.gitcode.com/frxz751113/1/raw/maIN/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
