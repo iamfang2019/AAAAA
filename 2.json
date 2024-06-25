@@ -13,7 +13,7 @@
 {"key":"勇往独家三","name":"🎀勇往追剧🎀","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://app.kzjtv.com"},
 {"key":"勇往蓝光三","name":"🎀勇往蓝光🎀","type":3,"api":"csp_TTian","jar":"https://raw.gitcode.com/frxz751113/1/blobs/2a53b91759f45edef6ad51c5e30af44ce98fb89a/ly.jar","ext":"http://v.rbotv.cn"},
 {"key":"PT","name":"🎀短剧集锦🎀","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"},"jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
-{"key":"dj5","name":"📹短剧┃5线","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩哔哩.json"},
+{"key":"dj5","name":"📹短剧┃5线","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/哔哩哔哩.json","jar":"https://raw.gitcode.com/frxz751113/1/blobs/bc419a17a432807254bf841a1cd54e384969620a/83.jar"},
     
 ////////////////////js区//////////////////
 {"key":"zy_金鹰资源","name":"🎀极速金鹰🎀","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"categories":["剧情片","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","伦理片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧梅动漫","综艺","台湾剧","体育赛事"]},
