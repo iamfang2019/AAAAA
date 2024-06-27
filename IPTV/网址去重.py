@@ -15,4 +15,4 @@ def remove_duplicates(input_file, output_file):
             f.write(line)
 
 # 使用方法
-remove_duplicates('1.txt', 'output.txt')
+remove_duplicates('input.txt', 'output.txt')
