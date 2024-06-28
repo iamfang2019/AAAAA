@@ -1143,6 +1143,13 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 广东频道,#genre#
 梅州一套综合频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 梅州二套公共频道,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8
+广州电视台综合频道[1280*720],https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=659b82bc&txSecret=612314af59ffe2ed54073a5a857d3543
+广州电视台影视频道[1280*720],https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=659b82c3&txSecret=8051c11ad3c4bda7fc734387a5b0b019
+广州电视台新闻频道[1280*720],https://tencentplaygsm.gztv.com/live/xinwen.m3u8?txTime=659b82c9&txSecret=ccb6b2bda9f44afa2075be6434750349
+广州竞赛频道[1280*720],https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659b82cf&txSecret=0ba5dcd1ffd62042ce8a6452bd077b4e
+广州电视台法治频道[1280*720],https://tencentplaygsm.gztv.com/live/fazhi.m3u8?txTime=659b82d6&txSecret=393bf1ef4b126d08e45df71da48e9368
+广州南国都市频道[1920*1080],https://tencentplaygsm.gztv.com/live/nanguodushi.m3u8?txTime=659b82dc&txSecret=2696647005f5e9a8ba26ce669f755345
+梅州一套综合频道[1920*1080],http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
