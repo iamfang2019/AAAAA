@@ -130,7 +130,7 @@ CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinam
 浙江卫视,http://39.135.133.180:80/wh7f454c46tw4181215988_-1505940482/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8?rrsip=ottrrs.hl.chinamobile.com&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C2713447%2C112.102.160.59%2C20230401182706%2Curn%3AHuawei%3AliveTV%3AXTV373268181%2C2713447%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C373268182%2CEND&GuardEncType=2&RTS=1680350006&from=23&hms_devid=1250&online=1680350006&vqe=3&it=H4sIAAAAAAAAAyspSkxO9XSxzSvNyVErTi30y7c1VktOzMnJzEv3y08BSYUFO8cbGugZGlrqWZrrGZpZqoWANLnlJKbbGoDV-pXmJqUWQTlAjcGpRWWZyam2KcVpemWJxXqJ6elFqemJJZn5eXoBOYmVoUU5UCUAgFILtn8AAAA
 重庆卫视,http://39.135.133.179:80/wh7f454c46tw707028528_1068782603/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?
 重庆卫视,http://39.135.133.179:80/wh7f454c46tw707028528_1068782603/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?rrsip=ottrrs.hl.chinamobile.com&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%2C2713447%2C112.102.160.59%2C20230401182706%2Curn%3AHuawei%3AliveTV%3AXTV373275305%2C2713447%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C373275306%2CEND&GuardEncType=2&RTS=1680350827&from=23&hms_devid=1248&online=1680350827&vqe=3&it=H4sIAAAAAAAAAyspSkxO9XSxzSvNyVErTi30y7c1VktOzMnJzEv3y08BSYUFO8cbGugZGlrqWZrrGZpZqoWANLnlJKbbGoDV-pXmJqUWQTlAjcGpRWWZyam2KcVpemWJxXqJ6elFqemJJZn5eXoBOYmVoUU5UCUAgFILtn8AAAA
-数字频道,#genre#
+影视频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 东北热剧,http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
 东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
@@ -914,7 +914,7 @@ AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 美国mytime,https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-影视频道,#genre#
+数字频道,#genre#
 重温经典,http://mtw.so/5NPX0U
 NewTV军事评论,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV农业致富,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
