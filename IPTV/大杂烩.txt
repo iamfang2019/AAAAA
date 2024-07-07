@@ -1167,7 +1167,7 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 苍南新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 新昌新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-两河频道,#genre#
+冀豫频道,#genre#
 河北邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 河北邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 河北清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
