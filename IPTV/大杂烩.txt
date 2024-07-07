@@ -1081,8 +1081,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 五峰电视台,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1735660799-0-0-6e0f896e48713ad894a3b35b92780628
 来凤综合,http://laifeng-live21.cjyun.org/10099/s10099-lftv01.m3u8?auth_key=1735660799-0-0-b92e243bcdd451ba46874699b392247e
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
-黄冈公共,http://huanggang-live21.cjyun.org/10210/s10210-xwgg.m3u8?auth_key=1735660799-0-0-39c6d712b6337fbdefe84e2d22e34513
-黄冈新闻,http://huanggang-live21.cjyun.org/10210/s10210-xwzh.m3u8?auth_key=1735660799-0-0-d97fed8905fc6066ed8fa063e40b13c0
 随州农村,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_305.m3u8?auth_key=4834621829-0-0-49c63c7de26b595a9177e498db618f79&extra_key=xQtKveJFBYYdE5xPP5Qc5y3qlfhlj-BcHOcbWxez9NxCHHoFi0Lp44BN8aqi2_k9URCU-rsf8mQz8CYifgEaMzixzi63CT1KgCDexQ0cD5X0e0lUMZaQy0DMOXcFpW1Cf9zn7psgSNcUQiA2OGcxi7TXk-_FyDGcu767szWh8SQJ0Vr0uNRbiqE2jzk7ICiX
 随州综合,http://34766.hlsplay.aodianyun.com/guangdianyun_34766/tv_channel_304.m3u8?auth_key=4836074354-0-0-d3ae3e237ae5fdaa7e72d8b930ff507b&extra_key=q_KhUzRNviTQMw35AK7VUOsxUuO3fkLbRbWjHBywJErK0zgP7mqTsFvo50t7UieqiF-pvnPCIMJa5QdRQ1gLPBYWz9HOG7TAdI5vRG232V88z98QUcOS1P6iUQbACyEaoEVKLRe_Am23Ezeahvwg0pDBetjQHrLPx7P8mro2vqw15rvUQKLSF-HBByajerez
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
@@ -1097,13 +1095,11 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 十堰新闻综合,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 咸宁经济生活,http://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1735660799-0-0-d81f4b2fc33920d8341033fef8dcfd16
 咸宁综合,http://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1735660799-0-0-b380d98b910466afbd9053c25a7dc408
-远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1735660799-0-0-fdcac90185009731b8e6f51f180ed7b4
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1735660799-0-0-a2a4204859d1b4447db4050a4bc202b1
 荆州垄上,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv03.m3u8?auth_key=1735660799-0-0-73625822ff2c77aefa1589e94281edad
 荆州新闻,http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv01.m3u8?auth_key=1735660799-0-0-e0477d4b5bc584e7518a1bde13892cbe
 当阳电视台,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1735660799-0-0-f8e56d713bf81af226bae8057d9a1bad
 恩施文旅,http://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8
-房山电视台,http://live.funhillrm.com/2/sd/live.m3u8
 宜都综合,http://yidushi-live21.cjyun.org/10092/s10092-yidushitv01.m3u8?auth_key=1735660799-0-0-f29f0d99f876e49e55132b30d52133db
 湖北十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 江苏频道,#genre#
@@ -1111,8 +1107,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 江苏江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 江苏镇江民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 江苏金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
-江苏海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
-江苏沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 江苏泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 江苏泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 江宁电视台综合频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
@@ -1120,11 +1114,9 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 连云港综合,http://live.lyg1.com/zhpd/sd/live.m3u8
-衢州衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 浙江频道,#genre#
 浙江杭州余杭未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 浙江杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
-浙江宁波都市,http://www.372583307.top:4022/udp/233.50.201.179:5140
 浙江丽水龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 浙江丽水青田综合,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 浙江丽水松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
@@ -1143,7 +1135,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -1157,7 +1148,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 浙江遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 浙江青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江龙泉公共新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江电视台少儿频道,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 苍南新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
@@ -1178,9 +1168,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8
 河北频道,#genre#
-河北石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-河北石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
-河北石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 河北邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 河北邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 河北清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
@@ -1202,7 +1189,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 河南淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
 河南叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 河南义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-河南渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
 河南义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 河南淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 河南禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
@@ -1220,12 +1206,8 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 栾川新闻综合频道,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
 新安电视台综合频道,http://tvpull.dxhmt.cn/tv/10323-1.m3u8
 淇县电视台,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
-浚县电视台,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
 长垣新闻综合频道,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 封丘一套新闻综合频道,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
-卫辉新闻综合频道,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
-孟州新闻综合频道,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-武陟新闻综合频道,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
 杞县新闻综合频道,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
 永城新闻综合频道,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 襄城新闻综合频道,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
@@ -1236,7 +1218,7 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 郑州教育,https://livezzutv.chinamcache.com/live/zb01.m3u8?auth_key=1677911572-0-0-f4af513ba8c09e7801f4700f1573be2c
 焦作综合,http://1.195.111.251:11190/tsfile/live/1002_1.m3u8
 安阳县新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
-黑龙江频道,#genre#
+黑 龙 江,#genre#
 黑龙江少儿,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
@@ -1246,7 +1228,6 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3
 黑龙江新闻,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3
 黑龙江科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8?icpid=88888888&from=1&hmsdevid=1012&vqe=3
-黑龙江都市,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
 黑龙江齐齐哈尔新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 黑龙江公共农业,http://39.134.65.149/PLTV/88888888/224/3221225994/1.m3u8
 黑龙江文体,http://39.134.65.151/PLTV/88888888/224/3221225965/1.m3u8
@@ -1267,29 +1248,19 @@ NewTv黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/
 四川乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 四川乐至综合,http://rmlive.lzxrmtzx.com/live1/live1.m3u8
 四川什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
-四川松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
-四川松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 四川西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8?ztianjd
 四川长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 达州公共频道,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州通川频道,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 红河州公共,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel2/playlist.m3u8
 红河州新闻综合,http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-
 山西频道,#genre#
 山西吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8
-山西晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-山西晋中新闻频道,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 山西潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8
-山西长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8
 山西灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8
 山西吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
-山西襄垣电视,http://video.xyxrmt.com/lsdream/2MAgsgb/1000/live.m3u8?zshanxd
 山西运城公共,http://59.48.42.6:62204/lucheng.m3u8?zshanxd
 上海频道,#genre#
-上海外语,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channelid=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
