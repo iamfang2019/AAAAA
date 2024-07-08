@@ -225,16 +225,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港翡翠,http://zsntlqj.xicp.net:8895/bysid/1
 澳频道,#genre#
 AXN电影台,mitv://generationnexxxt.com:19806/9a6969de27b145dc972e19d71c1a8932
-BBC生活,P2p://generationnexxxt.com:19806/5955951f08424fd49e21d90e882e5228
-CinemaWo,mitv://generationnexxxt.com:19806/c6efdcd038204b4781cafc2273b4adb3
 EYE-戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
-EYETV旅游,P2p://generationnexxxt.com:19806/055ce8e749c1425c87950f93d0bf9bcd
-TRAC-体育,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
-TVBS-欢乐,mitv://generationnexxxt.com:19806/b7e4efb094034ce1895b3d9a5548cc2b
-TVBS-精采,mitv://generationnexxxt.com:19806/2089afbec2474359add275658522922f
-TVBSHD台,mitv://generationnexxxt.com:19806/be3d1c188f0c4b938ccfca04566b0fc1
-iFun动漫台,mitv://generationnexxxt.com:19806/a215407035a548a7bd01ec29a94e5ed2
-now财经台,mitv://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
 三立新闻,mitv://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 中天亚洲台,mitv://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
 纬来电影台,mitv://generationnexxxt.com:19806/7ab30b79b011427287733d8ba51333e8
