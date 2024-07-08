@@ -223,13 +223,4 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 香港翡翠,http://zsntlqj.xicp.net:8895/bysid/1
-澳频道,#genre#
-AXN电影台,mitv://generationnexxxt.com:19806/9a6969de27b145dc972e19d71c1a8932
-EYE-戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
-三立新闻,mitv://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
-中天亚洲台,mitv://generationnexxxt.com:19806/cb5ccc31dac94210bdc7507c320fb32e
-纬来电影台,mitv://generationnexxxt.com:19806/7ab30b79b011427287733d8ba51333e8
-纬来综合台,mitv://generationnexxxt.com:19806/a537a3ebc712483993ab82440801d1e6
-靖天戏剧台,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
-靖洋戏剧台,mitv://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
 
