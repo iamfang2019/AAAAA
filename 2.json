@@ -2,7 +2,7 @@
 //,"jar":"https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
 
 
-"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/ott回看源.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "https://diyp1.112114.xyz ","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name": "live","type": 0,"url": "https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/ott回看源.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
 "sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "./直播转点播.js","ext": "./tv.json",  "jar": "https://raw.gitcode.com/frxz751113/1/blobs/9823bebfe8d314454f05634278551a4fdc073c50/A.jar"},
