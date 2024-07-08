@@ -222,6 +222,4 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
-欧洲华文,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=171081077100c5ce71079eaa4d245127b05375ae371f
 香港翡翠,http://zsntlqj.xicp.net:8895/bysid/1
-俄罗斯频,https://rtglb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
