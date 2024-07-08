@@ -211,9 +211,6 @@ AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
 香港凤凰频道,http://146.56.153.245:20121/bysid/259
 无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-环球电视[1024*576],http://live.cgtn.com/500/prog_index.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 香港翡翠,http://zsntlqj.xicp.net:8895/bysid/1
