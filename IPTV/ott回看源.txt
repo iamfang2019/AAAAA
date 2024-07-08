@@ -224,44 +224,9 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 香港翡翠,http://zsntlqj.xicp.net:8895/bysid/1
 澳频道,#genre#
-ABC AU,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-AXN电影台,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-Ani--max台,mitv://generationnexxxt.com:19806/9a6969de27b145dc972e19d71c1a8932
-Animax--台,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
-Arena Bola,mitv://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
-Arirang,P2p://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
-Astro AEC,mitv://generationnexxxt.com:19806/0cd8ffd5742f43f2aba6b6bf8736641d
-Astro AOD 311,mitv://generationnexxxt.com:19806/676d5767c17749f8950a81ed8681380a
-Astro Arena,mitv://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
-Astro Supersport 2,mitv://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-Astro Supersport 3,mitv://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-Astro Supersport 4,mitv://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
-Astro Supersport 5,mitv://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
-Astro Supersport,mitv://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-Astro小太阳,mitv://generationnexxxt.com:19806/b9014d57594d4cfdb87848d4b2610506
-Astro欢喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1d
-Astro爱奇艺,mitv://generationnexxxt.com:19806/220100b4bf8a42b49b38d1152cf9ab84
-BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-BBC地球,P2p://generationnexxxt.com:19806/17826db977f04f8fa679d438d6c51700
-BBC地球,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
-BBC生活,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
+AXN电影台,mitv://generationnexxxt.com:19806/9a6969de27b145dc972e19d71c1a8932
 BBC生活,P2p://generationnexxxt.com:19806/5955951f08424fd49e21d90e882e5228
-BOO,mitv://generationnexxxt.com:19806/72791d5b2d0847bdbd28aaee41af5537
-BeiN Sports 2,mitv://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
-BeiN Sports 3,mitv://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
-BeiN Sports,mitv://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
-Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
-Business News Network,P2p://generationnexxxt.com:19806/6579228a00091f3e3171f0bd49686fdf
-CBC News,P2p://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
-CBS News,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
-
-CNA,P2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-CNN,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
-Catc电影台,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-ChannelV,P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 CinemaWo,mitv://generationnexxxt.com:19806/c6efdcd038204b4781cafc2273b4adb3
-CinemaW台,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 DiscoveryA,mitv://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064328
 ELEVEN1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
 ELEVEN2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
