@@ -36,10 +36,6 @@ RTHK34*频道[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3
 环球电视[1024*576],http://live.cgtn.com/500/prog_index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-天映频道[需V],https://ushls.ballbar.net/Celestial/playlist-15.m3u8a?t=1718464665&token=13df2ff98827fcb5f7f7edb5686bf986
-美亚电影[需V],https://ushls.ballbar.net/meiyamovie_twn/playlist-12.m3u8a?t=1718464832&token=5a60d77347ac7bff813de2ca084b1a7b
-星卫电影[需V],https://ushls.ballbar.net/xingwei_movie/playlist-12.m3u8a?t=1718464907&token=2ae6441594df219ff79f2b1b7b3536d5
-东森电影[需V],https://bstvcdn.ballbar.net/ettvmovie/playlist-12.m3u8a?t=1718465141&token=2d624cdc4657b9e8f2757c90afefec34
 AMC電影[1280*720],http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台[1280*720],http://61.221.215.25:8800/hls/41/index.m3u8
 东森超视[1280*720],rtmp://220.130.201.73/sat/tv331
