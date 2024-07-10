@@ -22,6 +22,17 @@ https://epg.pw/xmltv/epg_CN.xml
 https://epg.pw/xmltv/epg_CN.xml.gz
 http://openwrt.lan/epg/e.xml
 
+https://epg.v1.mk/json?ch=%s&date=%s
+http://hk.doube.eu.org/EPG/epg.php?ch=%s&date=%s
+https://skytv.serv00.net/epg.php?ch=%s&date=%s
 
-http://epg.51zmt.top:8000/e.xml
-https://gh.con.sh/https://raw.githubusercontent.com/frxz751113/IPV6-/main/EPG.xml
+https://cdn.1678520.xyz/epg/?ch=%s&date=%s
+https://epg.112114.free.hr/?ch=%s&date=%s
+https://epg.112114.eu.org/?ch=%s&date=%s
+https://epg.mxdyeah.top/api/diyp/?ch=%s&date=%s
+https://epg.0472.org/?ch=%s&date=%s
+
+https://diyp.112114.xyz/?ch=%s&date=%s
+https://diyp1.112114.xyz/?ch=%s&date=%s
+https://diyp2.112114.xyz/?ch=%s&date=%s
+https://epg.112114.xyz/?ch=%s&date=%s
