@@ -16,15 +16,15 @@
       "key": "drpy_js_音悦网",
       "name": "MV | 音悦网[js]",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
+      "api": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/drpy2.min.js",
+      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
     },
         {
       "key": "drpy_js_A8音乐",
       "name": "MV | A8音乐[js]",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
+      "api": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/drpy2.min.js",
+      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
     },
 ////////////////////js区//////////////////
 {"key":"zy_金鹰资源","name":"🎀极速金鹰🎀","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"categories":["剧情片","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","伦理片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧梅动漫","综艺","台湾剧","体育赛事"]},
