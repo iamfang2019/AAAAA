@@ -12,20 +12,9 @@
 {"key":"PT","name":"🎀短剧集锦🎀","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"},"jar":"https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/83.jar"},
 {"key":"dj5","name":"🎀哔哩短剧🎀","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/json/哔哩哔哩.json","jar":"https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/83.jar"},
 {"key":"drpy_js_酷狗MV","name":"🎀酷狗 MV🎀","type":3,"api":"https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/drpy2.min.js","ext":"https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/酷狗MV.js"},
-     {
-      "key": "drpy_js_音悦网",
-      "name": "MV | 音悦网[js]",
-      "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
-    },
-        {
-      "key": "drpy_js_A8音乐",
-      "name": "MV | A8音乐[js]",
-      "type": 3,
-      "api": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/js/drpy2.min.js",
-      "ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
-    },
+
+
+     
 ////////////////////js区//////////////////
 {"key":"zy_金鹰资源","name":"🎀极速金鹰🎀","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"categories":["剧情片","香港剧","韩剧","日剧","马泰剧","动作片","爱情片","喜剧片","科幻片","恐怖片","伦理片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧梅动漫","综艺","台湾剧","体育赛事"]},
 {"key":"drpy_js_奇珍异兽","name":"🎀奇艺官方🎀","type":3,"api":"https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
