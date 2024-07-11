@@ -1,20 +1,9 @@
 Github RAW 加速服务
 
-源码 https://gitcdn.top/https://github.com/用户名/仓库名/raw/main/接口文件
-
-香港 https://raw.iqiq.io/用户名/仓库名/main/接口文件
-
-新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
-
-日本https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
-
-https://cdn.staticaly.com/gh/用户名/仓库名/main/接口文件
-
-https://raw.fastgit.org/用户名/仓库名/main/接口文件
-
-韩国https://ghproxy.com/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
-
-https://ghproxy.net/https://raw.githubusercontent.com/用户名/仓库名/main/接口文件
+源码 
+https://hub.gitmirror.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt
+https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt
+https://ghproxy.net/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/结果.txt
 
 https://gcore.jsdelivr.net/gh/用户名/仓库名@main/接口文件
 
