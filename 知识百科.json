@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/740jCM/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json",
+      "ext": "./json/小灯塔科学.json",
       "jar": ""
     },
     {
@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/740jCM/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9C%B0%E7%90%86.json",
+      "ext": "./json/小灯塔地理.json",
       "jar": ""
     },
     {
@@ -247,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/0VL8sj/%E5%84%BF%E7%AB%A5%E7%BC%96%E7%A8%8B.json",
+      "ext": "./json/儿童编程.json",
       "jar": ""
     },
     {
