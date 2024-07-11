@@ -3,7 +3,7 @@
 "epg": "https://epg.112114.eu.org","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
-"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://raw.gitcode.com/frxz751113/1/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js","ext": "港澳台$https://raw.gitcode.com/mengxiansheng/live/raw/main/live.txt#分类1$https://raw.gitcode.com/frxz751113/1/raw/main/IPTV/剧终.txt"},
+"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/直播转点播.js","ext": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/tv.json",  "jar": "https://gitdl.cn/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key":"meowtv_yksp","name":"💥优酷接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/优酷视频.js"},
 {"key":"meowtv_txsp","name":"💥腾讯接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/腾讯视频.js"},
 {"key":"meowtv_qysp","name":"💥奇艺接口💥","type":3,"api":"http://cdn.teyonds.com/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇艺视频.js"},
