@@ -1,0 +1,54 @@
+﻿台湾酒店,#genre#
+hokkotv,http://shuma04.chunfengyun.top:8080/live/1/hls.m3u8
+亚洲旅游,http://shuma04.chunfengyun.top:8080/live/10/hls.m3u8
+人间卫视,http://shuma04.chunfengyun.top:8080/live/101/hls.m3u8
+动漫,http://shuma04.chunfengyun.top:8080/live/105/hls.m3u8
+动漫2,http://shuma04.chunfengyun.top:8080/live/106/hls.m3u8
+哆啦A梦,http://shuma04.chunfengyun.top:8080/live/107/hls.m3u8
+电视剧,http://shuma04.chunfengyun.top:8080/live/108/hls.m3u8
+电视剧2,http://shuma04.chunfengyun.top:8080/live/109/hls.m3u8
+电影,http://shuma04.chunfengyun.top:8080/live/11/hls.m3u8
+超人,http://shuma04.chunfengyun.top:8080/live/110/hls.m3u8
+电视剧3,http://shuma04.chunfengyun.top:8080/live/111/hls.m3u8
+nickelodeon,http://shuma04.chunfengyun.top:8080/live/12/hls.m3u8
+titv,http://shuma04.chunfengyun.top:8080/live/2/hls.m3u8
+nickjr,http://shuma04.chunfengyun.top:8080/live/22/hls.m3u8
+居家,http://shuma04.chunfengyun.top:8080/live/26/hls.m3u8
+momo,http://shuma04.chunfengyun.top:8080/live/3/hls.m3u8
+东森新闻,http://shuma04.chunfengyun.top:8080/live/20/hls.m3u8
+镜新闻,http://shuma04.chunfengyun.top:8080/live/62/hls.m3u8
+三立综合,http://shuma04.chunfengyun.top:8080/live/31/hls.m3u8
+民视第一,http://shuma04.chunfengyun.top:8080/live/4/hls.m3u8
+民视台湾,http://shuma04.chunfengyun.top:8080/live/5/hls.m3u8
+民视,http://shuma04.chunfengyun.top:8080/live/6/hls.m3u8
+龙华戏剧,http://shuma04.chunfengyun.top:8080/live/41/hls.m3u8
+龙华日韩,http://shuma04.chunfengyun.top:8080/live/42/hls.m3u8
+龙华电影,http://shuma04.chunfengyun.top:8080/live/19/hls.m3u8
+中视经典,http://shuma04.chunfengyun.top:8080/live/47/hls.m3u8
+中视青采,http://shuma04.chunfengyun.top:8080/live/48/hls.m3u8
+中视,http://shuma04.chunfengyun.top:8080/live/7/hls.m3u8
+新唐人,http://shuma04.chunfengyun.top:8080/live/51/hls.m3u8
+寰宇台湾,http://shuma04.chunfengyun.top:8080/live/63/hls.m3u8
+寰宇财经,http://shuma04.chunfengyun.top:8080/live/65/hls.m3u8
+全球财经,http://shuma04.chunfengyun.top:8080/live/64/hls.m3u8
+智林体育,http://shuma04.chunfengyun.top:8080/live/77/hls.m3u8
+华视,http://shuma04.chunfengyun.top:8080/live/8/hls.m3u8
+旅游,http://shuma04.chunfengyun.top:8080/live/82/hls.m3u8
+elta生活旅游,http://shuma04.chunfengyun.top:8080/live/85/hls.m3u8
+公视戏剧,http://shuma04.chunfengyun.top:8080/live/87/hls.m3u8
+综艺,http://shuma04.chunfengyun.top:8080/live/67/hls.m3u8
+影剧,http://shuma04.chunfengyun.top:8080/live/88/hls.m3u8
+影迷,http://shuma04.chunfengyun.top:8080/live/92/hls.m3u8
+翡翠台, http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+ViuTVsix, http://beishan008.asuscomm.com:8889/bysid/96.m3u8
+ViuTV, http://beishan008.asuscomm.com:8889/bysid/99.m3u8
+明珠台, http://beishan008.asuscomm.com:8890/bysid/2.m3u8
+TVB Plus, http://beishan008.asuscomm.com:8890/bysid/82.m3u8
+無綫新聞台, http://beishan008.asuscomm.com:8890/bysid/83.m3u8
+鳳凰衛視香港台, http://beishan008.asuscomm.com:8890/bysid/85.m3u8
+HOY 國際財經台, http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+HOY TV, http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+HOY 資訊台, http://beishan008.asuscomm.com:8891/bysid/78.m3u8
+港台電視 31, http://beishan008.asuscomm.com:8892/bysid/31.m3u8
+港台電視 32, http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+
