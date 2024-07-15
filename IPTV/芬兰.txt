@@ -1,4 +1,4 @@
-﻿台湾酒店,#genre#
+港澳频道,#genre#
 hokkotv,http://shuma04.chunfengyun.top:8080/live/1/hls.m3u8
 亚洲旅游,http://shuma04.chunfengyun.top:8080/live/10/hls.m3u8
 人间卫视,http://shuma04.chunfengyun.top:8080/live/101/hls.m3u8
