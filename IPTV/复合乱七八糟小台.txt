@@ -1,4 +1,5 @@
-﻿叙州,rtmp://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597
+RTP频道,#genre#
+叙州,rtmp://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597
 崇明,rtmp://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee
 古交,rtmp://pili-live-hls.189.i2863.com/i2863-189/live_189_170656
 郧西,rtmp://m.yunxi.tv/yunxi-host/test_e8eed0b9088a44788eb393dd6d10e1fe?auth_key=1781502600-0-0-7b29b500b5449ae446cf9f5210c2114d
