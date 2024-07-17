@@ -584,6 +584,7 @@ CCTV中视购物,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225612/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 影视频道,#genre#
+重温经典,http://xyt.186738613.xyz/lngd.php?id=635&Cf.m3u8
 爱情喜剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://[2409:8087:1a09:df::401e]/wh7f454c46tw1349845387_1669248457/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
