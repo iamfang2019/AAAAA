@@ -1,4 +1,5 @@
-﻿CCTV1综合,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
+央视频道,#genre#
+CCTV1综合,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV1HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 CCTV2财经,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV2HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 CCTV3综艺,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV3_HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 CCTV4中文国际,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV4HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
@@ -15,7 +16,7 @@ CCTV15音乐,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV15/index.m3u8?gMac=unknown&livo
 
 CETV1中教1台,http://jxcbn.ws-cdn.gitv.tv/hls/CETV1HD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 CETV4中教4台,http://jxcbn.ws-cdn.gitv.tv/hls/CETV4/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
-
+卫视频道,#genre#
 北京卫视,http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 东方卫视,http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 天津卫视,http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
@@ -54,7 +55,7 @@ CETV4中教4台,http://jxcbn.ws-cdn.gitv.tv/hls/CETV4/index.m3u8?gMac=unknown&li
 
 金鹰纪实,http://jxcbn.ws-cdn.gitv.tv/hls/JYJSHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 金鹰卡通,http://jxcbn.ws-cdn.gitv.tv/hls/JYKTHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
-
+江西频道,#genre#
 江西都市,http://jxcbn.ws-cdn.gitv.tv/hls/JXDS/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 江西经济生活,http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSH/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
 江西经济生活HD,http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSHHD/index.m3u8?gMac=unknown&livodToken=0&fromCDN=ws
