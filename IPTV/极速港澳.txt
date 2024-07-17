@@ -1,4 +1,5 @@
-﻿凤凰中文台,http://110.185.171.226:96/yximgs.php?id=182
+港澳频道,#genre#
+凤凰中文台,http://110.185.171.226:96/yximgs.php?id=182
 凤凰资讯台,http://110.185.171.226:96/yximgs.php?id=183
 凤凰香港台,http://110.185.171.226:96/yximgs.php?id=184
 TVB娱乐新闻,http://110.185.171.226:96/yximgs.php?id=10
