@@ -855,6 +855,7 @@ CCTV中视购物,http://[2409:8087:5e00:24::1e]:6060/200000001898/46000008980001
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
 爱喜喜剧,http://[2409:8087:2801:22:100::78]/wh7f454c46tw4094367900_2057884996/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814919&from=5&ocs=2_2409:8087:2801:22:100::47_80&hms_devid=2528&online=1717814919&vqe=3
+超级电视剧,http://[2409:8087:1a0a:df::402a]/wh7f454c46tw1840265920_1021568913/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1713337309&from=4&hms_devid=991&online=1713337309&vqe=3
 超级电视剧,http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8
 超级电视剧,http://39.134.65.65:80/wh7f454c46tw873552246_-213068634/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1637152212&from=1&hms_devid=125&vqe=3
 超级电视剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
