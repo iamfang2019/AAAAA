@@ -909,6 +909,8 @@ momo,http://shuma04.chunfengyun.top:8080/live/3/hls.m3u8
 爱情喜剧,http://[2409:8087:2801:22:100::68]/wh7f454c46tw1676976127_1333642097/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8?icpid=88888888&RTS=1717812501&from=5&ocs=2_2409:8087:2801:22:100::69_80&hms_devid=313&online=1717812501&vqe=3
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
+爱喜喜剧,http://[2409:8087:2801:22:100::78]/wh7f454c46tw4094367900_2057884996/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814919&from=5&ocs=2_2409:8087:2801:22:100::47_80&hms_devid=2528&online=1717814919&vqe=3
+惊嫊悬疑,http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 超级电视剧,http://39.134.65.179/PLTV/88888888/224/3221225637/1.m3u8
 超级电视剧,http://39.134.65.65:80/wh7f454c46tw873552246_-213068634/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1637152212&from=1&hms_devid=125&vqe=3
 超级电视剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
@@ -1189,6 +1191,7 @@ momo,http://shuma04.chunfengyun.top:8080/live/3/hls.m3u8
 [浙江]余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 [浙江]余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+舟山公共,http://[2409:8087:2801:22:100::7d]/wh7f454c46tw1855934095_-299144317/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816975&from=5&ocs=2_2409:8087:2801:22:100::37_80&hms_devid=323&online=1717816975&vqe=3
 杭州导视,http://[2409:8087:2801:22:100::41]/wh7f454c46tw1080302122_-1676557960/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8?icpid=88888888&RTS=1717816200&from=5&hms_devid=1647&online=1717816200&vqe=3
 杭州导视[768*576],http://[2409:8087:2801:22:100::41]/wh7f454c46tw1080302122_1676557960/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8?icpid=88888888&RTS=1717816200&from=5&hms_devid=1647&online=1717816200&vqe=3
 杭州生活,http://[2409:8087:2801:20:100::40]/wh7f454c46tw1003163712_1434601728/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8?icpid=88888888&RTS=1717816122&from=5&hms_devid=1648&online=1717816122&vqe=3
@@ -1264,6 +1267,12 @@ momo,http://shuma04.chunfengyun.top:8080/live/3/hls.m3u8
 远安电视台,http://yuanan-live21.cjyun.org/10106/s10106-yatv.m3u8?auth_key=1735660799-0-0-fdcac90185009731b8e6f51f180ed7b4
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 秭归综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1735660799-0-0-e80e38a154f9ea053e26d2ff5038530a
+大悟综合,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1735660799-0-0-b1bf1625df01ea7dabc97bf7aa7f253d
+洪湖综合,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
+江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
+通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1735660799-0-0-aa195babe014c73b2e4f423d1ae4622f
+钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
+长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
 陕西频道,#genre#
 陕西洋县国宝朱鹮03,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
 广东频道,#genre#
@@ -1426,7 +1435,6 @@ RTHK34*频道,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 [内蒙古]奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 [内蒙古]奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 [内蒙古]玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
-爱喜喜剧,http://[2409:8087:2801:22:100::78]/wh7f454c46tw4094367900_2057884996/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717814919&from=5&ocs=2_2409:8087:2801:22:100::47_80&hms_devid=2528&online=1717814919&vqe=3
 安阳科教频道,http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
 安阳县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
 安阳县新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
@@ -1437,7 +1445,6 @@ RTHK34*频道,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
 重庆|璧山综合,http://222.179.42.129:8181/hls1.m3u8
 崇阳综合,http://61.184.176.248:10500/live/live.m3u8
-大悟综合,http://yunshangdawu-live21.cjyun.org/10129/s10129-dwzhpd.m3u8?auth_key=1735660799-0-0-b1bf1625df01ea7dabc97bf7aa7f253d
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
 登封综合频道,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
 电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
@@ -1464,7 +1471,6 @@ hljgghd,http://yuntv.chinayungu.cn:8005/live/hljgghd/index.m3u8
 hljwthd,http://yuntv.chinayungu.cn:8005/live/hljwthd/index.m3u8
 hljxwhd,http://yuntv.chinayungu.cn:8005/live/hljxwhd/index.m3u8
 hljyshd,http://yuntv.chinayungu.cn:8005/live/hljyshd/index.m3u8
-洪湖综合,http://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
 湖州公共,http://[2409:8087:2801:22:100::37]/wh7f454c46tw1308525120_718771428/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816428&from=5&hms_devid=1647&online=1717816428&vqe=3
 湖州新闻综合,http://[2409:8087:2801:22:100::7a]/wh7f454c46tw1334400709_-125681043/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816454&from=5&ocs=2_2409:8087:2801:22:100::3f_80&hms_devid=329&online=1717816454&vqe=3
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
@@ -1480,7 +1486,6 @@ hljyshd,http://yuntv.chinayungu.cn:8005/live/hljyshd/index.m3u8
 嘉兴新闻综合,http://[2409:8087:2801:20:100::48]/wh7f454c46tw1104267176_-1033533406/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232990/index.m3u8?icpid=88888888&RTS=1717816223&from=5&hms_devid=370&online=1717816223&vqe=3
 建安综合频道,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
 江宁电视台综合频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 金华公共,http://[2409:8087:2801:22:100::72]/wh7f454c46tw1701933369_1582717434/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816821&from=5&ocs=2_2409:8087:2801:22:100::7a_80&hms_devid=316&online=1717816821&vqe=3
 金华教育科技,http://[2409:8087:2801:22:100::51]/wh7f454c46tw1649500059_-1813349847/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816769&from=5&hms_devid=305&online=1717816769&vqe=3
 金华教育科技,http://[2409:8087:2801:22:100::51]/wh7f454c46tw1649500059_1813349847/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816769&from=5&hms_devid=305&online=1717816769&vqe=3
@@ -1488,7 +1493,6 @@ hljyshd,http://yuntv.chinayungu.cn:8005/live/hljyshd/index.m3u8
 金鹰卡通,http://[2409:8087:2801:22:100::81]/wh7f454c46tw2095584071_-1691756926/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717817215&from=5&ocs=2_2409:8087:2801:22:100::78_80&hms_devid=321&online=1717817215&vqe=3
 精彩搏击,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 精彩足球,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
-惊嫊悬疑,http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
 卡酷少儿,http://[2409:8087:2801:20:100::44]/wh7f454c46tw2070488029_-1459019471/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717817190&from=5&ocs=2_2409:8087:2801:22:100::6d_80&hms_devid=377&online=1717817190&vqe=3
 黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
@@ -1547,7 +1551,6 @@ liaoninghd,http://yuntv.chinayungu.cn:8005/live/liaoninghd/index.m3u8
 太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
 汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1735660799-0-0-aa195babe014c73b2e4f423d1ae4622f
 望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
 舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
@@ -1583,10 +1586,7 @@ liaoninghd,http://yuntv.chinayungu.cn:8005/live/liaoninghd/index.m3u8
 优漫卡通,http://[2409:8087:2801:20:100::45]/wh7f454c46tw2039627646_-1393670240/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717817159&from=5&ocs=2_2409:8087:2801:22:100::5a_80&hms_devid=369&online=1717817159&vqe=3
 优优宝贝,http://[2409:8087:2801:22:100::48]/wh7f454c46tw405656462_11353320/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815525&from=5&ocs=2_2409:8087:2801:22:100::1d_80&hms_devid=1641&online=1717815525&vqe=3
 原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8
-长阳综合,http://changyang-live21.cjyun.org/10114/s10114-cy1t.m3u8?auth_key=1735660799-0-0-f8867ea6ca06a65bdf95048518db1f6a
 长垣新闻综合频道,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
 长垣综合频道,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
 之江记录,http://[2409:8087:2801:22:100::1d]/wh7f454c46tw698727769_-1899804478/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815818&from=5&hms_devid=1639&online=1717815818&vqe=3
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
-钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
-舟山公共,http://[2409:8087:2801:22:100::7d]/wh7f454c46tw1855934095_-299144317/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717816975&from=5&ocs=2_2409:8087:2801:22:100::37_80&hms_devid=323&online=1717816975&vqe=3
