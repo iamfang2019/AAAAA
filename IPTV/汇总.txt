@@ -1417,7 +1417,8 @@ NewTv怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/
 潮婆辣妈,http://[2409:8087:2801:22:100::46]/wh7f454c46tw1590674578_1529873807/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8?icpid=88888888&RTS=1717812415&from=5&hms_devid=1638&online=1717812415&vqe=3
 重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw13940754912119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hmsdevid=330&online=1717812218&vqe=3
 重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
-哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
+重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
 哒啵赛事,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000097/index.m3u8
