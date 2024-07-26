@@ -1267,7 +1267,7 @@ CCTV17,http://[2409:8087:2801:22:100::7a]/wh7f454c46tw3815286566414700278/hwltc.
 重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
-重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+重温经典,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls
 东北热剧,http://39.134.65.173/PLTV/88888888/224/3221225679/1.m3u8
 东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
 东北热剧,http://39.134.65.74:80/wh7f454c46tw1823569370952931068/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
@@ -1483,6 +1483,7 @@ CCTV17,http://[2409:8087:2801:22:100::7a]/wh7f454c46tw3815286566414700278/hwltc.
 超级综艺,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 哒啵电竞,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000121/index.m3u8
 哒啵赛事,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
 哒啵赛事,http://[2409:8087:74F1:0021::0008]:80/270000001128/9900000097/index.m3u8
 哒啵赛事,http://bxny.667789.cn:88/hls/301/index.m3u8
@@ -1682,7 +1683,7 @@ TVBSAsia1080p,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 龙祥电影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影,http://171.108.239.84:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-美国l中国环球美国,http://live.cgtn.com/1000/prog_index.m3u8
+中国环球美国,http://live.cgtn.com/1000/prog_index.m3u8
 民视,rtmp://220.130.201.73/sat/tv051
 民视,rtmp://f13h.mine.nu/sat/tv051
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
