@@ -410,11 +410,7 @@
 钟祥综合,http://zhongxiang-live21.cjyun.org/10103/s10103-zxtv.m3u8?auth_key=1735660799-0-0-bffe4fb8f0bb7142075cb559396d23cc
 枝江综合,http://zhijiang-live21.cjyun.org/10120/s10120-zjtv.m3u8?auth_key=1735660799-0-0-fd9715217b53a31e92b5d42d24438b4a
 秭归综合,http://zigui-live21.cjyun.org/10111/s10111-ZGTV1.m3u8?auth_key=1735660799-0-0-e80e38a154f9ea053e26d2ff5038530a
-苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
-上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-新密新闻综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+浙江频道,#genre#
 浙江苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -448,6 +444,11 @@
 浙江温州永嘉综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
 浙江永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 浙江诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新密新闻综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 安阳县新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 宝丰新闻综合,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 封丘一套新闻综合,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
@@ -507,10 +508,6 @@
 清远公共,https://zqy-live.nanyuecloud.com/qingyuandianshi/qingyuandianshistream.m3u8?auth_key=601634549257-0-0-73ab89e29b6bf8ef7b5144cf0c04935a
 韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-济南历下融媒1,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv01/index.m3u8
-济南历下融媒2,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv02/index.m3u8
-济南历下融媒3,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv03/index.m3u8
-济南历下融媒4,https://jsylivealone302.iqilu.com:443/lixia/lixia_tv04/index.m3u8
 晋中新闻,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
 山西吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
 山西灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8
