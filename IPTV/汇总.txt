@@ -448,6 +448,7 @@
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+河南河北,#genre#
 新密新闻综合,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 安阳县新闻综合,http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
 宝丰新闻综合,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
@@ -513,6 +514,7 @@
 山西灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8
 山西潞城新闻综合,http://59.48.42.6:62204/lucheng.m3u8
 山西运城公共,http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+安徽四川,#genre#
 安徽安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv
 安徽安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 安徽安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
