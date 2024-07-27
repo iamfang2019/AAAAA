@@ -32,7 +32,7 @@ CCTV1,http://bxny.667789.cn:88/hls/1/index.m3u8
 CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.138.216.44:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://124.165.251.82:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV电视塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+CCTV直播中国,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
 CCTV1,http://[2409:8087:74F1:0021::0008]:80/000000001000PLTV/88888888/224/3221226153/index.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8
