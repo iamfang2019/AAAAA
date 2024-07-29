@@ -54,7 +54,7 @@ with open("TW.txt", "r", encoding='utf-8') as source_file:
     for line in lines:
         input_queue.put(line)
 
-    num_threads = 4
+    num_threads = 64
     threads = []
     output_list = []
     pbar = tqdm(total=len(lines), desc="Processing lines")
