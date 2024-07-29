@@ -9,10 +9,10 @@ print("检测前请先过滤文本中的空格和mitv以及p2p等迅雷链接\n\
 print("读取进度百分百后请静待进程完成\n\n完成后会有提示\n")
 
 # 测试HTTP连接
-def test_connectivity(url, max_attempts=2):
+def test_connectivity(url, max_attempts=5):
     for _ in range(max_attempts):
         try:
-            response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
+            response = requests.head(url, timeout=25)  # 发送HEAD请求，仅支持V4
             # response = requests.get(url, timeout=0.2)  # 发送get请求，支持V6
             return response.status_code == 200  # 返回True如果状态码为200
         except requests.RequestException:  # 捕获requests引发的异常
@@ -49,7 +49,7 @@ def main():
     valid_count = 0
     invalid_count = 0
 
-    with open("IPTV/TW.txt", "w", encoding="utf-8") as output_file:  # 打开输出文件
+    with open("TW.txt", "w", encoding="utf-8") as output_file:  # 打开输出文件
         for _ in range(result_queue.qsize()):  # 使用队列的大小来循环
             item = result_queue.get()  # 获取队列中的项目
             if item[0] and item[1]:  # 确保channel_name和channel_url都不为None
@@ -87,8 +87,8 @@ def replace_lines(file_path, replacements):
             new_file.write(line)
 
 # 执行过滤和替换操作
-input_file_path = "IPTV/TW.txt"
-output_file_path = "IPTV/TW.txt"
+input_file_path = "TW.txt"
+output_file_path = "TW.txt"
 
 filtered_lines = filter_lines(input_file_path)
 write_filtered_lines(output_file_path, filtered_lines)
