@@ -9,11 +9,11 @@ print("检测前请先过滤文本中的空格和mitv以及p2p等迅雷链接\n\
 print("读取进度百分百后请静待进程完成\n\n完成后会有提示\n")
 
 # 测试HTTP连接
-def test_connectivity(url, max_attempts=2):
+def test_connectivity(url, max_attempts=10):
     for _ in range(max_attempts):
         try:
-            #response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
-            response = requests.get(url, timeout=15)  # 发送get请求，支持V6
+            response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
+            #response = requests.get(url, timeout=15)  # 发送get请求，支持V6
             return response.status_code == 200  # 返回True如果状态码为200
         except requests.RequestException:  # 捕获requests引发的异常
             pass  # 发生异常时忽略
