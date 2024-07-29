@@ -1,5 +1,4 @@
 港澳频道,#genre#
-港澳频道,#genre#
 环球电视,http://live.cgtn.com/500/prog_index.m3u8
 龍華電影台[1280*720],http://37.27.111.214:8080/live/19/hls.m3u8
 民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
