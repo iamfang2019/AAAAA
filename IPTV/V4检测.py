@@ -1,56 +1,77 @@
-import requests
+﻿import requests
 from tqdm import tqdm
+import cv2
 import threading
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import time
-import concurrent.futures
-import requests
-import re
-import os
 from queue import Queue
-from datetime import datetime
 #  获取远程港澳台直播源文件
 url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/TW.txt"          #源采集地址
 r = requests.get(url)
 open('1.txt','wb').write(r.content)         #打开源文件并临时写入
 
 
-
+﻿import requests
+from tqdm import tqdm
+import cv2
+import threading
+from queue import Queue
 
 def test_connectivity(url):
     try:
-        response = requests.get(url, timeout=15)
+        response = requests.get(url, timeout=10)
         return response.status_code == 200
     except requests.RequestException:
         return False
 
-def process_line(line, output_file, order_list):
+def get_video_resolution(url):
+    cap = cv2.VideoCapture(url)
+    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+    cap.release()
+    return width, height
+
+def process_line(line, output_list):
     parts = line.strip().split(',')
     if len(parts) != 2:
         return
     channel_name, channel_url = parts
     if 'genre' in line.lower():
-        output_file.write(line)
+        output_list.append(line)
         return
     if test_connectivity(channel_url):
-        output_file.write(f"{channel_name},{channel_url}\n")
-        order_list.append((channel_name, channel_url))
+        width, height = get_video_resolution(channel_url)
+        if height >= 720:
+            output_list.append(f"{channel_name}[{width}x{height}],{channel_url}\n")
     else:
-        return
+        if '404' in str(test_connectivity(channel_url)):
+            return
 
-valid_count = 0
-invalid_count = 0
-order_list = []
+def worker(input_queue, output_list, pbar):
+    while not input_queue.empty():
+        line = input_queue.get()
+        process_line(line, output_list)
+        input_queue.task_done()
+        pbar.update(1)
 
-with open("1.txt", "r", encoding='utf-8') as source_file, open("TW.txt", "w", encoding='utf-8') as output_file:
+with open("TW.txt", "r", encoding='utf-8') as source_file:
     lines = source_file.readlines()
-    with ThreadPoolExecutor(max_workers=16) as executor:###此行调整线程
-        futures = {executor.submit(process_line, line, output_file, order_list): line for line in lines}
-        for future in tqdm(as_completed(futures), total=len(futures), desc="Processing lines"):
-            result = future.result()
-            if result is not None:
-                valid_count += 1
-            else:
-                invalid_count += 1
-#os.remove("1.txt")
-print("任务完成，TW.txt")
+    input_queue = Queue()
+    for line in lines:
+        input_queue.put(line)
+
+    num_threads = 4
+    threads = []
+    output_list = []
+    pbar = tqdm(total=len(lines), desc="Processing lines")
+    for _ in range(num_threads):
+        t = threading.Thread(target=worker, args=(input_queue, output_list, pbar))
+        t.start()
+        threads.append(t)
+
+    input_queue.join()
+    for t in threads:
+        t.join()
+    pbar.close()
+
+    with open("TW.txt", "w", encoding='utf-8') as output_file:
+        for item in output_list:
+            output_file.write(item)
