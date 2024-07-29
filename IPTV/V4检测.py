@@ -9,9 +9,6 @@ import re
 import os
 from queue import Queue
 from datetime import datetime
-import replace
-import fileinput
-
 #  获取远程港澳台直播源文件
 url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/TW.txt"          #源采集地址
 r = requests.get(url)
