@@ -147,10 +147,6 @@ tvN,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=tvn
 美亚电影台,http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-11
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-超人,http://37.27.111.214:8080/live/110/hls.m3u8
-镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+
 
 
