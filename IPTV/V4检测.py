@@ -12,7 +12,7 @@ print("读取进度百分百后请静待进程完成\n\n完成后会有提示\n"
 def test_connectivity(url, max_attempts=5):
     for _ in range(max_attempts):
         try:
-            response = requests.head(url, timeout=25)  # 发送HEAD请求，仅支持V4
+            response = requests.head(url, timeout=35)  # 发送HEAD请求，仅支持V4
             # response = requests.get(url, timeout=0.2)  # 发送get请求，支持V6
             return response.status_code == 200  # 返回True如果状态码为200
         except requests.RequestException:  # 捕获requests引发的异常
