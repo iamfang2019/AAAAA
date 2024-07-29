@@ -31,7 +31,7 @@ def process_line(line, result_queue):
 
 # 主函数
 def main():
-    with open('TW.txt', "r", encoding="utf-8") as source_file:  # 打开源文件
+    with open('IPTV/TW.txt', "r", encoding="utf-8") as source_file:  # 打开源文件
         lines = source_file.readlines()  # 读取所有行
 
     result_queue = queue.Queue()  # 创建队列
@@ -49,7 +49,7 @@ def main():
     valid_count = 0
     invalid_count = 0
 
-    with open("TW.txt", "w", encoding="utf-8") as output_file:  # 打开输出文件
+    with open("IPTV/TW.txt", "w", encoding="utf-8") as output_file:  # 打开输出文件
         for _ in range(result_queue.qsize()):  # 使用队列的大小来循环
             item = result_queue.get()  # 获取队列中的项目
             if item[0] and item[1]:  # 确保channel_name和channel_url都不为None
@@ -87,8 +87,8 @@ def replace_lines(file_path, replacements):
             new_file.write(line)
 
 # 执行过滤和替换操作
-input_file_path = "TW.txt"
-output_file_path = "TW.txt"
+input_file_path = "IPTV/TW.txt"
+output_file_path = "IPTV/TW.txt"
 
 filtered_lines = filter_lines(input_file_path)
 write_filtered_lines(output_file_path, filtered_lines)
