@@ -4,8 +4,6 @@ import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import concurrent.futures
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 import requests
 import re
 import os
