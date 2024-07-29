@@ -6,14 +6,10 @@ from queue import Queue
 #  获取远程港澳台直播源文件
 url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/TW.txt"          #源采集地址
 r = requests.get(url)
-open('1.txt','wb').write(r.content)         #打开源文件并临时写入
+open('TW.txt','wb').write(r.content)         #打开源文件并临时写入
 
 
-﻿import requests
-from tqdm import tqdm
-import cv2
-import threading
-from queue import Queue
+
 
 def test_connectivity(url):
     try:
