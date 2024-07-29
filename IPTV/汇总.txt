@@ -1766,5 +1766,6 @@ TVBj2开码,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d91749577597
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 中视,rtmp://220.130.201.73/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
+天良,http://60.248.91.20:8000/main
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
