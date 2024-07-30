@@ -1,6 +1,4 @@
 港澳频道,#genre#
-AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
-三立戏剧[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
@@ -16,7 +14,6 @@ AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 CMUSIC音乐台[720p],http://37.27.111.214:8080/live/72/hls.m3u8
-CNA[1080p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA新闻[1080p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CinemaWorld[720p],http://37.27.111.214:8080/live/30/hls.m3u8
 ELEVEN1[720p],rtmp://f13h.mine.nu/sat/tv731
@@ -53,7 +50,6 @@ elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
 中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
 互动英语[720p],http://37.27.111.214:8080/live/54/hls.m3u8
-亚洲新闻[720p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲旅游台[720p],http://37.27.111.214:8080/live/10/hls.m3u8
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
@@ -62,9 +58,7 @@ elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 全球财经[720p],http://37.27.111.214:8080/live/64/hls.m3u8
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合[1080p],http://37.27.111.214:8080/live/21/hls.m3u8
-八大综合[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 凤凰中文频道[1080p],http://146.56.153.245:20121/bysid/258
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
@@ -87,25 +81,24 @@ elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 台视[720p],rtmp://f13h.mine.nu/sat/tv071
 哆啦A梦[720p],http://37.27.111.214:8080/live/107/hls.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
-大爱1[720p],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱2[720p],http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2[720p],http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2[720p],https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2[720p],https://pulltv1.wanfudaluye.com/live/tv2.m3u8?
 大爱2[720p],https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
-大爱2台[720p],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱[720p],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
 大爱[720p],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱一台[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大立電視[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+天良綜合台[1080p],http://60.248.91.20:8000/main
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇财经[720p],http://37.27.111.214:8080/live/65/hls.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
+探索頻道[720p],http://61.221.215.25:8800/hls/1/index.m3u8
 新加坡中文[720p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际[720p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新唐人[720p],http://37.27.111.214:8080/live/51/hls.m3u8
 旅游[720p],http://37.27.111.214:8080/live/82/hls.m3u8
 星光视界[720p],http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 智林体育[720p],http://37.27.111.214:8080/live/77/hls.m3u8
@@ -128,11 +121,12 @@ elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
+紅牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 纬来体育[720p],rtmp://220.130.201.73/sat/tv721
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来日本[720p],rtmp://220.130.201.73/sat/tv771
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
-纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来精采[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来育乐[720p],rtmp://220.130.201.73/sat/tv701
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
