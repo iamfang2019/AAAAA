@@ -28,7 +28,7 @@ jobs:
         run: pip install tqdm opencv-python
 
       - name: Run iptv
-        run: python ${{ github.workspace }}/IPTV/V4检测1.py      #这里更改要运行的py
+        run: python ${{ github.workspace }}/IPTV/V4检测.py      #这里更改要运行的py
 
         
 
