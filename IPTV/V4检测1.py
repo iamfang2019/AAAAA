@@ -1,102 +1,76 @@
 import requests
 from tqdm import tqdm
+import cv2
 import threading
-import queue
+from queue import Queue
 
-# 打印开始信息
-print("请注意，文件名不能有特殊符号，否则闪退\n\n请注意，文件名不能有特殊符号，否则闪退\n")
-print("检测前请先过滤文本中的空格和mitv以及p2p等迅雷链接\n\n以免导致不可能的错误\n")
-print("读取进度百分百后请静待进程完成\n\n完成后会有提示\n")
+def test_connectivity(url):
+    try:
+        response = requests.get(url, timeout=20)
+        return response.status_code == 200
+    except requests.RequestException:
+        return False
 
-# 测试HTTP连接
-def test_connectivity(url, max_attempts=10):
-    for _ in range(max_attempts):
+def get_video_resolution(url):
+    try:
+        cap = cv2.VideoCapture(url)
+        width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+        height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+        cap.release()
+        return width, height
+    except Exception:
+        return None
+
+def process_line(line, output_list):
+    parts = line.strip().split(',')
+    if len(parts) != 2:
+        return
+    channel_name, channel_url = parts
+    if 'genre' in line.lower():
+        output_list.append(line)
+        return
+    if test_connectivity(channel_url):
+        resolution = get_video_resolution(channel_url)
+        if resolution and resolution[1] >= 720:
+            output_list.append(f"{channel_name}[{resolution[0]}x{resolution[1]}],{channel_url}\n")
+    else:
+        print(f"Skipping {channel_url} due to connectivity issues.")
+
+def worker(input_queue, output_list, pbar):
+    while not input_queue.empty():
         try:
-            response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
-            #response = requests.get(url, timeout=15)  # 发送get请求，支持V6
-            return response.status_code == 200  # 返回True如果状态码为200
-        except requests.RequestException:  # 捕获requests引发的异常
-            pass  # 发生异常时忽略
-    return False  # 如果所有尝试都失败，返回False
+            line = input_queue.get(timeout=1)
+            process_line(line, output_list)
+            input_queue.task_done()
+            pbar.update(1)
+        except Queue.Empty:
+            break
 
-# 使用队列来收集结果的函数
-def process_line(line, result_queue):
-    parts = line.strip().split(",")  # 去除行首尾空白并按逗号分割
-    if len(parts) == 2 and parts[1]:  # 确保有URL，并且URL不为空
-        channel_name, channel_url = parts  # 分别赋值频道名称和URL
-        if test_connectivity(channel_url):  # 测试URL是否有效
-            result_queue.put((channel_name, channel_url, "有效"))  # 将结果放入队列
-        else:
-            result_queue.put((channel_name, channel_url, "无效"))  # 将结果放入队列
-
-# 主函数
 def main():
-    with open('IPTV/TW.txt', "r", encoding="utf-8") as source_file:  # 打开源文件
-        lines = source_file.readlines()  # 读取所有行
+    with open("IPTV/TW.txt", "r", encoding='utf-8') as source_file:
+        lines = source_file.readlines()
+        input_queue = Queue()
+        for line in lines:
+            input_queue.put(line)
 
-    result_queue = queue.Queue()  # 创建队列
+    num_threads = 4
+    threads = []
+    output_list = []
+    pbar = tqdm(total=len(lines), desc="Processing lines")
 
-    threads = []  # 初始化线程列表
-    for line in tqdm(lines, desc="加载中,任务完成后会有提示"):  # 显示进度条
-        thread = threading.Thread(target=process_line, args=(line, result_queue))  # 创建线程
-        thread.start()  # 启动线程
-        threads.append(thread)  # 将线程加入线程列表
+    for _ in range(num_threads):
+        t = threading.Thread(target=worker, args=(input_queue, output_list, pbar))
+        t.start()
+        threads.append(t)
 
-    for thread in threads:  # 等待所有线程完成
-        thread.join()
+    input_queue.join()
+    for t in threads:
+        t.join()
+    pbar.close()
 
-    # 初始化计数器
-    valid_count = 0
-    invalid_count = 0
-
-    with open("TW.txt", "w", encoding="utf-8") as output_file:  # 打开输出文件
-        for _ in range(result_queue.qsize()):  # 使用队列的大小来循环
-            item = result_queue.get()  # 获取队列中的项目
-            if item[0] and item[1]:  # 确保channel_name和channel_url都不为None
-                output_file.write(f"{item[0]},{item[1]},{item[2]}\n")  # 写入文件
-                if item[2] == "有效":
-                    valid_count += 1
-                else:
-                    invalid_count += 1
-    print(f"任务完成, 有效源数量: {valid_count}, 无效源数量: {invalid_count}")  # 打印结果
+    with open("TW.txt", "w", encoding='utf-8') as output_file:
+        for item in output_list:
+            output_file.write(item)
 
 if __name__ == "__main__":
     main()
-
-# 以下代码段是独立的，不需要缩进在main函数内
-# 过滤文本函数
-def filter_lines(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
-    filtered_lines = [line for line in lines if 'genre' in line or '有效' in line]
-    return filtered_lines
-
-# 写入过滤后的行到新文件
-def write_filtered_lines(output_file_path, filtered_lines):
-    with open(output_file_path, 'w', encoding='utf-8') as output_file:
-        output_file.writelines(filtered_lines)
-
-# 替换规则函数
-def replace_lines(file_path, replacements):
-    with open(file_path, 'r', encoding='utf-8') as file:
-        lines = file.readlines()
-    with open(file_path, 'w', encoding='utf-8') as new_file:
-        for line in lines:
-            for old, new in replacements.items():
-                line = line.replace(old, new)
-            new_file.write(line)
-
-# 执行过滤和替换操作
-input_file_path = "TW.txt"
-output_file_path = "TW.txt"
-
-filtered_lines = filter_lines(input_file_path)
-write_filtered_lines(output_file_path, filtered_lines)
-
-replacements = {
-    ",有效": "",
-    "#genre#,无效": "#genre#"
-}
-replace_lines(output_file_path, replacements)
-
-print("新文件已保存。")
