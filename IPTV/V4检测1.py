@@ -53,7 +53,7 @@ def main():
         for line in lines:
             input_queue.put(line)
 
-    num_threads = 4
+    num_threads = 1
     threads = []
     output_list = []
     pbar = tqdm(total=len(lines), desc="Processing lines")
