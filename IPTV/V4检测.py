@@ -72,7 +72,7 @@ def main(source_file_path, output_file_path):
         # 创建线程池
         with ThreadPoolExecutor(max_workers=128) as executor:
             # 创建并启动工作线程
-            for _ in range(8):
+            for _ in range(64):
                 executor.submit(worker, task_queue, output_file, order_list, valid_count, invalid_count, len(lines))
 
             # 将所有行放入队列
