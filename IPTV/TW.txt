@@ -141,3 +141,14 @@ TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m
 经典都市台,http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 Now爆谷台,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 凤凰资讯,http://117.27.190.42:9998/tsfile/live/23279_1.m3u8?AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+天良綜合台,http://60.248.91.20:8000/main
+番薯台,http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
+大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
