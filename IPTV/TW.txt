@@ -152,3 +152,5 @@ Now爆谷台,http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+紅牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
