@@ -6,9 +6,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 仕说电影,https://live.metshop.top/huya/24791905
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8
-凤凰电影,https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv
-凤凰电影,https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
-凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 天映电影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 天映电影,http://171.108.239.80:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 影剧,http://37.27.111.214:8080/live/88/hls.m3u8
