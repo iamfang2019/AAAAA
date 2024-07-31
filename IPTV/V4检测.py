@@ -15,7 +15,7 @@ open('TW.txt','wb').write(r.content)         #打开源文件并临时写入
 
 
 # 函数：获取视频分辨率
-def get_video_resolution(video_path, timeout=25):
+def get_video_resolution(video_path, timeout=8):
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         return None
@@ -70,9 +70,9 @@ def main(source_file_path, output_file_path):
 
     with open(output_file_path + '.txt', 'w', encoding='utf-8') as output_file:
         # 创建线程池
-        with ThreadPoolExecutor(max_workers=32) as executor:
+        with ThreadPoolExecutor(max_workers=64) as executor:
             # 创建并启动工作线程
-            for _ in range(4):
+            for _ in range(16):
                 executor.submit(worker, task_queue, output_file, order_list, valid_count, invalid_count, len(lines))
 
             # 将所有行放入队列
