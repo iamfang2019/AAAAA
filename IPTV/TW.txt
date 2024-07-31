@@ -25,7 +25,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8
 龙祥电影[卡],http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 龙祥电影[卡],http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-
 4SEVEN,https://stream1.freetv.fun/e14428488ccd8871e4f726cc1599110ec3cde2b342e4f424c72f9006b9b6b622.ctv
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
@@ -395,9 +394,6 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 耀才财经,https://stream1.freetv.fun/dd22b2b5f1c65e8294658a1d7732d747d14e6e4e8438f8fd30f90ca318063d3d.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经台,https://stream1.freetv.fun/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8
-荒野视界,https://www.goodiptv.club/douyu/10675329
-记忆中的TVB,https://lunbo.freetv.top/yy/1382749951
-超人,http://37.27.111.214:8080/live/110/hls.m3u8
 镜新闻,http://194.87.101.118/live.m3u8?c=10
 镜新闻,http://37.27.111.214:8080/live/62/hls.m3u8
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -411,3 +407,13 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 香港凤凰频道,http://146.56.153.245:20121/bysid/259
 龙华日韩,http://37.27.111.214:8080/live/42/hls.m3u8
+NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+NOW 星影2,http://120.211.93.113:8089/NOW星影/香蕉哥专用-易發TV.live.flv
+TVB翡翠,http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
+TVB翡翠2,http://120.211.93.113:8089/tvb翡翠2/香蕉哥专用-易發TV.live.flv
+明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+耀才财经台,https://v3.mediacast.hk/webcast/bslive-pc/playlist.m3u8
+好消息綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
