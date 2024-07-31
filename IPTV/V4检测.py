@@ -6,9 +6,9 @@ from queue import Queue
 from concurrent.futures import ThreadPoolExecutor
 
 #  获取远程港澳台直播源文件
-url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/汇总.txt"          #源采集地址
+url = "https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/TW.txt"          #源采集地址
 r = requests.get(url)
-open('汇总.txt','wb').write(r.content)         #打开源文件并临时写入
+open('TW.txt','wb').write(r.content)         #打开源文件并临时写入
 
 
 
@@ -85,8 +85,8 @@ def main(source_file_path, output_file_path):
     print(f"任务完成，有效频道数：{valid_count[0]}, 无效频道数：{invalid_count[0]}, 总频道数：{len(lines)}")
 
 if __name__ == "__main__":
-    source_file_path = '汇总.txt'  # 替换为你的源文件路径
-    output_file_path = '汇总'  # 替换为你的输出文件路径,不要后缀名
+    source_file_path = 'TW.txt'  # 替换为你的源文件路径
+    output_file_path = 'TW'  # 替换为你的输出文件路径,不要后缀名
     main(source_file_path, output_file_path)
 
 
