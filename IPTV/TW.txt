@@ -1,13 +1,13 @@
 港澳频道,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
-东森电影,http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影[卡],http://171.108.239.79:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 仕说电影,https://live.metshop.top/huya/24791905
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 公视戏剧,http://37.27.111.214:8080/live/87/hls.m3u8
-天映电影,http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-天映电影,http://171.108.239.80:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+天映电影[卡],http://171.108.239.79:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+天映电影[卡],http://171.108.239.80:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 影剧,http://37.27.111.214:8080/live/88/hls.m3u8
 影视2,http://37.27.111.214:8080/live/109/hls.m3u8
 影视3,http://37.27.111.214:8080/live/111/hls.m3u8
@@ -23,8 +23,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 靖洋戏剧台,http://37.27.111.214:8080/live/17/hls.m3u8
 龙华戏剧,http://37.27.111.214:8080/live/41/hls.m3u8
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8
-龙祥电影,http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-龙祥电影,http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影[卡],http://171.108.239.79:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+龙祥电影[卡],http://171.108.239.80:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 4SEVEN,https://stream1.freetv.fun/e14428488ccd8871e4f726cc1599110ec3cde2b342e4f424c72f9006b9b6b622.ctv
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
