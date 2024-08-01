@@ -34,8 +34,8 @@ def process_line(line, output_file, order_list, valid_count, invalid_count, tota
             print(f"已写入genre行：{line.strip()}")
     elif len(parts) == 2:
         channel_name, channel_url = parts
-        resolution = get_video_resolution(channel_url, timeout=5)
-        if resolution and resolution[1] >= 540:  # 检查分辨率是否大于等于720p
+        resolution = get_video_resolution(channel_url, timeout=8)
+        if resolution and resolution[1] >= 720:  # 检查分辨率是否大于等于720p
             with threading.Lock():
                 output_file.write(f"{channel_name}[{resolution[1]}p],{channel_url}\n")
                 order_list.append((channel_name, resolution[1], channel_url))
@@ -72,7 +72,7 @@ def main(source_file_path, output_file_path):
         # 创建线程池
         with ThreadPoolExecutor(max_workers=64) as executor:
             # 创建并启动工作线程
-            for _ in range(16):
+            for _ in range(64):
                 executor.submit(worker, task_queue, output_file, order_list, valid_count, invalid_count, len(lines))
 
             # 将所有行放入队列
