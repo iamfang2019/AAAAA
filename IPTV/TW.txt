@@ -136,11 +136,6 @@ USLiveNOWfromFOX,http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies,http://doubleclicktv.live/70376812/52663544/276996
 U杜比视界,https://www.goodiptv.club/douyu/9249162
 VOA,http://37.27.111.214:8080/live/45/hls.m3u8
-XF凤凰中文,http://180.142.220.34:8181/tsfile/live/1083_1.m3u8
-XF凤凰中文,http://180.142.220.34:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-XF凤凰中文,http://222.217.246.118:8181/tsfile/live/1083_1.m3u8
-XF凤凰资讯,http://180.142.220.36:8181/tsfile/live/1082_1.m3u8
-XF凤凰香港,http://180.137.22.122:8181/tsfile/live/1084_1.m3u8
 elta生活旅游,http://37.27.111.214:8080/live/85/hls.m3u8
 nhkworld,http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
@@ -159,12 +154,8 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 东森新闻,http://38.64.72.148:80/hls/modn/list/2016/chunklist0.m3u8
 东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森洋片,http://171.108.239.79:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-东森洋片,http://171.108.239.80:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 东森购物,http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物,http://37.27.111.214:8080/live/66/hls.m3u8
-东森超视,http://171.108.239.79:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-东森超视,http://171.108.239.80:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,rtmp://220.130.201.73/sat/tv331
 东森超视,rtmp://f13h.mine.nu/sat/tv331
@@ -202,8 +193,6 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰卫视香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
-凤凰资讯,http://171.108.239.79:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯,http://171.108.239.80:8181/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
