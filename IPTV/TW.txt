@@ -1,4 +1,16 @@
 港澳频道,#genre#
+TVB泰国台,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
+TVB星河,http://metatvpro.xyz:25461/W1045/4329/12206
+TVB星河,http://metatvpro.xyz:25461/W1045/4329/58
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+TVBS欢乐台,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS新闻,http://194.87.101.118/live.m3u8?c=5
+TVBS亚洲台,http://metatvpro.xyz:25461/W1045/4329/59
+TVBS综艺台,http://cdn9.1678520.xyz/xsj2.1.php?id=tvbs-zongyi
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -23,7 +35,6 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 靖洋戏剧台,http://37.27.111.214:8080/live/17/hls.m3u8
 龙华戏剧,http://37.27.111.214:8080/live/41/hls.m3u8
 龙华电影台,http://37.27.111.214:8080/live/19/hls.m3u8
-
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
 ASTRO华丽台翡MAS,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts&play_token=b0RYEywy0z
@@ -91,8 +102,6 @@ TVB+,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 TVB+,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
 TVBJ2台,http://extraott.com:80/live/7921751389/6097373662/62826.m3u8
 TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$1920x1080
@@ -101,9 +110,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$1920x1080
-TVBS亚洲,http://metatvpro.xyz:25461/W1045/4329/59
 TVBS新闻,http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-TVBS歡樂台,http://37.27.111.214:8080/live/24/hls.m3u8
 TVBTHAI,https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 TVBj2开码,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
@@ -117,10 +124,8 @@ TVB无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB明珠台,http://extraott.com:80/live/7921751389/6097373662/62823.m3u8
 TVB星河,http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 TVB经典CH305,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571197&extension=ts
 TVB经典CH305,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571197&extension=ts
 TVB翡翠2,http://120.211.93.113:8089/tvb翡翠2/香蕉哥专用-易發TV.live.flv
@@ -271,7 +276,6 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 旅游,http://37.27.111.214:8080/live/82/hls.m3u8
 无线娱乐,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
-无线新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 明珠台,http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
