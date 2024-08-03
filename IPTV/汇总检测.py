@@ -50,7 +50,7 @@ def test_connectivity(url, max_attempts=1):
    for _ in range(max_attempts):  
     try:
         #response = requests.get(url, timeout=3)
-        response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
+        response = requests.head(url, timeout=5)  # 发送HEAD请求，仅支持V4
         return 200 <= response.status_code <= 302
         #return response.status_code == 200  # 返回True如果状态码为200
     except requests.RequestException:  # 捕获requests引发的异常
