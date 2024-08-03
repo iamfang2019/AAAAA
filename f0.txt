@@ -1,0 +1,7 @@
+省市频道,#genre#
+武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
+武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8?
+武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8?
