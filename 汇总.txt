@@ -1,7 +1,7 @@
 央视频道,#genre#
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
-CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV8K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 4K60PHLGHEVCEAC3,http://159.75.85.63:5680/d/ad/playad.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
