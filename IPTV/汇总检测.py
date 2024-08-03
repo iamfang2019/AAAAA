@@ -45,13 +45,13 @@ remove_duplicates('IPTV/汇总.txt', '2.txt')
 
    
 # 测试HTTP连接# 定义测试HTTP连接的次数
-def test_connectivity(url, max_attempts=3):
+def test_connectivity(url, max_attempts=1):
     # 尝试连接指定次数    
    for _ in range(max_attempts):  
     try:
         #response = requests.get(url, timeout=3)
-        response = requests.head(url, timeout=0.15)  # 发送HEAD请求，仅支持V4
-        return 200 <= response.status_code < 400
+        response = requests.head(url, timeout=15)  # 发送HEAD请求，仅支持V4
+        return 200 <= response.status_code <= 302
         #return response.status_code == 200  # 返回True如果状态码为200
     except requests.RequestException:  # 捕获requests引发的异常
         pass  # 发生异常时忽略
