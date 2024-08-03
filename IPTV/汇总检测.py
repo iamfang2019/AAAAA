@@ -14,13 +14,44 @@ import fileinput
 from tqdm import tqdm
 from pypinyin import lazy_pinyin
 from opencc import OpenCC
+def remove_duplicates(input_file, output_file):
+    # 用于存储已经遇到的URL和包含genre的行
+    seen_urls = set()
+    seen_lines_with_genre = set()
+    # 用于存储最终输出的行
+    output_lines = []
+    # 打开输入文件并读取所有行
+    with open(input_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+        print("去重前的行数：", len(lines))
+        # 遍历每一行
+        for line in lines:
+            # 使用正则表达式查找URL和包含genre的行,默认最后一行
+            urls = re.findall(r'[https]?[http]?[P2p]?[mitv]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', line)
+            genre_line = re.search(r'\bgenre\b', line, re.IGNORECASE) is not None
+            # 如果找到URL并且该URL尚未被记录
+            if urls and urls[0] not in seen_urls:
+                seen_urls.add(urls[0])
+                output_lines.append(line)
+            # 如果找到包含genre的行，无论是否已被记录，都写入新文件
+            if genre_line:
+                output_lines.append(line)
+    # 将结果写入输出文件
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.writelines(output_lines)
+    print("去重后的行数：", len(output_lines))
+# 使用方法
+remove_duplicates('IPTV/汇总.txt', '2.txt')
+for line in fileinput.input("iptv.txt", inplace=True):  #打开文件，并对其进行关键词原地替换                     ###########
+    line = line.replace("CHC电影", "影迷电影")                                                                         ###########                                                      ###########
+    print(line, end="")  #设置end=""，避免输出多余的换行符     
 # 测试HTTP连接# 定义测试HTTP连接的次数
 def test_connectivity(url, max_attempts=2):
     # 尝试连接指定次数    
    for _ in range(max_attempts):  
     try:
-        response = requests.head(url, timeout=3)  # 发送HEAD请求，仅支持V4
-        #response = requests.get(url, timeout=3)  # 发送get请求，支持V6
+        #response = requests.head(url, timeout=5)  # 发送HEAD请求，仅支持V4
+        response = requests.get(url, timeout=8)  # 发送get请求，支持V6
         return response.status_code == 200  # 返回True如果状态码为200
     except requests.RequestException:  # 捕获requests引发的异常
         pass  # 发生异常时忽略
@@ -66,8 +97,8 @@ def main(source_file_path, output_file_path):
     print(f"任务完成, 有效源数量: {valid_count}, 无效源数量: {invalid_count}")  # 打印结果
 if __name__ == "__main__":
     try:
-        source_file_path = "IPTV/汇总.txt"  # 输入源文件路径
-        output_file_path = "检测结果.txt"  # 设置输出文件路径
+        source_file_path = "2.txt"  # 输入源文件路径
+        output_file_path = "2.txt"  # 设置输出文件路径
         main(source_file_path, output_file_path)  # 调用main函数
     except Exception as e:
         print(f"程序发生错误: {e}")  # 打印错误信息
@@ -85,8 +116,8 @@ def write_filtered_lines(output_file_path, filtered_lines):
     with open(output_file_path, 'w', encoding='utf-8') as output_file:  # 打开输出文件
         output_file.writelines(filtered_lines)  # 写入过滤后的行
 if __name__ == "__main__":
-    input_file_path = "检测结果.txt"  # 设置输入文件路径
-    output_file_path = "检测结果.txt"  # 设置输出文件路径
+    input_file_path = "2.txt"  # 设置输入文件路径
+    output_file_path = "2.txt"  # 设置输出文件路径
     
     filtered_lines = filter_lines(input_file_path)  # 调用filter_lines函数
     write_filtered_lines(output_file_path, filtered_lines)  # 调用write_filtered_lines函数
@@ -96,7 +127,7 @@ replacements = {
     "#genre#,无效": "#genre#",  # 将"#genre#,无效"替换为"#genre#"
 }
 # 打开原始文件读取内容，并写入新文件
-with open('检测结果.txt', 'r', encoding='utf-8') as file:
+with open('2.txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
 # 创建新文件并写入替换后的内容
 with open('2.txt', 'w', encoding='utf-8') as new_file:
@@ -218,7 +249,7 @@ for line in lines:
 with open('汇总.txt', 'w', encoding="utf-8") as file:
  file.writelines(unique_lines)
 ################################################################################################任务结束，删除不必要的过程文件
-files_to_remove = ['去重.txt', "2.txt", "e.txt", "a0.txt", "a.txt", "a1.txt", "b.txt", "c.txt", "c1.txt", "c2.txt", "d.txt", "f.txt", "f1.txt", "o1.txt", "o.txt", "检测结果.txt"]
+files_to_remove = ['去重.txt', "2.txt", "e.txt", "a0.txt", "a.txt", "a1.txt", "b.txt", "c.txt", "c1.txt", "c2.txt", "d.txt", "f.txt", "f1.txt", "o1.txt", "o.txt", "2.txt"]
 for file in files_to_remove:
     if os.path.exists(file):
         os.remove(file)
