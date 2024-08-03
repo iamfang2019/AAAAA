@@ -45,17 +45,30 @@ remove_duplicates('IPTV/汇总.txt', '2.txt')
 
    
 # 测试HTTP连接# 定义测试HTTP连接的次数
-def is_url_valid(url):
+def test_connectivity(url, max_attempts=1):
+    # 尝试连接指定次数    
+   for _ in range(max_attempts):  
     try:
-        response = requests.get(url, timeout=10)  # 增加超时时间到10秒
-        # 检查2xx状态码，表示请求成功
+        response = requests.get(url, timeout=3)
+        #response = requests.head(url, timeout=3)  # 发送HEAD请求，仅支持V4
         return 200 <= response.status_code < 300
-    except requests.RequestException as e:
-        print(f"请求失败: {url}, 错误: {e}")
-        return False
-
-
-
+        #return response.status_code == 200  # 返回True如果状态码为200
+    except requests.RequestException:  # 捕获requests引发的异常
+        pass  # 发生异常时忽略
+   #return False  # 如果所有尝试都失败，返回False
+   pass   
+# 使用队列来收集结果的函数
+def process_line(line, result_queue):
+    parts = line.strip().split(",")  # 去除行首尾空白并按逗号分割
+    if len(parts) == 2 and parts[1]:  # 确保有URL，并且URL不为空
+        channel_name, channel_url = parts  # 分别赋值频道名称和URL
+        if test_connectivity(channel_url):  # 测试URL是否有效
+            result_queue.put((channel_name, channel_url, "有效"))  # 将结果放入队列
+        else:
+            result_queue.put((channel_name, channel_url, "无效"))  # 将结果放入队列
+    else:
+        # 格式不正确的行不放入队列
+        pass
 # 主函数
 def main(source_file_path, output_file_path):
     with open(source_file_path, "r", encoding="utf-8") as source_file:  # 打开源文件
