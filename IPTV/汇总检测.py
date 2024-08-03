@@ -49,7 +49,7 @@ def test_connectivity(url, max_attempts=1):
     # 尝试连接指定次数    
    for _ in range(max_attempts):  
     try:
-        response = requests.head(url, timeout=5)  # 发送HEAD请求，仅支持V4
+        response = requests.head(url, timeout=12)  # 发送HEAD请求，仅支持V4
         return response.status_code == 200  # 返回True如果状态码为200
     except requests.RequestException:  # 捕获requests引发的异常
         pass  # 发生异常时忽略
@@ -137,8 +137,8 @@ print("新文件已保存。")  # 打印完成信息
 
 ########################################################################################################################################################################################
 #################文本排序
-# 打开原始文件读取内容，并写入新文件
-with open('2.txt', 'r', encoding='utf-8') as file:
+file_path = '2.txt'  # 定义文件路径
+with open(file_path, 'r', encoding='utf-8') as file:
     lines = file.readlines()
 # 定义一个函数，用于提取每行的第一个数字
 def extract_first_number(line):
