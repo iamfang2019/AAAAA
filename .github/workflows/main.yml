@@ -28,11 +28,11 @@ jobs:
       - name: Run iptv
         run: python ${{ github.workspace }}/IPTV/汇总检测.py      #这里更改要运行的py
         
-      #- name: Run iptv
-        #run: python ${{ github.workspace }}/IPTV/V4检测.py      #这里更改要运行的py
+      - name: Run iptv
+        run: python ${{ github.workspace }}/IPTV/V4检测.py      #这里更改要运行的py
 
-      #- name: Run iptv
-       # run: python ${{ github.workspace }}/IPTV/分类去重.py      #这里更改要运行的py
+      - name: Run iptv
+        run: python ${{ github.workspace }}/IPTV/分类去重.py      #这里更改要运行的py
 
       - name: Check for file changes
         id: check_changes
