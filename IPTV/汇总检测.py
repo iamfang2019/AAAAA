@@ -40,11 +40,10 @@ def remove_duplicates(input_file, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         f.writelines(output_lines)
     print("去重后的行数：", len(output_lines))
-# 使用方法
 remove_duplicates('IPTV/汇总.txt', '2.txt')
-for line in fileinput.input("iptv.txt", inplace=True):  #打开文件，并对其进行关键词原地替换                     ###########
-    line = line.replace("CHC电影", "影迷电影")                                                                         ###########                                                      ###########
-    print(line, end="")  #设置end=""，避免输出多余的换行符     
+
+
+   
 # 测试HTTP连接# 定义测试HTTP连接的次数
 def test_connectivity(url, max_attempts=2):
     # 尝试连接指定次数    
