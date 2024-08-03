@@ -14,13 +14,6 @@ import fileinput
 from tqdm import tqdm
 from pypinyin import lazy_pinyin
 from opencc import OpenCC
-import cv2
-from concurrent.futures import ThreadPoolExecutor
-
-
-
-
-
 def remove_duplicates(input_file, output_file):
     # 用于存储已经遇到的URL和包含genre的行
     seen_urls = set()
@@ -51,80 +44,62 @@ remove_duplicates('IPTV/汇总.txt', '2.txt')
 
 
    
-# 函数：获取视频分辨率
-def get_video_resolution(video_path, timeout=2):
-    cap = cv2.VideoCapture(video_path)
-    if not cap.isOpened():
-        return None
-    width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-    height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    cap.release()
-    return (width, height)
-
-# 函数：处理每一行
-def process_line(line, output_file, order_list, valid_count, invalid_count, total_lines):
-    parts = line.strip().split(',')
-    if '#genre#' in line:
-        # 如果行包含 '#genre#'，直接写入新文件
-        with threading.Lock():
-            output_file.write(line)
-            print(f"已写入genre行：{line.strip()}")
-    elif len(parts) == 2:
-        channel_name, channel_url = parts
-        resolution = get_video_resolution(channel_url, timeout=8)
-        if resolution and resolution[1] >= 720:  # 检查分辨率是否大于等于720p
-            with threading.Lock():
-                output_file.write(f"{channel_name}[{resolution[1]}p],{channel_url}\n")
-                order_list.append((channel_name, resolution[1], channel_url))
-                valid_count[0] += 1
-                print(f"Channel '{channel_name}' accepted with resolution {resolution[1]}p at URL {channel_url}.")
+# 测试HTTP连接# 定义测试HTTP连接的次数
+def test_connectivity(url, max_attempts=1):
+    # 尝试连接指定次数    
+   for _ in range(max_attempts):  
+    try:
+        response = requests.head(url, timeout=1)  # 发送HEAD请求，仅支持V4
+        return response.status_code == 200  # 返回True如果状态码为200
+    except requests.RequestException:  # 捕获requests引发的异常
+        pass  # 发生异常时忽略
+   #return False  # 如果所有尝试都失败，返回False
+   pass   
+# 使用队列来收集结果的函数
+def process_line(line, result_queue):
+    parts = line.strip().split(",")  # 去除行首尾空白并按逗号分割
+    if len(parts) == 2 and parts[1]:  # 确保有URL，并且URL不为空
+        channel_name, channel_url = parts  # 分别赋值频道名称和URL
+        if test_connectivity(channel_url):  # 测试URL是否有效
+            result_queue.put((channel_name, channel_url, "有效"))  # 将结果放入队列
         else:
-            invalid_count[0] += 1
-    with threading.Lock():
-        print(f"有效: {valid_count[0]}, 无效: {invalid_count[0]}, 总数: {total_lines}, 进度: {(valid_count[0] + invalid_count[0]) / total_lines * 100:.2f}%")
-
-# 函数：多线程工作
-def worker(task_queue, output_file, order_list, valid_count, invalid_count, total_lines):
-    while True:
-        try:
-            line = task_queue.get(timeout=1)
-            process_line(line, output_file, order_list, valid_count, invalid_count, total_lines)
-        except Queue.Empty:
-            break
-        finally:
-            task_queue.task_done()
-
+            result_queue.put((channel_name, channel_url, "无效"))  # 将结果放入队列
+    else:
+        # 格式不正确的行不放入队列
+        pass
 # 主函数
 def main(source_file_path, output_file_path):
-    order_list = []
-    valid_count = [0]
-    invalid_count = [0]
-    task_queue = Queue()
-
-    # 读取源文件
-    with open(source_file_path, 'r', encoding='utf-8') as source_file:
-        lines = source_file.readlines()
-
-    with open(output_file_path + '.txt', 'w', encoding='utf-8') as output_file:
-        # 创建线程池
-        with ThreadPoolExecutor(max_workers=64) as executor:
-            # 创建并启动工作线程
-            for _ in range(64):
-                executor.submit(worker, task_queue, output_file, order_list, valid_count, invalid_count, len(lines))
-
-            # 将所有行放入队列
-            for line in lines:
-                task_queue.put(line)
-
-            # 等待队列中的所有任务完成
-            task_queue.join()
-
-    print(f"任务完成，有效频道数：{valid_count[0]}, 无效频道数：{invalid_count[0]}, 总频道数：{len(lines)}")
-
+    with open(source_file_path, "r", encoding="utf-8") as source_file:  # 打开源文件
+        lines = source_file.readlines()  # 读取所有行s     
+    result_queue = queue.Queue()  # 创建队列
+    threads = []  # 初始化线程列表
+    for line in tqdm(lines, desc="检测进行中"):  # 显示进度条
+        thread = threading.Thread(target=process_line, args=(line, result_queue))  # 创建线程
+        thread.start()  # 启动线程
+        threads.append(thread)  # 将线程加入线程列表
+    for thread in threads:  # 等待所有线程完成
+        thread.join()
+    # 初始化计数器
+    valid_count = 0
+    invalid_count = 0
+    with open(output_file_path, "w", encoding="utf-8") as output_file:  # 打开输出文件
+        for _ in range(result_queue.qsize()):  # 使用队列的大小来循环
+            item = result_queue.get()  # 获取队列中的项目
+            # 只有在队列中存在有效的项目时才写入文件
+            if item[0] and item[1]:  # 确保channel_name和channel_url都不为None
+                output_file.write(f"{item[0]},{item[1]},{item[2]}\n")  # 写入文件
+                if item[2] == "有效":  # 统计有效源数量
+                    valid_count += 1
+                else:  # 统计无效源数量
+                    invalid_count += 1
+    print(f"任务完成, 有效源数量: {valid_count}, 无效源数量: {invalid_count}")  # 打印结果
 if __name__ == "__main__":
-    source_file_path = '2.txt'  # 替换为你的源文件路径
-    output_file_path = '2'  # 替换为你的输出文件路径,不要后缀名
-    main(source_file_path, output_file_path)
+    try:
+        source_file_path = "2.txt"  # 输入源文件路径
+        output_file_path = "2.txt"  # 设置输出文件路径
+        main(source_file_path, output_file_path)  # 调用main函数
+    except Exception as e:
+        print(f"程序发生错误: {e}")  # 打印错误信息
 # ############################################ ############################################ ###########################################
 def filter_lines(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:  # 打开文件
