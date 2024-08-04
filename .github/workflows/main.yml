@@ -26,7 +26,7 @@ jobs:
           pip install selenium requests futures eventlet opencv-python Beautifulsoup4 translate termcolor func_timeout replace input opencc pypinyin pytz tqdm
 
       - name: Run iptv
-        run: python ${{ github.workspace }}/IPTV/V4检测.py
+        run: python ${{ github.workspace }}/IPTV/V4检测1.py
 
       - name: Run iptv
         run: python ${{ github.workspace }}/IPTV/分类去重.py
