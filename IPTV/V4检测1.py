@@ -10,7 +10,7 @@ from tqdm import tqdm
 # 使用requests.get下载响应体来检查URL的有效性
 def checker(url):
     try:
-        response = requests.get(url, timeout=1)
+        response = requests.get(url, timeout=0.1)
         if response.status_code == 200 and response.content:
             return True
     except:
