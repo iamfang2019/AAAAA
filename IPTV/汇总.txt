@@ -1,4 +1,18 @@
 央视频道,#genre#
+CCTV4K,http://[2409:8087:2801:22:100::48]/wh7f454c46tw3853113344_884900799/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717810382&from=5&ocs=2_2409:8087:2801:22:100::36_80&hms_devid=1641&online=1717810382&vqe=3
+CCTV4K,http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV8K,http://hlslive-tx-cdn.ysp.cctv.cn:80/ysp/2020603421.m3u8
+CCTV164K,http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV16 4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
+4K时尚,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+广东综艺4k,http://113.118.13.150:808/hls/9/index.m3u8
+河南4K试验, http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+欢笑剧场4k,http://[2409:8087:2801:22:100::45]/wh7f454c46tw273889689_165724636/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815393&from=5&hms_devid=1640&online=1717815393&vqe=3
+求索记录4k,http://[2409:8087:2801:22:100::6f]/wh7f454c46tw310829647_836254127/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717815430&from=5&hms_devid=309&online=1717815430&vqe=3
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 CCTV1,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
 CCTV2,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
 CCTV3,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
@@ -18,9 +32,6 @@ CCTV15,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
 CCTV16,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 CCTV17,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
 CCTV地理世界,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
-CCTV16 4K,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 第一剧场,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
 影迷电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
 动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
@@ -36,9 +47,6 @@ CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?
 CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV4K,http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?
@@ -210,6 +218,9 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 影视频道,#genre#
+重温经典,http://[2409:8087:2801:22:100::76]/wh7f454c46tw1394075491_-2119906554/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1717812218&from=5&hms_devid=330&online=1717812218&vqe=3
+重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
+重温经典（卫星）,http://117.114.153.26:8180/TV00000000000000000007@HHZT
 爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225669/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -218,7 +229,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
-重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
