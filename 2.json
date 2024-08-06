@@ -3,7 +3,8 @@
 
 "lives": [{"name": "live","type": 0,"url": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/IPTVzb1/main/综合源.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
-"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/直播转点播.js","ext": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/tv.json",  "jar": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/A.jar"},
+"sites": [{"key": "电视","name": "💻电视直播","type": 3,"api": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/直播转点播.js",
+     "ext": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/zy.json",  "jar": "https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/A.jar"},
 {"key":"🎀豆瓣热播🎀","name":"🎀豆瓣热播🎀","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/83.jar"},
 ///////////勇往直前区//////////////////////http://twip.xztvtv.site/
 {"key":"勇往超清四","name":"🎀勇往超清🎀","type":3,"api":"csp_CandyMuj_taoju","jar":"https://mirror.v2gh.com/https://raw.githubusercontent.com/frxz751113/AAAAA/main/ZIP/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
