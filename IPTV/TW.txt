@@ -1,8 +1,3 @@
-2024/8/7 13:46:49
-# 报告由黑鸟播放器制作
-
-= 有效源 =
-
 卫视频道,#genre#
 凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视,http://extraott.com:80/live/7921751389/6097373662/62830.m3u8
@@ -299,7 +294,6 @@ nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
 中天娱乐,http://cdn9.1678520.xyz/xsj2.1.php?id=cti-yule
 猪哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀,http://cdn9.1678520.xyz/xsj2.1.php?id=zglgtx
-其他频道,#genre#
 城市电视,http://cdn9.1678520.xyz/xsj2.1.php?id=talentvisiontv
 东京电视台,http://cdn9.1678520.xyz/xsj2.1.php?id=tv-tokyo
 富士电视台,http://cdn9.1678520.xyz/xsj2.1.php?id=fujitv
@@ -337,10 +331,6 @@ Thrill,http://cdn9.1678520.xyz/xsj2.1.php?id=thrill
 影视2,http://37.27.111.214:8080/live/109/hls.m3u8
 影视3,http://37.27.111.214:8080/live/111/hls.m3u8
 综艺,http://37.27.111.214:8080/live/67/hls.m3u8
-
-= 超时源 =
-
-港澳频道,#genre#
 ASTRO华丽台,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
 ASTRO华丽台翡MAS,http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts&play_token=b0RYEywy0z
 CMUSIC音乐台,http://37.27.111.214:8080/live/72/hls.m3u8
