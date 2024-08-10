@@ -17,7 +17,7 @@ TVB千禧经典台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 美亚电影台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台[720p],http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
 18台[1080p],http://metatvpro.xyz:25461/W1045/4329/12209
@@ -68,7 +68,7 @@ MCE[720p],http://37.27.111.214:8080/live/98/hls.m3u8
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 MoMo综合[720p],rtmp://f13h.mine.nu/sat/tv761
 QA半岛新闻英语[720p],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
-RTHK31[720p],http://metatvpro.xyz:25461/W1045/4329/12217
+RTHK31[1080p],http://metatvpro.xyz:25461/W1045/4329/12217
 RTHK32[720p],http://metatvpro.xyz:25461/W1045/4329/12218
 RTHK32[720p],http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK33[720p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
