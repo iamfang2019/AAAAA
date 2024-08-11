@@ -19,7 +19,8 @@ TVB千禧经典台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 美亚电影台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台[720p],http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
 18台[1080p],http://metatvpro.xyz:25461/W1045/4329/12209
 AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
@@ -190,6 +191,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 新唐人[720p],http://37.27.111.214:8080/live/51/hls.m3u8
 新唐人亚太[720p],http://154.201.73.77:9000/live.m3u8?c=1
 旅游[720p],http://37.27.111.214:8080/live/82/hls.m3u8
+无线华丽台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线娱乐[720p],https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[1080p],http://metatvpro.xyz:25461/W1045/4329/12210
@@ -216,7 +218,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 澳门资讯[720p],http://61.244.22.5/ch5/info_ch5.live/index.m3u8
 澳门风云[720p],https://lunbo.freetv.top/yy/1459243913
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
-环球电视[720p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
+环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
