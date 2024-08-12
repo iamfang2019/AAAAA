@@ -90,7 +90,6 @@ TVB香港直播台[720p],https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chu
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 USFOXWeather[720p],http://doubleclicktv.live:80/70376812/52663544/994
 USFOX[720p],http://doubleclicktv.live:80/70376812/52663544/253196
-USLiveNOWfromFOX[720p],http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
 VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
