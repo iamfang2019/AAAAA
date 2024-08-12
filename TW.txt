@@ -1,6 +1,5 @@
 港澳频道,#genre#
 AMC电影[720p],http://61.221.215.25:8800/hls/43/index.m3u8
-ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
 ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts&play_token=b0RYEywy0z
 ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
 ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts&play_token=b0RYEywy0z
@@ -10,7 +9,6 @@ TVB功夫台[720p],https://v2h.jdshipin.com/asia_action/asia_action.stream/chunk
 TVB千禧经典台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
-华纳影视[720p],http://metatvpro.xyz:25461/W1045/4329/13145
 台湾番薯音乐台[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
 影剧[720p],http://37.27.111.214:8080/live/88/hls.m3u8
 影视2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
@@ -19,10 +17,10 @@ TVB千禧经典台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 美亚电影台[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影台[720p],http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
-18台[1080p],http://metatvpro.xyz:25461/W1045/4329/12209
+18台[720p],http://metatvpro.xyz:25461/W1045/4329/12209
 AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 CMUSIC[720p],http://37.27.111.214:8080/live/72/hls.m3u8
@@ -45,12 +43,14 @@ FOXBusiness[720p],http://41.205.93.154/FOXBUSINESS/index.m3u8
 FOXNEWSCHANNEL[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19147/index.m3u8
 FOXNEWS[720p],http://doubleclicktv.live:80/70376812/52663544/1038
 FOXNews[720p],https://gat.zhoujie218.top/beesport/FOX_NEWS_Live_TV
+FOXSPORTS1TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78936.ts
 FOXSPORTS1[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7322/index.m3u8
 FOXSPORTS1[720p],http://doubleclicktv.live:80/70376812/52663544/915
 FOXSPORTS2TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
 FOXSPORTS2[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
 FOXSPORTS2[720p],http://doubleclicktv.live:80/70376812/52663544/914
 FOXSPORTS2[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174670&extension=ts&play_token=tvwbpRhuaP
+FOXSPORTSNETBASE[720p],http://doubleclicktv.live:80/70376812/52663544/910
 FOXSPORTSOKLAHOMA[720p],https://stream1.freetv.fun/918fff19fa275cd3a8655142089c1adaeb3c0375568961ae42ea4707d12d4a2f.m3u8
 FOXSPORTSSUN[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19145/index.m3u8
 FOXSPORTSSUN[720p],http://doubleclicktv.live:80/70376812/52663544/904
@@ -73,7 +73,6 @@ QA半岛新闻英语[720p],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 ROCK[720p],http://37.27.111.214:8080/live/70/hls.m3u8
 RTHK31[720p],http://metatvpro.xyz:25461/W1045/4329/12217
 RTHK32[720p],http://metatvpro.xyz:25461/W1045/4329/12218
-RTHK32[720p],http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK33[720p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RUTVBRICS[1080p],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 SKYSPORTSMAINEVENT[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7337/index.m3u8
@@ -97,6 +96,7 @@ TVB香港直播台[720p],https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chu
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 USFOXWeather[720p],http://doubleclicktv.live:80/70376812/52663544/994
 USFOX[720p],http://doubleclicktv.live:80/70376812/52663544/253196
+USLiveNOWfromFOX[720p],http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
 VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
@@ -212,7 +212,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门资讯[720p],http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-澳门风云[720p],https://lunbo.freetv.top/yy/1459243913
+澳门风云[1080p],https://lunbo.freetv.top/yy/1459243913
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
@@ -236,6 +236,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台[1080p],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8
+面包台[720p],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港33台[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 香港34台[1080p],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 香港35台[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
