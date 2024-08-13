@@ -1,5 +1,7 @@
 港澳频道,#genre#
 AMC电影[720p],http://61.221.215.25:8800/hls/43/index.m3u8
+ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
+ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts&play_token=b0RYEywy0z
 ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
 ASTRO华丽台[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts&play_token=b0RYEywy0z
 TVBj2开码[720p],https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
@@ -17,7 +19,6 @@ TVB功夫台[EXO][EXO][720p],https://v2h.jdshipin.com/asia_action/asia_action.st
 翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 
 18台[720p],http://metatvpro.xyz:25461/W1045/4329/12209
-AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 CMUSIC[720p],http://37.27.111.214:8080/live/72/hls.m3u8
 CNBC[720p],http://37.27.111.214:8080/live/102/hls.m3u8
@@ -106,8 +107,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 俄罗斯TivikomUlanUdje[1080p],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 全球财经[720p],http://37.27.111.214:8080/live/64/hls.m3u8
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
@@ -172,7 +171,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 无线娱乐[EXO][720p],https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],http://metatvpro.xyz:25461/W1045/4329/12210
-明珠台[720p],http://metatvpro.xyz:25461/W1045/4329/12207
+明珠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12207
 民视[720p],rtmp://220.130.201.73/sat/tv051
 民视[720p],rtmp://f13h.mine.nu/sat/tv051
 港台电视33[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
