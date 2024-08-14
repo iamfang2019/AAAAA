@@ -7,7 +7,6 @@ TVB功夫台[EXO][720p],http://v2h.jdshipin.com/asia_action/asia_action.stream/c
 TVB功夫台[EXO][EXO][720p],https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
-华纳影视[720p],http://metatvpro.xyz:25461/W1045/4329/13145
 台湾番薯音乐台[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
 影剧[720p],http://37.27.111.214:8080/live/88/hls.m3u8
 影视2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
@@ -18,7 +17,6 @@ TVB功夫台[EXO][EXO][720p],https://v2h.jdshipin.com/asia_action/asia_action.st
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
 18台[720p],http://metatvpro.xyz:25461/W1045/4329/12209
-AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 CMUSIC[720p],http://37.27.111.214:8080/live/72/hls.m3u8
 CNBC[720p],http://37.27.111.214:8080/live/102/hls.m3u8
