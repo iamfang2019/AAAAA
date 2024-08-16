@@ -1,5 +1,7 @@
 港澳频道,#genre#
 AMC电影[720p],http://61.221.215.25:8800/hls/43/index.m3u8
+ASTRO华丽台[1080p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts
+ASTRO华丽台[1080p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:51:45:21&stream=571187&extension=ts&play_token=b0RYEywy0z
 ASTRO华丽台[1080p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=571187&extension=ts
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
@@ -170,7 +172,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 无线娱乐[EXO][720p],https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],http://metatvpro.xyz:25461/W1045/4329/12210
-明珠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12207
+明珠台[720p],http://metatvpro.xyz:25461/W1045/4329/12207
 智林体育[720p],http://37.27.111.214:8080/live/77/hls.m3u8
 民视[720p],http://37.27.111.214:8080/live/6/hls.m3u8
 民视[720p],rtmp://220.130.201.73/sat/tv051
@@ -189,7 +191,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
 澳门资讯[720p],http://61.244.22.5/ch5/info_ch5.live/index.m3u8
-澳门风云[720p],https://lunbo.freetv.top/yy/1459243913
+澳门风云[1080p],https://lunbo.freetv.top/yy/1459243913
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 番薯111[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
@@ -210,7 +212,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 翡翠台[1080p],http://113.83.152.56:8182/bynumber/1
 翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台[1080p],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
-翡翠台[720p],http://metatvpro.xyz:25461/W1045/4329/12205
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8
 面包台[720p],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港33台[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
