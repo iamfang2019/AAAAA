@@ -20,7 +20,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
-18台[720p],http://metatvpro.xyz:25461/W1045/4329/12209
+18台[1080p],http://metatvpro.xyz:25461/W1045/4329/12209
 8TV[720p],https://test.zapi.us.kg/?id=8tv
 AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
 AXN[720p],https://test.zapi.us.kg/?id=axn
@@ -43,7 +43,6 @@ ColorsTamil[720p],https://test.zapi.us.kg/?id=colorstamil
 DMAX[720p],https://test.zapi.us.kg/?id=dmax
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
 DidikTV7[720p],https://test.zapi.us.kg/?id=didiktv7
-Dreamworks[720p],http://metatvpro.xyz:25461/W1045/4329/14225
 ELEVEN1[720p],rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2[720p],rtmp://f13h.mine.nu/sat/tv741
 ELEVENSPORTS1PL[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2518/index.m3u
@@ -130,6 +129,7 @@ TVBTHAI[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 TVB亚洲剧台[720p],https://test.zapi.us.kg/?id=tvb-asia-drama
 TVB华剧台[720p],https://test.zapi.us.kg/?id=golden-chinese-drama
 TVB娱乐新闻[720p],http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻台[720p],https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB无线新闻[720p],http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB星河[720p],http://metatvpro.xyz:25461/W1045/4329/12206
 TVB星河台[720p],https://test.zapi.us.kg/?id=tvb-xinghe
@@ -158,6 +158,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
 三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
+东京电视台[544p][720p],https://test.zapi.us.kg/?id=tv-tokyo
 东森幼幼台[720p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森戏剧[1080p],https://test.zapi.us.kg/?id=ebc-drama
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
@@ -194,7 +195,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一[1080p],https://test.zapi.us.kg/?id=gtv27
+八大第一[720p],https://test.zapi.us.kg/?id=gtv27
 八大精彩台[1080p],https://test.zapi.us.kg/?id=gtv-jct
 八大综合[720p],https://test.zapi.us.kg/?id=gtv28
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
@@ -283,7 +284,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],http://metatvpro.xyz:25461/W1045/4329/12210
 无线新闻台[720p],https://test.zapi.us.kg/?id=tvb-news
-明珠台[720p],http://metatvpro.xyz:25461/W1045/4329/12207
+明珠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12207
 智林体育[720p],http://37.27.111.214:8080/live/77/hls.m3u8
 智林体育台[720p],https://test.zapi.us.kg/?id=zl-sports
 民视[720p],rtmp://220.130.201.73/sat/tv051
@@ -318,7 +319,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
+纬来体育[720p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://220.130.201.73/sat/tv721
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
