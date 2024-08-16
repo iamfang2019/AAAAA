@@ -20,7 +20,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
-18台[1080p],http://metatvpro.xyz:25461/W1045/4329/12209
+18台[720p],http://metatvpro.xyz:25461/W1045/4329/12209
 8TV[720p],https://test.zapi.us.kg/?id=8tv
 AXN[1080p],http://metatvpro.xyz:25461/W1045/4329/12700
 AXN[720p],https://test.zapi.us.kg/?id=axn
@@ -130,7 +130,6 @@ TVBTHAI[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 TVB亚洲剧台[720p],https://test.zapi.us.kg/?id=tvb-asia-drama
 TVB华剧台[720p],https://test.zapi.us.kg/?id=golden-chinese-drama
 TVB娱乐新闻[720p],http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB娱乐新闻台[720p],https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVB无线新闻[720p],http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB星河[720p],http://metatvpro.xyz:25461/W1045/4329/12206
 TVB星河台[720p],https://test.zapi.us.kg/?id=tvb-xinghe
@@ -257,6 +256,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 大爱二台[720p],https://test.zapi.us.kg/?id=daai2
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天映频道[720p],https://test.zapi.us.kg/?id=celestial
+天良综合台[1080p],http://60.248.91.20:8000/main
 好消息[1080p],https://test.zapi.us.kg/?id=goodtv
 好消息综合台[720p],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好莱坞电影[1080p],http://metatvpro.xyz:25461/W1045/4329/12284
@@ -283,7 +283,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],http://metatvpro.xyz:25461/W1045/4329/12210
 无线新闻台[720p],https://test.zapi.us.kg/?id=tvb-news
-明珠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12207
+明珠台[720p],http://metatvpro.xyz:25461/W1045/4329/12207
 智林体育[720p],http://37.27.111.214:8080/live/77/hls.m3u8
 智林体育台[720p],https://test.zapi.us.kg/?id=zl-sports
 民视[720p],rtmp://220.130.201.73/sat/tv051
