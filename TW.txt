@@ -52,6 +52,7 @@ ELEVENSPORTS2PL[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index
 ELEVENSPORTS2[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u
 ELEVENSPORTS3[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m3u
 ELEVENSPORTSNETWORK[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/40396.ts
+ELEVENSPORTS[720p],http://doubleclicktv.live:80/70376812/52663544/933
 ELTA体育4台[720p],https://test.zapi.us.kg/?id=elta-sport4
 ELTA综合台[720p],https://test.zapi.us.kg/?id=elta-zonghe
 ELTV生活英語台[720p],https://test.zapi.us.kg/?id=eltv
@@ -64,12 +65,15 @@ FOXNEWSCHANNEL[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19147/index
 FOXNEWS[720p],http://doubleclicktv.live:80/70376812/52663544/1038
 FOXSPORTS1TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78936.ts
 FOXSPORTS1[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7322/index.m3u8
+FOXSPORTS1[720p],http://doubleclicktv.live:80/70376812/52663544/915
 FOXSPORTS2TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
 FOXSPORTS2[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
+FOXSPORTS2[720p],http://doubleclicktv.live:80/70376812/52663544/914
 FOXSPORTS2[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174670&extension=ts&play_token=tvwbpRhuaP
 FOXSPORTSNETBASE[720p],http://doubleclicktv.live:80/70376812/52663544/910
 FOXSPORTSOKLAHOMA[720p],https://stream1.freetv.fun/918fff19fa275cd3a8655142089c1adaeb3c0375568961ae42ea4707d12d4a2f.m3u8
 FOXSPORTSSUN[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19145/index.m3u8
+FOXSPORTSSUN[720p],http://doubleclicktv.live:80/70376812/52663544/904
 FOXSPORTS[720p],http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7323/index.m3u8
 FOXSPORTS[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174669&extension=ts&play_token=LH7eWcM8g9
 FOX新闻[720p],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -155,10 +159,10 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
 三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
-东森幼幼台[720p],https://test.zapi.us.kg/?id=ebc-yoyo
+东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森戏剧[1080p],https://test.zapi.us.kg/?id=ebc-drama
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
-东森洋片[720p],https://test.zapi.us.kg/?id=ebc-emovie
+东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
 东森电影[720p],https://test.zapi.us.kg/?id=ebc-movie
 东森财经新闻[720p],https://test.zapi.us.kg/?id=ebc-finance
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
@@ -257,7 +261,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 好消息[720p],https://test.zapi.us.kg/?id=goodtv
 好消息综合台[720p],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好莱坞电影[1080p],http://metatvpro.xyz:25461/W1045/4329/12284
-好莱坞电影[720p],https://test.zapi.us.kg/?id=hollywood-movie
+好莱坞电影[1080p],https://test.zapi.us.kg/?id=hollywood-movie
 宇宙视界[1080p],https://www.goodiptv.club/douyu/9498354
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇新闻台[720p],https://test.zapi.us.kg/?id=global-news
@@ -280,7 +284,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 无线新闻[1080p],http://live.cooltv.top/tv/tvb.php?id=2
 无线新闻台[720p],http://metatvpro.xyz:25461/W1045/4329/12210
 无线新闻台[720p],https://test.zapi.us.kg/?id=tvb-news
-明珠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12207
+明珠台[720p],http://metatvpro.xyz:25461/W1045/4329/12207
 智林体育[720p],http://37.27.111.214:8080/live/77/hls.m3u8
 智林体育台[720p],https://test.zapi.us.kg/?id=zl-sports
 民视[720p],rtmp://220.130.201.73/sat/tv051
@@ -315,7 +319,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-纬来体育[720p],https://test.zapi.us.kg/?id=videoland-sport
+纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://220.130.201.73/sat/tv721
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来日本[720p],https://test.zapi.us.kg/?id=videoland-japan
@@ -337,7 +341,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 达文西频道[1080p],https://test.zapi.us.kg/?id=da-vinci
 迪士尼频道[720p],https://test.zapi.us.kg/?id=disney
 镜新闻[720p],http://37.27.111.214:8080/live/62/hls.m3u8
-靖天日本台[1080p],https://test.zapi.us.kg/?id=jtrb
+靖天日本台[720p],https://test.zapi.us.kg/?id=jtrb
 靖天映画[1080p],https://test.zapi.us.kg/?id=jtyh
 靖天综合台[1080p],https://test.zapi.us.kg/?id=jtzh
 靖天育乐台[1080p],https://test.zapi.us.kg/?id=jtyl
@@ -349,4 +353,4 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 香港35台[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 龙华戏剧[720p],http://37.27.111.214:8080/live/41/hls.m3u8
 龙华日韩[720p],http://37.27.111.214:8080/live/42/hls.m3u8
-龙祥电影台[720p],https://test.zapi.us.kg/?id=lstime
+龙祥电影台[1080p],https://test.zapi.us.kg/?id=lstime
