@@ -173,7 +173,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中天亚洲[720p],https://test.zapi.us.kg/?id=cti-asia
 中天娱乐[720p],https://test.zapi.us.kg/?id=cti-yule
-中天综合[720p],https://test.zapi.us.kg/?id=ctitv36
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
 中视[720p],https://test.zapi.us.kg/?id=ctv
 中视[720p],rtmp://220.130.201.73/sat/tv091
