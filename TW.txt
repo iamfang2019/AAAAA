@@ -13,7 +13,9 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
+靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
@@ -155,8 +157,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
-三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
-东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
+三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
 东森戏剧[1080p],https://test.zapi.us.kg/?id=ebc-drama
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[720p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -192,6 +193,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一[720p],https://test.zapi.us.kg/?id=gtv27
+八大精彩台[1080p],https://test.zapi.us.kg/?id=gtv-jct
 八大综合[720p],https://test.zapi.us.kg/?id=gtv28
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺[1080p],https://test.zapi.us.kg/?id=grt
@@ -322,7 +324,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 美国中文电视[720p],https://test.zapi.us.kg/?id=sinovision
 翡翠台[1080p],http://113.83.152.56:8182/bynumber/1
-翡翠台[1080p],http://metatvpro.xyz:25461/W1045/4329/12205
 翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 翡翠台[1080p],http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠台[720p],https://test.zapi.us.kg/?id=feicui
