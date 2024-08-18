@@ -14,6 +14,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
+靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
@@ -40,7 +41,6 @@ ColorsTamil[720p],https://test.zapi.us.kg/?id=colorstamil
 DMAX[720p],https://test.zapi.us.kg/?id=dmax
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
 DidikTV7[720p],https://test.zapi.us.kg/?id=didiktv7
-Dreamworks[720p],http://metatvpro.xyz:25461/W1045/4329/14225
 ELEVEN1[720p],rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2[720p],rtmp://f13h.mine.nu/sat/tv741
 ELEVENSPORTS1PL[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2518/index.m3u
@@ -66,6 +66,7 @@ FOXSPORTS1[720p],http://doubleclicktv.live:80/70376812/52663544/915
 FOXSPORTS2TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
 FOXSPORTS2[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
 FOXSPORTS2[720p],http://doubleclicktv.live:80/70376812/52663544/914
+FOXSPORTS2[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174670&extension=ts&play_token=tvwbpRhuaP
 FOXSPORTSNETBASE[720p],http://doubleclicktv.live:80/70376812/52663544/910
 FOXSPORTSOKLAHOMA[720p],https://stream1.freetv.fun/918fff19fa275cd3a8655142089c1adaeb3c0375568961ae42ea4707d12d4a2f.m3u8
 FOXSPORTSSUN[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19145/index.m3u8
@@ -97,7 +98,7 @@ OKEY[720p],https://test.zapi.us.kg/?id=okey
 PremierSports[720p],https://test.zapi.us.kg/?id=premiersports
 QA半岛新闻英语[720p],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp
 ROCK[720p],http://37.27.111.214:8080/live/70/hls.m3u8
-RTHK31[1080p],http://metatvpro.xyz:25461/W1045/4329/12217
+RTHK31[720p],http://metatvpro.xyz:25461/W1045/4329/12217
 RTHK32[720p],http://metatvpro.xyz:25461/W1045/4329/12218
 RTHK33[720p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RUTVBRICS[1080p],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
@@ -112,7 +113,7 @@ SunLife[720p],https://test.zapi.us.kg/?id=sunlife
 SunMusic[720p],https://test.zapi.us.kg/?id=sunmusic
 SunNews[720p],https://test.zapi.us.kg/?id=sunnews
 SunTV[720p],https://test.zapi.us.kg/?id=suntv
-TNTSPORTS[1080p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
+TNTSPORTS[720p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 TV1[720p],https://test.zapi.us.kg/?id=tv1-my
 TV2[720p],https://test.zapi.us.kg/?id=tv2-my
 TV3[720p],https://test.zapi.us.kg/?id=tv3-my
@@ -168,6 +169,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中天亚洲[720p],https://test.zapi.us.kg/?id=cti-asia
 中天娱乐[720p],https://test.zapi.us.kg/?id=cti-yule
+中天综合[720p],https://test.zapi.us.kg/?id=ctitv36
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
 中视[720p],https://test.zapi.us.kg/?id=ctv
 中视[720p],rtmp://220.130.201.73/sat/tv091
@@ -190,6 +192,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大第一[720p],https://test.zapi.us.kg/?id=gtv27
+八大精彩台[1080p],https://test.zapi.us.kg/?id=gtv-jct
 八大综合[720p],https://test.zapi.us.kg/?id=gtv28
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺[1080p],https://test.zapi.us.kg/?id=grt
