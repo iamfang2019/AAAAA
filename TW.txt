@@ -48,8 +48,6 @@ ELEVENSPORTS1[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m
 ELEVENSPORTS2PL[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 ELEVENSPORTS2[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u
 ELEVENSPORTS3[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m3u
-ELEVENSPORTSNETWORK[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/40396.ts
-ELEVENSPORTS[720p],http://doubleclicktv.live:80/70376812/52663544/933
 ELTA体育4台[720p],https://test.zapi.us.kg/?id=elta-sport4
 ELTA综合台[720p],https://test.zapi.us.kg/?id=elta-zonghe
 ELTV生活英語台[720p],https://test.zapi.us.kg/?id=eltv
@@ -67,12 +65,10 @@ FOXSPORTS2TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
 FOXSPORTS2[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
 FOXSPORTS2[720p],http://doubleclicktv.live:80/70376812/52663544/914
 FOXSPORTS2[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174670&extension=ts&play_token=tvwbpRhuaP
-FOXSPORTSNETBASE[720p],http://doubleclicktv.live:80/70376812/52663544/910
 FOXSPORTSOKLAHOMA[720p],https://stream1.freetv.fun/918fff19fa275cd3a8655142089c1adaeb3c0375568961ae42ea4707d12d4a2f.m3u8
 FOXSPORTSSUN[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19145/index.m3u8
 FOXSPORTSSUN[720p],http://doubleclicktv.live:80/70376812/52663544/904
 FOXSPORTS[720p],http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7323/index.m3u8
-FOXSPORTS[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174669&extension=ts&play_token=LH7eWcM8g9
 FOX新闻[720p],https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 GOOD2[720p],http://37.27.111.214:8080/live/99/hls.m3u8
 GRT[900p],https://stream1.freetv.fun/c8c19050366334011b277c1adf35b8c04b7c23086b3426230aa509101192f792.m3u8
@@ -114,7 +110,7 @@ SunLife[720p],https://test.zapi.us.kg/?id=sunlife
 SunMusic[720p],https://test.zapi.us.kg/?id=sunmusic
 SunNews[720p],https://test.zapi.us.kg/?id=sunnews
 SunTV[720p],https://test.zapi.us.kg/?id=suntv
-TNTSPORTS[720p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
+TNTSPORTS[1080p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 TV1[720p],https://test.zapi.us.kg/?id=tv1-my
 TV2[720p],https://test.zapi.us.kg/?id=tv2-my
 TV3[720p],https://test.zapi.us.kg/?id=tv3-my
@@ -128,7 +124,6 @@ TVB亚洲剧台[720p],https://test.zapi.us.kg/?id=tvb-asia-drama
 TVB华剧台[720p],https://test.zapi.us.kg/?id=golden-chinese-drama
 TVB娱乐新闻[720p],http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB娱乐新闻台[720p],https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-TVB无线新闻[720p],http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB星河[720p],http://metatvpro.xyz:25461/W1045/4329/12206
 TVB星河台[720p],https://test.zapi.us.kg/?id=tvb-xinghe
 TVB泰国台[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
@@ -180,7 +175,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
 亚洲卫视[1080p],https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亚洲旅游台[720p],http://37.27.111.214:8080/live/10/hls.m3u8
-亚洲旅游台[720p],https://test.zapi.us.kg/?id=asia-travel
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -192,8 +186,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
-八大第一[720p],https://test.zapi.us.kg/?id=gtv27
-八大精彩台[1080p],https://test.zapi.us.kg/?id=gtv-jct
+八大第一[1080p],https://test.zapi.us.kg/?id=gtv27
 八大综合[720p],https://test.zapi.us.kg/?id=gtv28
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺[1080p],https://test.zapi.us.kg/?id=grt
@@ -257,7 +250,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 好消息综合台[720p],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好莱坞电影[1080p],http://metatvpro.xyz:25461/W1045/4329/12284
 好莱坞电影[720p],https://test.zapi.us.kg/?id=hollywood-movie
-宇宙视界[1080p],https://www.goodiptv.club/douyu/9498354
+宇宙视界[720p],https://www.goodiptv.club/douyu/9498354
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇新闻台[720p],https://test.zapi.us.kg/?id=global-news
 寰宇财经[720p],http://37.27.111.214:8080/live/65/hls.m3u8
