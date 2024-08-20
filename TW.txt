@@ -15,8 +15,6 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
 翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
-重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
-靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
@@ -164,6 +162,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中天亚洲[720p],https://test.zapi.us.kg/?id=cti-asia
 中天娱乐[720p],https://test.zapi.us.kg/?id=cti-yule
+中天综合[1080p],https://test.zapi.us.kg/?id=ctitv36
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
 中视[720p],https://test.zapi.us.kg/?id=ctv
 中视[720p],rtmp://220.130.201.73/sat/tv091
@@ -181,7 +180,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 俄罗斯TivikomUlanUdje[1080p],http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
 全球财经[720p],http://37.27.111.214:8080/live/64/hls.m3u8
-八大娱乐[720p],https://test.zapi.us.kg/?id=gtv-86
 八大戏剧[720p],http://61.221.215.25:8800/hls/39/index.m3u8
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
@@ -284,8 +282,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 港台电视35[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?
 港台电视35[720p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?
 港石金曲[720p],http://61.221.215.25:8800/hls/49/index.m3u8
-澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/index.m3u8
-澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门体育[720p],http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
