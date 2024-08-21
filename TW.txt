@@ -54,7 +54,7 @@ RTHK33[720p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/strea
 RUTVBRICS[1080p],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 SKYSPORTSMAINEVENT[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7337/index.m3u8
 SKYSPORTSMAINEVENTᴴᴰ[1080p],http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
-TNTSPORTS[1080p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
+TNTSPORTS[720p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TVBTHAI[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
@@ -64,7 +64,6 @@ TVB香港直播台[720p],https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chu
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 USFOXWeather[720p],http://doubleclicktv.live:80/70376812/52663544/994
 USFOX[720p],http://doubleclicktv.live:80/70376812/52663544/253196
-USLiveNOWfromFOX[720p],http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
 VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
@@ -97,10 +96,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 半岛新闻阿拉伯[720p],http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛电视台[720p],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 华视新闻[720p],http://37.27.111.214:8080/live/8/hls.m3u8
-博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
-博斯网球[720p],http://37.27.111.214:8080/live/16/hls.m3u8
-博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
-博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 台视新闻[1080p],https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻台[1080p],https://live.wcetv.com/hls/master-ttvnews.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
@@ -142,8 +137,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 港台电视35[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?
 港台电视35[720p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?
 港石金曲[720p],http://61.221.215.25:8800/hls/49/index.m3u8
-澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/index.m3u8
-澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门体育[720p],http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
