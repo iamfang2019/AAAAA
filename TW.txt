@@ -45,6 +45,7 @@ ELEVENSPORTS2PL[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index
 ELEVENSPORTS2[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2532/index.m3u
 ELEVENSPORTS3[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m3u
 ELTA体育4台[720p],https://test.zapi.us.kg/?id=elta-sport4
+ELTA综合台[720p],https://test.zapi.us.kg/?id=elta-zonghe
 ELTV生活英語台[720p],https://test.zapi.us.kg/?id=eltv
 ELTV生活英语台[720p],http://37.27.111.214:8080/live/56/hls.m3u8
 ESPN[720p],https://test.zapi.us.kg/?id=espn
@@ -116,6 +117,7 @@ TVBTHAI[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 TVB亚洲剧台[720p],https://test.zapi.us.kg/?id=tvb-asia-drama
 TVB华剧台[720p],https://test.zapi.us.kg/?id=golden-chinese-drama
 TVB无线新闻[720p],http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB星河台[720p],https://test.zapi.us.kg/?id=tvb-xinghe
 TVB泰国台[1080p],https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist.m3u8
 TVB粤语片台[720p],https://test.zapi.us.kg/?id=tvb-yueyu
 TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
@@ -140,7 +142,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
-三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -203,7 +205,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 博斯运动-2[720p],https://test.zapi.us.kg/?id=sportcast2
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯高球-1[720p],https://test.zapi.us.kg/?id=sportcast-golf1
-博斯高球-2[480p][720p],https://test.zapi.us.kg/?id=sportcast-golf2
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 博斯魅力[720p],https://test.zapi.us.kg/?id=sportcast-meili
 台视[720p],rtmp://f13h.mine.nu/sat/tv071
@@ -306,7 +307,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 靖天映画[1080p],https://test.zapi.us.kg/?id=jtyh
 靖天综合台[1080p],https://test.zapi.us.kg/?id=jtzh
 靖天育乐台[1080p],https://test.zapi.us.kg/?id=jtyl
-靖天资讯台[1080p],https://test.zapi.us.kg/?id=jtzx
 非凡新闻[720p],https://test.zapi.us.kg/?id=unique-business-news
 面包台[720p],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港33台[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
