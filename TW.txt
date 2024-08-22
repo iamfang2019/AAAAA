@@ -64,6 +64,7 @@ FOXSPORTS2TV[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/78937.ts
 FOXSPORTS2[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/7323/index.m3u8
 FOXSPORTS2[720p],http://doubleclicktv.live:80/70376812/52663544/914
 FOXSPORTS2[720p],http://line.greatstar.me:80/play/live.php?mac=00:1A:79:B5:AD:4C&stream=174670&extension=ts&play_token=tvwbpRhuaP
+FOXSPORTSNETBASE[720p],http://doubleclicktv.live:80/70376812/52663544/910
 FOXSPORTSOKLAHOMA[720p],https://stream1.freetv.fun/918fff19fa275cd3a8655142089c1adaeb3c0375568961ae42ea4707d12d4a2f.m3u8
 FOXSPORTSSUN[720p],http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19145/index.m3u8
 FOXSPORTSSUN[720p],http://doubleclicktv.live:80/70376812/52663544/904
@@ -107,7 +108,7 @@ SunLife[720p],https://test.zapi.us.kg/?id=sunlife
 SunMusic[720p],https://test.zapi.us.kg/?id=sunmusic
 SunNews[720p],https://test.zapi.us.kg/?id=sunnews
 SunTV[720p],https://test.zapi.us.kg/?id=suntv
-TNTSPORTS[1080p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
+TNTSPORTS[720p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 TV1[720p],https://test.zapi.us.kg/?id=tv1-my
 TV2[720p],https://test.zapi.us.kg/?id=tv2-my
 TV3[720p],https://test.zapi.us.kg/?id=tv3-my
@@ -133,6 +134,7 @@ USLiveNOWfromFOX[720p],http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
 VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 ViuTV6[1080p],https://test.zapi.us.kg/?id=viutv6
+ViuTV[720p],https://test.zapi.us.kg/?id=viutv
 W-Sport[720p],https://test.zapi.us.kg/?id=w-sport
 WWE[720p],https://test.zapi.us.kg/?id=wwe
 ZeeCinemaHD[720p],https://test.zapi.us.kg/?id=zeecinemahd
@@ -163,7 +165,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中视新闻[720p],https://test.zapi.us.kg/?id=ctv-news
 中视菁采台[720p],https://test.zapi.us.kg/?id=bravo
 中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
-亚洲卫视[1080p],https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亚洲旅游台[720p],http://37.27.111.214:8080/live/10/hls.m3u8
 亚洲旅游台[720p],https://test.zapi.us.kg/?id=asia-travel
 人间卫视[720p],http://37.27.111.214:8080/live/101/hls.m3u8
