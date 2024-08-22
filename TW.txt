@@ -12,8 +12,9 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
-翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
+靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
@@ -103,7 +104,7 @@ SunLife[720p],https://test.zapi.us.kg/?id=sunlife
 SunMusic[720p],https://test.zapi.us.kg/?id=sunmusic
 SunNews[720p],https://test.zapi.us.kg/?id=sunnews
 SunTV[720p],https://test.zapi.us.kg/?id=suntv
-TNTSPORTS[720p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
+TNTSPORTS[1080p],http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 TV1[720p],https://test.zapi.us.kg/?id=tv1-my
 TV2[720p],https://test.zapi.us.kg/?id=tv2-my
 TV3[720p],https://test.zapi.us.kg/?id=tv3-my
@@ -140,7 +141,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
-三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
