@@ -8,7 +8,6 @@ AMC电影[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 影视3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
 影视[720p],http://37.27.111.214:8080/live/108/hls.m3u8
 影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
-翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 龙华电影台[720p],http://37.27.111.214:8080/live/19/hls.m3u8
 
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
@@ -97,6 +96,10 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 半岛新闻阿拉伯[720p],http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛电视台[720p],http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 华视新闻[720p],http://37.27.111.214:8080/live/8/hls.m3u8
+博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
+博斯网球[720p],http://37.27.111.214:8080/live/16/hls.m3u8
+博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
+博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 台视新闻[1080p],https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻台[1080p],https://live.wcetv.com/hls/master-ttvnews.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
@@ -138,6 +141,8 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 港台电视35[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?
 港台电视35[720p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8?
 港石金曲[720p],http://61.221.215.25:8800/hls/49/index.m3u8
+澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/index.m3u8
+澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳门体育[720p],http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
