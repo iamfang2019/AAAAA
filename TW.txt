@@ -36,7 +36,7 @@ CinemaWorld[720p],http://37.27.111.214:8080/live/30/hls.m3u8
 Cinemax[720p],https://test.zapi.us.kg/?id=cinemax
 ColorsHindi[720p],https://test.zapi.us.kg/?id=colorshindi
 ColorsTamil[720p],https://test.zapi.us.kg/?id=colorstamil
-DMAX[720p],https://test.zapi.us.kg/?id=dmax
+DMAX[1080p],https://test.zapi.us.kg/?id=dmax
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
 DidikTV7[720p],https://test.zapi.us.kg/?id=didiktv7
 ELEVEN1[720p],rtmp://f13h.mine.nu/sat/tv731
@@ -49,7 +49,6 @@ ELEVENSPORTS3[720p],http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2533/index.m
 ELEVENSPORTSNETWORK[720p],http://supersonictv.live:8080/live/Derrick/Hitman50$/40396.ts
 ELEVENSPORTS[720p],http://doubleclicktv.live:80/70376812/52663544/933
 ELTA体育4台[720p],https://test.zapi.us.kg/?id=elta-sport4
-ELTA综合台[720p],https://test.zapi.us.kg/?id=elta-zonghe
 ELTV生活英語台[720p],https://test.zapi.us.kg/?id=eltv
 ELTV生活英语台[720p],http://37.27.111.214:8080/live/56/hls.m3u8
 ESPN[720p],https://test.zapi.us.kg/?id=espn
@@ -236,6 +235,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 天良综合台[1080p],http://60.248.91.20:8000/main
 好消息综合台[720p],https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 好莱坞电影[1080p],https://test.zapi.us.kg/?id=hollywood-movie
+宇宙视界[1080p],https://www.goodiptv.club/douyu/9498354
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇新闻台[720p],https://test.zapi.us.kg/?id=global-news
 寰宇财经[720p],http://37.27.111.214:8080/live/65/hls.m3u8
@@ -288,10 +288,10 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
+纬来体育[720p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
-纬来日本[1080p],https://test.zapi.us.kg/?id=videoland-japan
+纬来日本[720p],https://test.zapi.us.kg/?id=videoland-japan
 纬来精采[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来综合[720p],https://test.zapi.us.kg/?id=videoland
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
@@ -309,7 +309,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 靖天日本台[1080p],https://test.zapi.us.kg/?id=jtrb
 靖天资讯台[1080p],https://test.zapi.us.kg/?id=jtzx
 非凡新闻[720p],https://test.zapi.us.kg/?id=unique-business-news
-面包台[1080p],https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港33台[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 香港34台[1080p],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 香港35台[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
