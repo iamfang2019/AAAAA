@@ -2,9 +2,11 @@
 AMC电影[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
+中视经典台[720p],https://test.zapi.us.kg/?id=ctv-classic
 台湾番薯音乐台[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8?音乐
+影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 靖天戏剧台[1080p],https://test.zapi.us.kg/?id=jtxjt
@@ -60,6 +62,7 @@ GlobalTrekker[720p],https://test.zapi.us.kg/?id=globaltrekker
 HITSMovies[720p],https://test.zapi.us.kg/?id=hitsmovies
 HOY国际财经[720p],https://test.zapi.us.kg/?id=hoy-ibc
 KLT-靖天国际台[1080p],https://test.zapi.us.kg/?id=jtgj
+KOREA[720p],http://37.27.111.214:8080/live/52/hls.m3u8
 KTVHD[720p],https://test.zapi.us.kg/?id=ktvhd
 LISTENONSPOTIFY[720p],http://61.221.215.25:8800/hls/58/index.m3u8
 MTVLive[720p],https://test.zapi.us.kg/?id=mtvlive
@@ -106,7 +109,6 @@ USFOXWeather[720p],http://doubleclicktv.live:80/70376812/52663544/994
 USFOX[720p],http://doubleclicktv.live:80/70376812/52663544/253196
 USLiveNOWfromFOX[720p],http://doubleclicktv.live:80/70376812/52663544/993
 USStarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
-VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 ViuTV6[1080p],https://test.zapi.us.kg/?id=viutv6
 ViuTV[720p],https://test.zapi.us.kg/?id=viutv
 W-Sport[720p],https://test.zapi.us.kg/?id=w-sport
@@ -115,10 +117,9 @@ ZeeCinemaHD[720p],https://test.zapi.us.kg/?id=zeecinemahd
 ZeeTamil[720p],https://test.zapi.us.kg/?id=zeetamil
 nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 tvN[720p],https://test.zapi.us.kg/?id=tvn
-三立台湾台[1080p],https://test.zapi.us.kg/?id=settv-taiwan
-三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
+三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
+三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
-东森戏剧[1080p],https://test.zapi.us.kg/?id=ebc-drama
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
 东森电影[720p],https://test.zapi.us.kg/?id=ebc-movie
 东森财经新闻[720p],https://test.zapi.us.kg/?id=ebc-finance
@@ -127,8 +128,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中天亚洲[720p],https://test.zapi.us.kg/?id=cti-asia
 中天娱乐[720p],https://test.zapi.us.kg/?id=cti-yule
-中天综合[1080p],https://test.zapi.us.kg/?id=ctitv36
-中视[720p],https://test.zapi.us.kg/?id=ctv
 中视[720p],rtmp://f13h.mine.nu/sat/tv091
 中视新闻[720p],https://test.zapi.us.kg/?id=ctv-news
 中视菁采台[720p],https://test.zapi.us.kg/?id=bravo
@@ -150,6 +149,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 公视3台[720p],https://test.zapi.us.kg/?id=pts-3
 公视[720p],https://test.zapi.us.kg/?id=pts
 公视台语台[720p],https://test.zapi.us.kg/?id=pts-ty
+公视戏剧[720p],https://test.zapi.us.kg/?id=gsxj
 凤凰中文[720p],https://test.zapi.us.kg/?id=phtv-cn
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰资讯[720p],https://test.zapi.us.kg/?id=phtv-info
@@ -225,7 +225,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 番薯台[1080p],http://61.216.67.119:1935/TWHG/E1/playlist.m3u8
 神州新闻台[720p],https://edge6a.v2h-cdn.com/mainland/mainland.stream/chunklist.m3u8
 红牛[720p],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-纬来体育[720p],https://test.zapi.us.kg/?id=videoland-sport
+纬来体育[1080p],https://test.zapi.us.kg/?id=videoland-sport
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
 纬来日本[720p],https://test.zapi.us.kg/?id=videoland-japan
@@ -247,5 +247,4 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 香港33台[1080p],https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 香港34台[1080p],https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 香港35台[1080p],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-龙华戏剧[720p],http://37.27.111.214:8080/live/41/hls.m3u8
 龙祥电影台[1080p],https://test.zapi.us.kg/?id=lstime
