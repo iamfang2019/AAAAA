@@ -12,7 +12,7 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 影迷数位纪实台[720p],http://37.27.111.214:8080/live/92/hls.m3u8
 影迷数位纪实台[720p],https://test.zapi.us.kg/?id=ymswjst
 影迷数字电影台[1080p],https://test.zapi.us.kg/?id=fans-cinema
-翡翠凤凰影视[1080p],https://lunbo.freetv.top/yy/1354926666
+翡翠凤凰影视[720p],https://lunbo.freetv.top/yy/1354926666
 采昌影剧台[1080p],https://test.zapi.us.kg/?id=caichang
 重温经典[1080p],http://120.76.248.139/live/bfgd/4200000635.m3u8
 龙华戏剧台[720p],https://test.zapi.us.kg/?id=ltv-xiju
@@ -21,7 +21,6 @@ TVB千禧经典台[720p],https://test.zapi.us.kg/?id=tvb-classic
 8TV[720p],https://test.zapi.us.kg/?id=8tv
 AXN[720p],https://test.zapi.us.kg/?id=axn
 AstroPremier[720p],https://test.zapi.us.kg/?id=astropremier
-BBCEarth[720p],https://test.zapi.us.kg/?id=bbcearth
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 BeritaRTM[1080p],https://test.zapi.us.kg/?id=beritartm
 Bloomberg[720p],https://test.zapi.us.kg/?id=bloomberg
@@ -145,7 +144,7 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 三立台湾台[720p],https://test.zapi.us.kg/?id=settv-taiwan
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合台[720p],https://test.zapi.us.kg/?id=settv-zonghe
-三立都会台[720p],https://test.zapi.us.kg/?id=settv-city
+三立都会台[1080p],https://test.zapi.us.kg/?id=settv-city
 东森幼幼台[1080p],https://test.zapi.us.kg/?id=ebc-yoyo
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],https://test.zapi.us.kg/?id=ebc-emovie
@@ -270,7 +269,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 港石金曲[720p],http://61.221.215.25:8800/hls/49/index.m3u8
 澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/index.m3u8
 澳视澳门[720p],http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-澳视澳门[720p],https://test.zapi.us.kg/?id=tdm
 澳门体育[720p],http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
 澳门综艺[720p],http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
 澳门莲花台[720p],http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
@@ -292,7 +290,6 @@ tvN[720p],https://test.zapi.us.kg/?id=tvn
 纬来戏剧[720p],https://test.zapi.us.kg/?id=videoland-drama
 纬来日本[720p],https://test.zapi.us.kg/?id=videoland-japan
 纬来精采[720p],http://61.221.215.25:8800/hls/48/index.m3u8
-纬来综合[720p],https://test.zapi.us.kg/?id=videoland
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
