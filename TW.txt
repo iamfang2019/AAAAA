@@ -56,7 +56,9 @@ TVB翡翠台[720p],https://test.zapi.us.kg/?id=golden-jade
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
 八大娱乐[720p],https://test.zapi.us.kg/?id=gtv-86
 八大戏剧[720p],https://test.zapi.us.kg/?id=gtv-41
+八大第一[720p],https://test.zapi.us.kg/?id=gtv27
 八大精彩台[1080p],https://test.zapi.us.kg/?id=gtv-jct
+八大综合[720p],https://test.zapi.us.kg/?id=gtv28
 八大综艺[1080p],https://test.zapi.us.kg/?id=grt
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 公视戏剧[720p],https://test.zapi.us.kg/?id=gsxj
