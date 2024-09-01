@@ -42,6 +42,7 @@ momo[720p],http://37.27.111.214:8080/live/3/hls.m3u8
 nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+东森戏剧[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
@@ -89,10 +90,10 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 民视台湾[720p],http://37.27.111.214:8080/live/5/hls.m3u8
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
+环宇新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
 电视剧[720p],http://37.27.111.214:8080/live/108/hls.m3u8
-纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来综合[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
