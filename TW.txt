@@ -60,7 +60,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
-凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 动漫2[720p],http://37.27.111.214:8080/live/106/hls.m3u8
 动漫[720p],http://37.27.111.214:8080/live/105/hls.m3u8
@@ -77,6 +76,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良综合台[1080p],http://60.248.91.20:8000/main
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
+年代新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
