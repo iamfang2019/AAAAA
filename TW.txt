@@ -38,7 +38,6 @@ LUXE[720p],http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
 MCE[720p],http://37.27.111.214:8080/live/98/hls.m3u8
 MCE[720p],http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
 PETCLUB[720p],http://37.27.111.214:8080/live/81/hls.m3u8
-PETCLUB[720p],http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
 ROCKACTION[720p],http://37.27.111.214:8080/live/94/hls.m3u8
 ROCKACTION[720p],http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
 ROCK[720p],http://37.27.111.214:8080/live/70/hls.m3u8
@@ -103,6 +102,7 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇台湾[720p],http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
 寰宇财经[720p],http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
+年代新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8529/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 幸福空间[720p],http://shuma004.chunfengyun.top:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
