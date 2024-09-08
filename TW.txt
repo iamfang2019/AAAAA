@@ -26,6 +26,7 @@ FESTIVAL[720p],http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
 GOOD2[720p],http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD2[720p],http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
 HISTORY[720p],http://37.27.111.214:8080/live/27/hls.m3u8
+HISTORY[720p],http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
 HITS[720p],http://37.27.111.214:8080/live/28/hls.m3u8
 HITS[720p],http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
 HakkaTV[720p],http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
@@ -54,6 +55,7 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
@@ -70,10 +72,12 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立综合[720p],http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
+东森戏剧[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8530/.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
 东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
+东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
@@ -113,6 +117,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 哆啦A梦[720p],http://37.27.111.214:8080/live/107/hls.m3u8
 哆啦A梦[720p],http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
+壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良综合台[1080p],http://60.248.91.20:8000/main
 好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
