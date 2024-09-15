@@ -45,6 +45,7 @@ MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 MTV[720p],http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
 Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 Nickelodeon[720p],http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
+PETCLUB[720p],http://37.27.111.214:8080/live/81/hls.m3u8
 PETCLUB[720p],http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
 ROCKACTION[720p],http://37.27.111.214:8080/live/94/hls.m3u8
 ROCKACTION[720p],http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
@@ -54,7 +55,6 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
-TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
@@ -118,7 +118,9 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 卫视西片[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
 哆啦A梦[720p],http://37.27.111.214:8080/live/107/hls.m3u8
 哆啦A梦[720p],http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
+壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+天良综合台[1080p],http://60.248.91.20:8000/main
 好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇台湾[720p],http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
@@ -136,6 +138,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 東森新聞[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 民视[720p],http://37.27.111.214:8080/live/6/hls.m3u8
 民视[720p],http://shuma004.chunfengyun.top:8080/live/6/hls.m3u8
+民视台湾[720p],http://37.27.111.214:8080/live/5/hls.m3u8
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮[720p],http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
