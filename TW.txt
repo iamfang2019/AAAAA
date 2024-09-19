@@ -72,6 +72,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 三立综合[720p],http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
 东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
@@ -95,7 +96,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 公视戏剧[720p],http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
-凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰卫视[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 凤凰香港[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
