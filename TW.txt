@@ -1,6 +1,7 @@
 港澳频道,#genre#
 AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 CMUSIC音乐台[720p],http://37.27.111.214:8080/live/72/hls.m3u8
+US|AMCWest[720p],http://doubleclicktv.live:80/70376812/52663544/295775
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 中视经典[720p],http://37.27.111.214:8080/live/47/hls.m3u8
 中视经典[720p],http://shuma004.chunfengyun.top:8080/live/47/hls.m3u8
@@ -28,6 +29,8 @@ FESTIVAL[720p],http://37.27.111.214:8080/live/83/hls.m3u8
 FESTIVAL[720p],http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
 GOOD2[720p],http://37.27.111.214:8080/live/99/hls.m3u8
 GOOD2[720p],http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
+HISTORY[720p],http://37.27.111.214:8080/live/27/hls.m3u8
+HISTORY[720p],http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
 HITS[720p],http://37.27.111.214:8080/live/28/hls.m3u8
 HITS[720p],http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
 HakkaTV[720p],http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
@@ -142,10 +145,10 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯运动1[720p],http://shuma004.chunfengyun.top:8080/live/14/hls.m3u8
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
+卫视西片[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
 台视新闻[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv051
 哆啦A梦[720p],http://37.27.111.214:8080/live/107/hls.m3u8
 哆啦A梦[720p],http://shuma004.chunfengyun.top:8080/live/107/hls.m3u8
-壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
 大爱1[720p],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -191,7 +194,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 电视剧[720p],http://shuma004.chunfengyun.top:8080/live/108/hls.m3u8
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
-纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来综合[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
