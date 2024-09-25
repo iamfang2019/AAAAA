@@ -51,7 +51,6 @@ MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 MTV[720p],http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
 Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 Nickelodeon[720p],http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
-Now星影台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKhKooVmxbSjHc3CHgqyEsaE/.m3u8
 PETCLUB[720p],http://37.27.111.214:8080/live/81/hls.m3u8
 PETCLUB[720p],http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
 ROCKACTION[720p],http://37.27.111.214:8080/live/94/hls.m3u8
@@ -62,15 +61,11 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
-TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
-TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
-TVB明珠台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs3NGNIcqABaNKAUi67bA9Y/.m3u8
-TVB翡翠台4K测试[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
-TVB翡翠台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuwvEDnUT3dm7ytVCbr62Ow/.m3u8
+TVB翡翠台4K测试[2160p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 TiTV[720p],http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
 US|StarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
@@ -124,6 +119,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 公视戏剧[720p],http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
 凤凰中文[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKjsHpwHNZDHE5L_aeueDLys/.m3u8
+凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰卫视[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视中文台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmy2cCp_f3VN4plMYS70Xnw/.m3u8
 凤凰卫视资讯台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKm1g6xmhPbXF9bt061UmS1s/.m3u8
@@ -172,7 +168,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
 天良综合台[1080p],http://60.248.91.20:8000/main
-好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 寰宇台湾[720p],http://37.27.111.214:8080/live/63/hls.m3u8
 寰宇台湾[720p],http://shuma004.chunfengyun.top:8080/live/63/hls.m3u8
 寰宇财经[720p],http://shuma004.chunfengyun.top:8080/live/65/hls.m3u8
