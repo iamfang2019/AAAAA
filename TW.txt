@@ -62,13 +62,14 @@ TECHSTORM[720p],http://37.27.111.214:8080/live/80/hls.m3u8
 TECHSTORM[720p],http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TV5MONDE[720p],http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS[720p],http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
 TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TVB明珠台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKs3NGNIcqABaNKAUi67bA9Y/.m3u8
-TVB翡翠台4K测试[2160p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
+TVB翡翠台4K测试[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
 TVB翡翠台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKuwvEDnUT3dm7ytVCbr62Ow/.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 TiTV[720p],http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
@@ -87,6 +88,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 三立综合[720p],http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
+东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
 东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
@@ -122,7 +124,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 公视戏剧[720p],http://37.27.111.214:8080/live/87/hls.m3u8
 公视戏剧[720p],http://shuma004.chunfengyun.top:8080/live/87/hls.m3u8
 凤凰中文[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKjsHpwHNZDHE5L_aeueDLys/.m3u8
-凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰卫视[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视中文台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKmy2cCp_f3VN4plMYS70Xnw/.m3u8
 凤凰卫视资讯台[1080p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKm1g6xmhPbXF9bt061UmS1s/.m3u8
@@ -198,6 +199,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮[720p],http://shuma004.chunfengyun.top:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv006
+环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电视剧2[720p],http://37.27.111.214:8080/live/109/hls.m3u8
 电视剧2[720p],http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
 电视剧3[720p],http://37.27.111.214:8080/live/111/hls.m3u8
@@ -207,6 +209,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来体育[720p],rtmp://twcdn.top/sat/tv721
+纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来日本[720p],rtmp://twcdn.top/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
