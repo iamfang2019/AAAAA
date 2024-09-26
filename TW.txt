@@ -68,7 +68,6 @@ TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TVB翡翠台4K测试[2160p],http://38.46.221.138:80/play/bP3gOc5Zx4Ta2V7BzZrTKokzyjN_QM26tQ2LbDHjWb8/.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 TiTV[720p],http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
-US|StarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
 VOA[720p],http://37.27.111.214:8080/live/45/hls.m3u8
 VOA[720p],http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
 elta生活旅游[720p],http://37.27.111.214:8080/live/85/hls.m3u8
@@ -79,12 +78,12 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 三立新闻[1080p],http://211.72.65.236:8543/.m3u8
+三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 三立综合[720p],http://shuma004.chunfengyun.top:8080/live/31/hls.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻[720p],http://shuma004.chunfengyun.top:8080/live/20/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/61/hls.m3u8
 东森购物[720p],http://37.27.111.214:8080/live/66/hls.m3u8
-东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
 中天娱乐[720p],http://61.221.215.25:8800/hls/47/index.m3u8
@@ -94,6 +93,8 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 中视[720p],rtmp://f13h.mine.nu/sat/tv091
 中视新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv074
 中视菁采台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv064
+中视青采[720p],http://37.27.111.214:8080/live/48/hls.m3u8
+中视青采[720p],http://shuma004.chunfengyun.top:8080/live/48/hls.m3u8
 互动英语[720p],http://37.27.111.214:8080/live/54/hls.m3u8
 互动英语[720p],http://shuma004.chunfengyun.top:8080/live/54/hls.m3u8
 亚洲卫视[1080p],http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
@@ -199,7 +200,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来日本[720p],rtmp://twcdn.top/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
-纬来综合[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 纬来育乐[720p],rtmp://twcdn.top/sat/tv701
 综艺[720p],http://37.27.111.214:8080/live/67/hls.m3u8
