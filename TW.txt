@@ -22,7 +22,6 @@ Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 US|StarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
@@ -31,6 +30,7 @@ momo[720p],http://37.27.111.214:8080/live/3/hls.m3u8
 nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
+三立新闻[1080p],http://211.72.65.236:8543/.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
@@ -55,6 +55,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大第1台[720p],http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv039
+凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰卫视[720p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯[720p],http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -87,7 +88,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
 天良综合台[1080p],http://60.248.91.20:8000/main
-好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
@@ -102,6 +102,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 民视闽南台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv002
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv006
+环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来体育[720p],rtmp://twcdn.top/sat/tv721
