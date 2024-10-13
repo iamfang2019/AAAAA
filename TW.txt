@@ -1,6 +1,7 @@
 港澳频道,#genre#
 AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 AMC音乐[1080p],https://AMChls.wns.live/hls/stream.m3u8
+US|AMCWest[720p],http://doubleclicktv.live:80/70376812/52663544/295775
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 台湾戏剧台[1080p],https://litv.zapi.us.kg/?id=litv-longturn22
 采昌影剧台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv049
@@ -20,7 +21,6 @@ Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
-TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 US|StarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
@@ -73,6 +73,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
+卫视西片[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
 台视新闻[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv051
 壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -105,7 +106,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来体育[720p],rtmp://twcdn.top/sat/tv721
-纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来日本[720p],rtmp://twcdn.top/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
