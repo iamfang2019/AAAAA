@@ -19,6 +19,7 @@ LISTENONSPOTIFY[720p],http://61.221.215.25:8800/hls/58/index.m3u8
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
@@ -75,6 +76,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 卫视西片[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
 台视新闻[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv051
+壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
 大爱1[720p],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -87,6 +89,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
 天良综合台[1080p],http://60.248.91.20:8000/main
+好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
