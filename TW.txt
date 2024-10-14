@@ -21,6 +21,7 @@ Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
 TVBS欢乐台[720p],http://37.27.111.214:8080/live/24/hls.m3u8
 TiTV[720p],http://37.27.111.214:8080/live/2/hls.m3u8
 US|StarMovies[1080p],http://doubleclicktv.live/70376812/52663544/276996
@@ -94,7 +95,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 民视[720p],rtmp://f13h.mine.nu/sat/tv051
 民视台湾[720p],http://37.27.111.214:8080/live/5/hls.m3u8
 民视台湾台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv001
-民视台湾台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv156
 民视第一[720p],http://37.27.111.214:8080/live/4/hls.m3u8
 民视第一台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv003
 民视综艺台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv004
@@ -105,7 +105,6 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
 纬来体育[720p],rtmp://twcdn.top/sat/tv721
-纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来日本[720p],rtmp://twcdn.top/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
