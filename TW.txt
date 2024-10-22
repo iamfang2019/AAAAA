@@ -1,5 +1,6 @@
 港澳频道,#genre#
 AMC音乐[1080p],https://AMChls.wns.live/hls/stream.m3u8
+US|AMCWest[720p],http://doubleclicktv.live:80/70376812/52663544/295775
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 台湾戏剧台[1080p],https://litv.zapi.us.kg/?id=litv-longturn22
 采昌影剧台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv049
@@ -27,7 +28,6 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 三立新闻[1080p],http://211.72.65.236:8543/.m3u8
-三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森超视[720p],rtmp://f13h.mine.nu/sat/tv331
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
@@ -51,6 +51,7 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 八大综合台[720p],http://61.221.215.25:8800/hls/56/index.m3u8
 八大综艺台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv039
 凤凰卫视[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰资讯[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 动物星球[720p],http://61.221.215.25:8800/hls/57/index.m3u8
 动画台[720p],http://37.27.111.214:8080/live/57/hls.m3u8
@@ -63,6 +64,8 @@ tvbs新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 华视新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv052
 博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
 博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
+卫视西片[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8583/.m3u8
+壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
 大爱1[720p],https://pulltv2.wanfudaluye.com/live/tv1.m3u8
