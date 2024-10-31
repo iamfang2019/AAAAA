@@ -9,13 +9,15 @@ US|AMCWest[720p],http://doubleclicktv.live:80/70376812/52663544/295775
 
 BLOOMBERG[720p],http://37.27.111.214:8080/live/34/hls.m3u8
 CAT电影台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv076
+CINEMAWORLD[720p],http://37.27.111.214:8080/live/30/hls.m3u8
 CNBC[720p],http://37.27.111.214:8080/live/102/hls.m3u8
 DWNEWS[720p],http://37.27.111.214:8080/live/46/hls.m3u8
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
+HISTORY[720p],http://37.27.111.214:8080/live/27/hls.m3u8
+HITS[720p],http://37.27.111.214:8080/live/28/hls.m3u8
 LISTENONSPOTIFY[720p],http://61.221.215.25:8800/hls/58/index.m3u8
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
-TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
@@ -59,6 +61,7 @@ tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 华视新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv052
 博斯无限[720p],http://37.27.111.214:8080/live/15/hls.m3u8
 博斯运动1[720p],http://37.27.111.214:8080/live/14/hls.m3u8
+博斯高球1[720p],http://37.27.111.214:8080/live/13/hls.m3u8
 台视新闻[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv051
 壹新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
 大爱1[720p],https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -89,6 +92,7 @@ tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
+纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
