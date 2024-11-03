@@ -19,6 +19,7 @@ LISTENONSPOTIFY[720p],http://61.221.215.25:8800/hls/58/index.m3u8
 MTV[720p],http://37.27.111.214:8080/live/25/hls.m3u8
 Nickelodeon[720p],http://37.27.111.214:8080/live/12/hls.m3u8
 TV5MONDE[720p],http://37.27.111.214:8080/live/9/hls.m3u8
+TVBSHD[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS[720p],http://37.27.111.214:8080/live/23/hls.m3u8
 TVBS新闻[1080p],http://211.72.65.236:8574/.m3u8
@@ -31,7 +32,6 @@ nhkworld[720p],http://61.221.215.25:8800/hls/51/index.m3u8
 nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 三立新闻[1080p],http://211.72.65.236:8543/.m3u8
-三立新闻[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森财经[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8546/.m3u8
 东森超视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8525/.m3u8
@@ -61,6 +61,7 @@ tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 凤凰卫视[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8
 凤凰资讯[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 动物星球[720p],http://61.221.215.25:8800/hls/57/index.m3u8
+动画台[720p],http://37.27.111.214:8080/live/57/hls.m3u8
 半岛新闻[1080p],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻[1080p],https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻[720p],https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -85,6 +86,7 @@ tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
 天良综合台[1080p],http://60.248.91.20:8000/main
+好莱坞电影[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
