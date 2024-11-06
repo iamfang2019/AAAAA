@@ -1,6 +1,7 @@
 港澳频道,#genre#
 AMC电影台[720p],http://61.221.215.25:8800/hls/43/index.m3u8
 AMC音乐[1080p],https://AMChls.wns.live/hls/stream.m3u8
+US|AMCWest[720p],http://doubleclicktv.live:80/70376812/52663544/295775
 三立戏剧台[720p],http://61.221.215.25:8800/hls/41/index.m3u8
 台湾戏剧台[720p],https://litv.zapi.us.kg/?id=litv-longturn22
 采昌影剧台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv049
@@ -95,10 +96,8 @@ tvbs新闻台[720p],https://litv.zapi.us.kg/?id=4gtv-4gtv072
 环球电视[720p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 神乐影院[1080p],http://zzy789.xyz/douyu1.php?id=122402
 纬来体育[720p],rtmp://f13h.mine.nu/sat/tv721
-纬来日本[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
 纬来日本[720p],rtmp://f13h.mine.nu/sat/tv771
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
-纬来综合[1080p],http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8518/.m3u8
 纬来育乐[720p],rtmp://f13h.mine.nu/sat/tv701
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 翡翠台[1080p],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
