@@ -19,6 +19,7 @@ CBSNews[720p],http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E70035189700
 CINEMAWORLD[720p],http://37.27.111.214:8080/live/30/hls.m3u8
 CNBC[720p],http://37.27.111.214:8080/live/102/hls.m3u8
 CNBC[720p],http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+CN卡通[1080p],http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
 Cinemax[1080p],http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
 DWNEWS[720p],http://37.27.111.214:8080/live/46/hls.m3u8
 Dbox[720p],http://61.221.215.25:8800/hls/54/index.m3u8
@@ -53,10 +54,9 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 三立新闻[1080p],http://211.72.65.236:8543/.m3u8
 三立综合[720p],http://37.27.111.214:8080/live/31/hls.m3u8
 三立综合[720p],http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-东森新闻[1080p],http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MD8D8672451386724513&ct=19234&tsum=d08fdb1dd5078503ffd859a065bc9290
 东森新闻[720p],http://37.27.111.214:8080/live/20/hls.m3u8
 东森洋片[1080p],http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-东森综合[1080p],http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+东森电影[1080p],http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 东森财经[720p],http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
 东森财经新闻[720p],http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
 中华小当家[720p],http://61.221.215.25:8800/hls/40/index.m3u8
@@ -66,6 +66,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 中天新闻[1080p],http://211.72.65.236:8541/.m3u8
 中天综合[1080p],http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
 中视[720p],http://37.27.111.214:8080/live/7/hls.m3u8
+中视新闻[720p],http://50.7.234.10:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
 中视新闻台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv074
 互动英语[720p],http://37.27.111.214:8080/live/54/hls.m3u8
 亚洲卫视[1080p],http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
@@ -89,7 +90,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 公视[720p],http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 公视[720p],http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 凤凰卫视[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯[1080p],http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 动物星球[720p],http://61.221.215.25:8800/hls/57/index.m3u8
 半岛新闻[1080p],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻[1080p],https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -113,8 +113,6 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 大爱2[720p],https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2[720p],https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-天良[1080p],http://60.248.91.20:8000/main
-天良综合台[1080p],http://60.248.91.20:8000/main
 好消息2[720p],http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
 好莱坞电影[1080p],http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 好莱坞电影[1080p],http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
@@ -123,6 +121,7 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 幸福空间[720p],http://37.27.111.214:8080/live/26/hls.m3u8
 探案台[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 探索亚洲[720p],http://61.221.215.25:8800/hls/50/index.m3u8
+新加坡8[720p],http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
 星卫电影[720p],http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 星卫电影[720p],http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 民视[720p],http://37.27.111.214:8080/live/6/hls.m3u8
@@ -135,13 +134,13 @@ nickjr[720p],http://37.27.111.214:8080/live/22/hls.m3u8
 民视第一台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv003
 民视综艺台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv004
 民视闽南台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv002
+爱尔达体育2[720p],http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
 猪哥亮[720p],http://37.27.111.214:8080/live/35/hls.m3u8
 猪哥亮歌厅秀[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv006
 环球电视[1080p],http://zb.xzxwhcb.com:9999/hls/world.m3u8
 电影[720p],http://37.27.111.214:8080/live/11/hls.m3u8
 纬来精彩[720p],http://61.221.215.25:8800/hls/48/index.m3u8
 美亚C+[1080p],http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-翡翠台[1080p],http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 镜新闻[720p],http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 靖天卡通台[1080p],https://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天国际[720p],http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
