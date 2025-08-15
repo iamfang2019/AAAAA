@@ -101,6 +101,7 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 東森超視HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8520/live1172.m3u8
 東森電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8536/live1188.m3u8
 東森電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8536/live1188.m3u8
+松視3[1080p],http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
 松視一台 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8559/live1211.m3u8
 松視一台 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8559/live1211.m3u8
 松視二台HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8561/live1213.m3u8
