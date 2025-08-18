@@ -36,6 +36,7 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 中視HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8812/live1033.m3u8
 中視新聞HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8875/live1100.m3u8
 中視新聞HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8875/live1100.m3u8
+中視經典[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8511/live1144.m3u8
 中視經典[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8511/live1144.m3u8
 中視菁采[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8512/live1145.m3u8
 中視菁采[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8512/live1145.m3u8
@@ -43,6 +44,7 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 亚洲新闻[720p],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 人间卫视[720p],http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视[720p],https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+信吉電視 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8544/live1196.m3u8
 信吉電視 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8544/live1196.m3u8
 信大電視 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8547/live1199.m3u8
 信大電視 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8547/live1199.m3u8
@@ -74,6 +76,7 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 台視綜合[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8506/live1139.m3u8
 台視財經[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8508/live1140.m3u8
 台視財經[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8508/live1140.m3u8
+壹新聞HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8820/live1021.m3u8
 壹新聞HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8820/live1021.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
@@ -106,6 +109,7 @@ TVBSNEWS[720p],http://61.221.215.25:8800/hls/9/index.m3u8
 東森超視HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8520/live1172.m3u8
 東森電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8536/live1188.m3u8
 東森電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8536/live1188.m3u8
+松視3[1080p],http://15.204.105.50:25461/G2s9zK2n9m/ezvrFwxGfA/90
 松視一台 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8559/live1211.m3u8
 松視一台 HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8559/live1211.m3u8
 松視二台HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8561/live1213.m3u8
