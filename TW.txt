@@ -36,12 +36,9 @@ cinema world HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=
 中天娱乐[720p],http://61.221.215.25:8800/hls/47/index.m3u8
 中天新聞 HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8513/live1165.m3u8
 中天綜合 HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8522/live1174.m3u8
-中天綜合 HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8522/live1174.m3u8
 中視HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8812/live1033.m3u8
 中視HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8812/live1033.m3u8
-中視新聞HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8875/live1100.m3u8
 中視新聞HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8875/live1100.m3u8
-中視經典[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8511/live1144.m3u8
 中視經典[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8511/live1144.m3u8
 中視菁采[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8512/live1145.m3u8
 中視菁采[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8512/live1145.m3u8
@@ -133,9 +130,7 @@ cinema world HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=
 美亞電影-粵語[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8554/live1206.m3u8
 美亞電影-粵語[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8554/live1206.m3u8
 華納電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8538/live1190.m3u8
-華納電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8538/live1190.m3u8
 華視HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8813/live1036.m3u8
-華視HD[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8813/live1036.m3u8
 華視教育文化HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8503/live1135.m3u8
 華視教育文化HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8503/live1135.m3u8
 華視新聞HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8874/live1099.m3u8
