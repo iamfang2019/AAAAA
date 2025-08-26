@@ -147,5 +147,6 @@ cinema world HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=
 香蕉台[1080p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8566/live1218.m3u8
 香蕉台[1080p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8566/live1218.m3u8
 龍翔電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=59.125.210.231&url=http://59.125.210.231:8528/live1180.m3u8
+龍翔電影HD[720p],http://hk.mushui.tk/mqlive/live.php?ip=60.248.127.232&url=http://60.248.127.232:8528/live1180.m3u8
 ﻿番薯[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 ﻿番薯[1080p],http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
