@@ -22,6 +22,7 @@ momo[1080p],http://37.27.111.214:8080/live/3/hls.m3u8
 半岛新闻[720p],https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 大立电视[720p],http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 天良[1080p],http://60.248.91.20:8000/main
+天良综合台[1080p],http://60.248.91.20:8000/main
 民视[1080p],http://37.27.111.214:8080/live/6/hls.m3u8
 民视台湾[1080p],http://37.27.111.214:8080/live/5/hls.m3u8
 民视第一[1080p],http://37.27.111.214:8080/live/4/hls.m3u8
